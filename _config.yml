@@ -1,4 +1,4 @@
-theme: minima
+theme: jekyll-theme-dinky
 plugins:
   - jekyll-relative-links
 relative_links:
