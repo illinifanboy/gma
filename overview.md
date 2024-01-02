@@ -3,4 +3,6 @@ layout: page
 title: Overview
 ---
 ## Much to do.
-{{ page.path }}
+<pre>
+{{ page | inspect }}
+</pre>
