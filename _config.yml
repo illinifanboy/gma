@@ -8,6 +8,6 @@ include:
   - index.md
   - README.md
 header_pages:
+  - index.md
   - overview.md
-  - README.md
   - recipes/desserts/richmond.md
