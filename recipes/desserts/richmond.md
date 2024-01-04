@@ -2,6 +2,15 @@
 layout: page
 title: Richmond Chocolate Frosting
 ---
+
+Ingredient | Measurement, Weight | Notes
+
+---|---|----
+
+Bread Flour | 1153 grams | Pref. King Arthur or Robin Hood
+Water (58%) | 670 grams | Room Temperature
+
+***
 # Chai Tea Concentrate
 
 > This home made chai #tea concentrate is perfect for #chai lattes, either hot or over ice. Mixes well with whole milk or almond milk. #welcome
