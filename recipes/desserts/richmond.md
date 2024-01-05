@@ -7,10 +7,6 @@ Ingredients???
 -----------
 
 
-<details>
-
-<summary>Ingredients</summary>
-
 Ingredients
 ===
 
@@ -21,7 +17,6 @@ Ingredient | Measurement, Weight | Notes
 Bread Flour | 1153 grams | Pref. King Arthur or Robin Hood
 Water (58%) | 670 grams | Room Temperature
 
-</details>
 <br />
 
 Primary Header
