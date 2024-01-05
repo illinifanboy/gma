@@ -3,7 +3,7 @@ layout: page
 title: Richmond Chocolate Frosting
 ---
 
-Ingredients
+Ingredients???
 -----------
 <img width="1604" alt="Ingredients" src="https://illinifanboy.github.io/assets/images/recipes/richmond/richmond-ingredients.jpg">
 
