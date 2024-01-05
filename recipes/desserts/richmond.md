@@ -3,6 +3,11 @@ layout: page
 title: Richmond Chocolate Frosting
 ---
 
+Ingredients
+-----------
+<img width="1604" alt="Ingredients" src="https://illinifanboy.github.io/assets/images/recipes/richmond/richmond-ingredients.jpg">
+
+
 Ingredient | Measurement, Weight | Notes
 ---|---|----
 Bread Flour | 1153 grams | Pref. King Arthur or Robin Hood
