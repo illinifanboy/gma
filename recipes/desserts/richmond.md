@@ -5,13 +5,24 @@ title: Richmond Chocolate Frosting
 
 Ingredients???
 -----------
-<img width="1604" alt="Ingredients" src="https://illinifanboy.github.io/assets/images/recipes/richmond/richmond-ingredients.jpg">
 
+
+<details>
+
+<summary>Ingredients</summary>
+
+Ingredients
+===
+
+<img width="1604" alt="Ingredients" src="https://illinifanboy.github.io/assets/images/recipes/richmond/richmond-ingredients.jpg">
 
 Ingredient | Measurement, Weight | Notes
 ---|---|----
 Bread Flour | 1153 grams | Pref. King Arthur or Robin Hood
 Water (58%) | 670 grams | Room Temperature
+
+</details>
+<br />
 
 Primary Header
 ==============
@@ -71,3 +82,10 @@ Strain out the spices and pour the concentrate into a jar to store.
 You can add some honey to taste. I usually add one or two spoonfuls to the mixture. Start with one and add more to taste.
 
 > Experiment with the ratio of spices. I find that I like it heavier on cloves and cinnamon. A little ginger goes a long way.
+
+
+<!---
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+| now is the time | <img width="1604" alt="Ingredients" src="https://illinifanboy.github.io/assets/images/recipes/richmond/richmond-ingredients.jpg"> |
+-->
