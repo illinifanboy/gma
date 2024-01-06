@@ -8,6 +8,8 @@ title: Richmond Chocolate Frosting
 > A creamy, smooth, chocolate frosting for sheet cakes.
 
 <img alt="Iced Cake" src="https://illinifanboy.github.io/assets/images/recipes/richmond/icedcake.jpg">
+<img alt="Original Recipe" src="https://illinifanboy.github.io/assets/images/recipes/richmond/richmondoriginal.jpg">
+
 
 ## Steve's Review  
 It's a good tasting chocolate frosting.  This frosting has a different texture than your run of the mill buttercream.  It's cooked from normal sugar.  In almost pours on and creates a shiny coat.  It is a little liquid.  That must be why it is meant for sheet cakes.  This recipe makes an okay thickness of frosting once spread.  I may double the recipe next time.    
