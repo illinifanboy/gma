@@ -16,7 +16,7 @@ It's a good tasting chocolate frosting.  This frosting has a different texture t
 
 ### Grandma's Handwritten Recipe
 
-<img alt="Original Recipe" src="https://illinifanboy.github.io/assets/images/recipes/richmond/richmondoriginal.jpg">
+<img width="720"  alt="Original Recipe" src="https://illinifanboy.github.io/assets/images/recipes/richmond/richmondoriginal.jpg">
 
 
 I wish I could tell stories about how my Grandmother served us this recipe, but I can't.  Her dessert choices tended toward pies, cookies, and cheesecake.  She didn't make cakes, so I don't remember her serving us this cake frosting.
@@ -25,77 +25,51 @@ I wish I could tell stories about how my Grandmother served us this recipe, but 
 
 ### Ingredients
 
-<img width="1604" alt="Ingredients" src="https://illinifanboy.github.io/assets/images/recipes/richmond/richmond-ingredients.jpg">
+<img width="720" alt="Ingredients" src="https://illinifanboy.github.io/assets/images/recipes/richmond/richmond-ingredients.jpg">
 
 Ingredient | Measurement, Weight | Notes
 ---|---|----
-Bread Flour | 1153 grams | Pref. King Arthur or Robin Hood
-Water (58%) | 670 grams | Room Temperature
+Sugar | 1/2 cup
+Cornstarch | 1-1/2 tbsp. 
+Unsweetened Chocolate | One 1 oz. square | shaved
+Salt | Pinch
+Water | 1/2 cup | boiling
+Butter | 1-1/2 tbsp.
+Vanilla | 1/2 tsp. 
 
-<br />
+### Steps
 
-Primary Header
-==============
+#### Start with a 13x9 Cake
 
-Secondary Header
------------
+Any sort of cake will do (e.g. boxed devils food or yellow cake).  Cool the cake before frosting.
 
-    Tabs create code blocks.
-        Double tab.
-    
+#### Mix Dry Ingrediates
 
-> So do > characters
->> These can be indented.
+In a small bowl, mix the dry ingredients: sugar, cornstarch, shaved chocoate, and salt.
 
-Support for the <font color="red">font / color</font> HTML tags.
+<img width="720" alt="Ingredients" src="https://illinifanboy.github.io/assets/images/recipes/richmond/richmond-pinchsalt.jpg">
 
-> :warning: **Warning:** Do not push the big red button.
+#### Bring Water to a Boil
 
-> :memo: **Note:** Sunrises are beautiful.
+In a medium pan or skillet, bring the water to a boil.
 
-> :bulb: **Tip:** Remember to appreciate the little things in life.
+#### Mix Dry Ingredients into the Boiling Water
 
-:smile:
+Slowly mix the dry ingredients into the boiling water.  Stir until smooth.
 
-# Chai Tea Concentrate
+#### Cook the Mixture Until Thickened
 
-> This home made chai #tea concentrate is perfect for #chai lattes, either hot or over ice. Mixes well with whole milk or almond milk. #welcome
+Cook and stir the boiling mixture until thick enough to spread.
 
-- Cinnamon | 2-3 Sticks | 
-- Cloves | 8-10 | 
-- Peppercorns | 5-10 | 
-- Cardamom | 7-10 Pods | 
-- Ginger | 1 slice fresh | 
-- Sugar | 2 Tbsp | Heaping
-- Tea | Black, 1 Tbsp | 
+#### Add Butter and Vanilla
 
-> It’s easiest to remove the tea later if the tea sits inside of its own steeping container.
+Remove the mixture from the heat.  Stir in butter until melted.  Mix in the vanilla.
 
-- Water | 2 Cups | 
+#### Spread the Hot Mixture on the Cake
 
-> Optional spices to add: nutmeg or vanilla bean.
+Pour the hot mixture onto the cake then spread it around.
 
-Add ingredients to a pot with a lid.
+#### Cool and Enjoy
 
-Raise to a boil quickly on high, 4 minutes [Raise to a Boil].
+Once the frosting has cooled, the cake is ready to eat.
 
-Simmer for 5 minutes [Simmering] on medium to low heat.
-
-Remove from heat and steep tea with spices for 5 minutes [Steeping Tea].
-
-Remove the tea from the pot (either with a strainer, or removing the pod tea is stored in) and let pot sit for 15 minutes [Infusing Spices] with spices.
-
-Strain out the spices and pour the concentrate into a jar to store.
-
-- Honey | 1 Tbsp | 
-
-You can add some honey to taste. I usually add one or two spoonfuls to the mixture. Start with one and add more to taste.
-
-> Experiment with the ratio of spices. I find that I like it heavier on cloves and cinnamon. A little ginger goes a long way.
-
-
-<!---
-| | | |
-|:-------------------------:|:-------------------------:|:-------------------------:|
-| now is the time | <img width="1604" alt="Ingredients" src="https://illinifanboy.github.io/assets/images/recipes/richmond/richmond-ingredients.jpg"> |
--->
