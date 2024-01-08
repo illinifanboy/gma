@@ -2,15 +2,14 @@
 layout: page
 title: Template Title
 blurb: A short, one-line introduction
+handwritten: richmond/icedcake.jpg
 ---
-
-# {{ page.title }}
 
 > {{ page.blurb }}
 
 Jump to **[\<Recipe\>](#recipe)**.
 
-<img alt="Iced Cake" src="https://illinifanboy.github.io/assets/images/recipes/richmond/icedcake.jpg">
+<img alt="Iced Cake" src="https://illinifanboy.github.io/assets/images/recipes/{{ page.handwritten }}">
 
 ### Steve's Review  
 It's a good tasting chocolate frosting.  This frosting has a different texture than your run-of-the-mill buttercream.  It's cooked from normal sugar.  It almost pours on and creates a shiny coat.  It is a little liquid.  That must be why it is meant for sheet cakes.  This recipe makes an okay thickness of frosting once spread.  I may double the recipe next time.    

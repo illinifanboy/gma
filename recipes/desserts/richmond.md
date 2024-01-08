@@ -3,8 +3,6 @@ layout: page
 title: Richmond Chocolate Frosting
 ---
 
-# Richmond Chocolate Frosting
-
 > A creamy, smooth, chocolate frosting for sheet cakes.
 
 Jump to **[\<Recipe\>](#recipe)**.
