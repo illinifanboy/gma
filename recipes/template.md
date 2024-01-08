@@ -56,7 +56,8 @@ Item Name | Amount | Notes
 Item Name | Amount | Notes
 Item Name | Amount | Notes
 Item Name | Amount | Notes
-{% for item in page.ingredients %}{{ item.name }} | {{ item.amount }} | {{ item.note }}{% endfor %}
+{% for item in page.ingredients %}{{ item.name }} | {{ item.amount }} | {{ item.note }}
+{% endfor %}
 
 ### Steps
 
