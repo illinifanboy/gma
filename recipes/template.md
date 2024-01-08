@@ -56,11 +56,7 @@ Item Name | Amount | Notes
 Item Name | Amount | Notes
 Item Name | Amount | Notes
 Item Name | Amount | Notes
-{% for item in page.ingredients %}
-{{ item.name }} | {{ item.amount }} | {{ item.note }}
-{% endfor %}
-
-
+{% for item in page.ingredients %}{{ item.name }} | {{ item.amount }} | {{ item.note }}{% endfor %}
 
 ### Steps
 
@@ -80,10 +76,7 @@ Step 1 text.
 
 {{ if (isset item.image ) }}
 <img width="480" alt="{{ item.title }}" src="https://illinifanboy.github.io/{{ item.image }}">
-
 {{ end }}
-
-
 {% endfor %}
 
 
