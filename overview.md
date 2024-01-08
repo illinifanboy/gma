@@ -10,7 +10,7 @@ In her kitchen was a sideboard.  On the top of that sideboard always sat two rin
 
 <img width="720" alt="Ingredients" src="https://illinifanboy.github.io/assets/images/general/twobooks.jpg">
 
-I now have these two binders.  I had them sitting in a box in a corner of my bedroom for it seems like a decade.  Before that, my syster had them.  Well, now I want to share parts of what she saved with you.
+I now have these two binders.  I had them sitting in a box in a corner of my bedroom for it seems like a decade.  Before that, my syster had them.  Well, now I want to share parts of what my Grandmother collected.
 
 This will be a very slow work in progress.  I plan try any recipe before I share it.  Just stay tuned and check back from time to time.
 

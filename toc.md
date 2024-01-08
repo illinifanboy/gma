@@ -11,7 +11,7 @@ description: Table of Contents
 
 **[2. Overview](overview.md)**
 
-**3. Recipies**
+**3. Recipes**
 
   * 3.1 Desserts
 
