@@ -53,23 +53,35 @@ In a small bowl, mix the dry ingredients: sugar, cornstarch, shaved chocoate, an
 
 In a medium pan or skillet, bring the water to a boil.
 
+<img width="720" alt="Ingredients" src="https://illinifanboy.github.io/assets/images/recipes/richmond/boilwater-sm.jpg">
+
 #### Mix Dry Ingredients into the Boiling Water
 
 Slowly mix the dry ingredients into the boiling water.  Stir until smooth.
+
+<img width="720" alt="Ingredients" src="https://illinifanboy.github.io/assets/images/recipes/richmond/mixindry-sm.jpg">
 
 #### Cook the Mixture Until Thickened
 
 Cook and stir the boiling mixture until thick enough to spread.
 
+<img width="720" alt="Ingredients" src="https://illinifanboy.github.io/assets/images/recipes/richmond/thicken-sm.jpg">
+
 #### Add Butter and Vanilla
 
 Remove the mixture from the heat.  Stir in butter until melted.  Mix in the vanilla.
+
+<img width="720" alt="Ingredients" src="https://illinifanboy.github.io/assets/images/recipes/richmond/meltbutter-sm.jpg">
 
 #### Spread the Hot Mixture on the Cake
 
 Pour the hot mixture onto the cake then spread it around.
 
+<img width="720" alt="Ingredients" src="https://illinifanboy.github.io/assets/images/recipes/richmond/pooroncake-sm.jpg">
+
 #### Cool and Enjoy
 
 Once the frosting has cooled, the cake is ready to eat.
+
+<img width="720" alt="Ingredients" src="https://illinifanboy.github.io/assets/images/recipes/richmond/icedcake.jpg">
 
