@@ -6,17 +6,25 @@ finalproduct: assets/images/general/noimage.jpg
 handwritten: assets/images/general/noimage.jpg
 review: Not yet reviewed.
 story: 
-ingredients: assets/images/general/noimage.jpg
+ingredientsimage: assets/images/general/noimage.jpg
+ingredients:
+  - name: Ingredient 1
+    amount: Amount 1
+    note: Note 1
+  - name: Ingredient 2
+    amount: Amount 2
+    note: 
+    
 steps:
   - header: Step 1
-    text: The text that says what to do.
+    text: The text that says what to do 1.
     image: assets/images/general/noimage.jpg
   - header: Step 2
-    text: The text that says what to do.
+    text: The text that says what to do 2.
     image: 
   - header: Step 3
-    text: The text that says what to do.
-    image: 
+    text: The text that says what to do 3.
+    image: assets/images/general/noimage.jpg
 ---
 
 > {{ page.blurb }}
@@ -39,7 +47,7 @@ Jump to **[\<Recipe\>](#recipe)**.
 
 ### Ingredients
 
-<img alt="Ingredients" src="https://illinifanboy.github.io/{{ page.ingrediants }}">
+<img alt="Ingredients" src="https://illinifanboy.github.io/{{ page.ingredientsimage }}">
 
 
 Ingredient | Measurement, Weight | Notes
@@ -48,6 +56,12 @@ Item Name | Amount | Notes
 Item Name | Amount | Notes
 Item Name | Amount | Notes
 Item Name | Amount | Notes
+{% for item in page.ingredients %}
+{{ item.name }} | {{ item.amount }} | {{ item.note }}
+
+{% endfor %}
+
+
 
 ### Steps
 
