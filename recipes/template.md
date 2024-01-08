@@ -58,7 +58,6 @@ Item Name | Amount | Notes
 Item Name | Amount | Notes
 {% for item in page.ingredients %}
 {{ item.name }} | {{ item.amount }} | {{ item.note }}
-
 {% endfor %}
 
 
@@ -75,7 +74,7 @@ Step 1 text.
 
 {% for item in page.steps %}
 
-### <ins>{{ item.title }}</ins> 
+### <ins>{{ item.header }}</ins> 
 
 {{ item.text }}
 
