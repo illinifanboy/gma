@@ -10,4 +10,5 @@ include:
 header_pages:
   - index.md
   - overview.md
+  - toc.md
   - recipes/desserts/richmond.md
