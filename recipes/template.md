@@ -7,6 +7,16 @@ handwritten: assets/images/general/noimage.jpg
 review: Not yet reviewed.
 story: 
 ingredients: assets/images/general/noimage.jpg
+steps:
+  - header: Step 1
+    text: The text that says what to do.
+    image: assets/images/general/noimage.jpg
+  - header: Step 2
+    text: The text that says what to do.
+    image: 
+  - header: Step 3
+    text: The text that says what to do.
+    image: 
 ---
 
 > {{ page.blurb }}
@@ -46,6 +56,22 @@ Item Name | Amount | Notes
 Step 1 text.
 
 <img width="480" alt="Step 1" src="https://illinifanboy.github.io/assets/images/general/noimage.jpg">
+
+### Step Looping
+
+{% for item in page.steps %}
+
+### <ins>{{ item.title }}</ins> 
+
+{{ item.text }}
+
+{{ if (isset item.image ) }}
+<img width="480" alt="{{ item.title }}" src="https://illinifanboy.github.io/{{ item.image }}">
+
+{{ end }}
+
+
+{% endfor %}
 
 
 
