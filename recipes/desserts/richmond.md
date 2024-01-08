@@ -39,49 +39,52 @@ Vanilla | 1/2 tsp.
 
 ### Steps
 
-#### Start with a 13x9 Cake
+#### <ins>Start with a 13x9 Cake</ins>
 
 Any sort of cake will do (e.g. boxed devils food or yellow cake).  Cool the cake before frosting.
 
-#### Mix Dry Ingrediates
+<img width="480" alt="Ingredients" src="https://illinifanboy.github.io/assets/images/recipes/richmond/barecake1-sm.jpg">
+
+
+#### <ins>Mix Dry Ingrediates</ins>
 
 In a small bowl, mix the dry ingredients: sugar, cornstarch, shaved chocoate, and salt.
 
-<img width="720" alt="Ingredients" src="https://illinifanboy.github.io/assets/images/recipes/richmond/richmond-pinchsalt.jpg">
+<img width="480" alt="Ingredients" src="https://illinifanboy.github.io/assets/images/recipes/richmond/richmond-pinchsalt.jpg">
 
-#### Bring Water to a Boil
+#### <ins>Bring Water to a Boil</ins>
 
 In a medium pan or skillet, bring the water to a boil.
 
-<img width="720" alt="Ingredients" src="https://illinifanboy.github.io/assets/images/recipes/richmond/boilwater-sm.jpg">
+<img width="480" alt="Ingredients" src="https://illinifanboy.github.io/assets/images/recipes/richmond/boilwater-sm.jpg">
 
-#### Mix Dry Ingredients into the Boiling Water
+#### <ins>Mix Dry Ingredients into the Boiling Water</ins>
 
 Slowly mix the dry ingredients into the boiling water.  Stir until smooth.
 
-<img width="720" alt="Ingredients" src="https://illinifanboy.github.io/assets/images/recipes/richmond/mixindry-sm.jpg">
+<img width="480" alt="Ingredients" src="https://illinifanboy.github.io/assets/images/recipes/richmond/mixindry-sm.jpg">
 
-#### Cook the Mixture Until Thickened
+#### <ins>Cook the Mixture Until Thickened</ins>
 
 Cook and stir the boiling mixture until thick enough to spread.
 
-<img width="720" alt="Ingredients" src="https://illinifanboy.github.io/assets/images/recipes/richmond/thicken-sm.jpg">
+<img width="480" alt="Ingredients" src="https://illinifanboy.github.io/assets/images/recipes/richmond/thicken-sm.jpg">
 
-#### Add Butter and Vanilla
+#### <ins>Add Butter and Vanilla</ins>
 
 Remove the mixture from the heat.  Stir in butter until melted.  Mix in the vanilla.
 
-<img width="720" alt="Ingredients" src="https://illinifanboy.github.io/assets/images/recipes/richmond/meltbutter-sm.jpg">
+<img width="480" alt="Ingredients" src="https://illinifanboy.github.io/assets/images/recipes/richmond/meltbutter-sm.jpg">
 
-#### Spread the Hot Mixture on the Cake
+#### <ins>Spread the Hot Mixture on the Cake</ins>
 
 Pour the hot mixture onto the cake then spread it around.
 
-<img width="720" alt="Ingredients" src="https://illinifanboy.github.io/assets/images/recipes/richmond/pooroncake-sm.jpg">
+<img width="480" alt="Ingredients" src="https://illinifanboy.github.io/assets/images/recipes/richmond/pouroncake-sm.jpg">
 
-#### Cool and Enjoy
+#### <ins>Cool and Enjoy</ins>
 
 Once the frosting has cooled, the cake is ready to eat.
 
-<img width="720" alt="Ingredients" src="https://illinifanboy.github.io/assets/images/recipes/richmond/icedcake.jpg">
+<img width="480" alt="Ingredients" src="https://illinifanboy.github.io/assets/images/recipes/richmond/icedcake.jpg">
 
