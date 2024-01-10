@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Refrigerator Rolls
-blurb: A short, one-line introduction
+# blurb: A short, one-line introduction
 finalproduct: assets/images/general/noimage.jpg
 handwritten: 
   - image: assets/images/recipes/handwritten/refrigrolls1-sm.jpg
@@ -30,7 +30,9 @@ steps:
     image: assets/images/general/noimage.jpg
 ---
 
+{{ if (isset page.blurb ) }}
 > {{ page.blurb }}
+{{ end }}
 
 Jump to **[\<Recipe\>](#recipe)**.
 
