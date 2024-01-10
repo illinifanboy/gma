@@ -2,11 +2,11 @@
 layout: page
 title: Refrigerator Rolls
 # blurb: A short, one-line introduction
-finalproduct: assets/images/general/noimage.jpg
+# finalproduct: assets/images/general/noimage.jpg
 handwritten: 
-  - image: assets/images/recipes/handwritten/refrigrolls1-sm.jpg
-  - image: assets/images/recipes/handwritten/refrigrolls2-sm.jpg
-  - image: assets/images/recipes/handwritten/refrigrolls3-sm.jpg
+  - image: assets/images/handwritten/refrigrolls1-sm.jpg
+  - image: assets/images/handwritten/refrigrolls2-sm.jpg
+  - image: assets/images/handwritten/refrigrolls3-sm.jpg
 review: Not yet reviewed.
 story: 
 ingredientsimage: assets/images/general/noimage.jpg
@@ -36,11 +36,16 @@ steps:
 
 Jump to **[\<Recipe\>](#recipe)**.
 
+{{ if (isset page.finalproduct ) }}
+
 <img alt="Final Product" src="https://illinifanboy.github.io/{{ page.finalproduct }}">
 
+{{ end }}
 
+{{ if (isset page.review ) }}
 ### Steve's Review  
 {{ page.review }}    
+{{ end }}
 
 ### Grandma's Handwritten Recipe
 
