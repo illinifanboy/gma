@@ -20,3 +20,9 @@ description: Table of Contents
       * [3.2.1. Refrigerator Rolls - Handwritten Only](./recipes/bread/refrigrolls.md)
       * [3.2.2. Bread - Handwritten Only](./recipes/bread/bread.md)
 
+## Change History
+
+Date | Change
+---|---
+January 11, 2024 | Add Refrigerator Rolls - handwritten only.
+Janualy 4, 2024 | Full recipe for Richmond Frosting.

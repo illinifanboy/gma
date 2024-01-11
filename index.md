@@ -7,5 +7,7 @@ description: My Grandmother collected recipes in some scrapbooks.  These include
 
 > Recipes from my Grandmother's kitchen.
 
-### Use the navigation at the top of the page to get around.  A good place to start is with the [Overview]({% link overview.md %}).
-![Scrapbook Overview](/assets/images/general/general-001.jpg)
+### Use the navigation at the top of the page to get around.  A good place to start is with the [Overview]({% link overview.md %}).  
+
+### To see a list of available recipes, go to the [Table of Contents]({% link toc.md %}). 
+![Scrapbook Overview](/assets/images/general/general-001-sm.jpg)
