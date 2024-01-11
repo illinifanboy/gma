@@ -2,7 +2,7 @@
 layout: page
 title: Refrigerator Rolls
 # blurb: A short, one-line introduction
-# finalproduct: assets/images/general/noimage.jpg
+finalproduct: assets/images/general/noimage.jpg
 handwritten: 
   - image: assets/images/handwritten/refrigrolls1-sm.jpg
   - image: assets/images/handwritten/refrigrolls2-sm.jpg
