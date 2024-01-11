@@ -38,6 +38,7 @@ handwritten:
 
 {% if page.ingredients != nil or page.steps != nil %}
 Jump to **[\<Recipe\>](#recipe)**.
+{% endif %}
 
 <!--- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ --->
 
