@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Refrigerator Rolls
-# blurb: A short, one-line introduction
+blurb: A short, one-line introduction
 # finalproduct: assets/images/general/noimage.jpg
 handwritten: 
   - image: assets/images/handwritten/refrigrolls1-sm.jpg
@@ -32,9 +32,9 @@ steps:
 
 {::comment}========================={:/comment}
 
-{{ if (isset page.blurb ) }}
+{% if page.blurb != nil %}
 > Blurb: {{ page.blurb }}
-{{ end }}
+{% endif %}
 
 Jump to **[\<Recipe\>](#recipe)**.
 
@@ -54,10 +54,10 @@ page.finalproduct is {% if page.finalproduct == nil %}nil{% else %}"{{ page.fina
 
 {% endif %}
 
-{{ if (isset page.review ) }}
+{% if page.review != nil %}
 ### Steve's Review  
 {{ page.review }}    
-{{ end }}
+{% endif %}
 
 ### Grandma's Handwritten Recipe
 
