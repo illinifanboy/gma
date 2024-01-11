@@ -9,7 +9,7 @@ handwritten:
   - image: assets/images/handwritten/refrigrolls3-sm.jpg
 # review: Not yet reviewed.
 # story: 
-ingredientsimage: assets/images/general/noimage.jpg
+# ingredientsimage: assets/images/general/noimage.jpg
 ingredients:
   - name: Ingredient 1
     amount: Amount 1
@@ -39,6 +39,8 @@ steps:
 Jump to **[\<Recipe\>](#recipe)**.
 
 <!--- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ --->
+
+page.finalproduct is {% if page.finalproduct == blank %}blank{% else %}"{{ page.finalproduct }}"{% endif %}
 
 <!--- {{ if (isset page.finalproduct ) }}  --->
 {{ if (!empty(page.finalproduct)) }} 
