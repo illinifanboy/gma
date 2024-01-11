@@ -33,7 +33,7 @@ steps:
 {::comment}========================={:/comment}
 
 {{ if (isset page.blurb ) }}
-> {{ page.blurb }}
+> Blurb: {{ page.blurb }}
 {{ end }}
 
 Jump to **[\<Recipe\>](#recipe)**.
@@ -41,6 +41,7 @@ Jump to **[\<Recipe\>](#recipe)**.
 <!--- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ --->
 
 page.finalproduct is {% if page.finalproduct == blank %}blank{% else %}"{{ page.finalproduct }}"{% endif %}
+page.finalproduct is {% if page.finalproduct == "" %}empty string{% else %}"{{ page.finalproduct }}"{% endif %}
 
 <!--- {{ if (isset page.finalproduct ) }}  --->
 {{ if (!empty(page.finalproduct)) }} 
