@@ -40,8 +40,8 @@ Jump to **[\<Recipe\>](#recipe)**.
 
 <!--- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ --->
 
-{{ if (isset page.finalproduct ) }}
-{{ page.finalproduct }}
+<!--- {{ if (isset page.finalproduct ) }}  --->
+{{ if (!empty(page.finalproduct)) }} 
 
 <img alt="Final Product" src="https://illinifanboy.github.io/{{ page.finalproduct }}">
 
@@ -76,10 +76,14 @@ Jump to **[\<Recipe\>](#recipe)**.
 {{ end }}
 
 
+{{ if (isset page.ingredients ) }}
 Ingredient | Measurement, Weight | Notes
 ---|---|----
 {% for item in page.ingredients %}{{ item.name }} | {{ item.amount }} | {{ item.note }}
 {% endfor %}
+{{ end }}
+
+
 
 ### Steps
 
