@@ -30,11 +30,15 @@ steps:
     image: assets/images/general/noimage.jpg
 ---
 
+{::comment}========================={:/comment}
+
 {{ if (isset page.blurb ) }}
 > {{ page.blurb }}
 {{ end }}
 
 Jump to **[\<Recipe\>](#recipe)**.
+
+<!--- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ --->
 
 {{ if (isset page.finalproduct ) }}
 
@@ -47,6 +51,7 @@ Jump to **[\<Recipe\>](#recipe)**.
 {{ page.review }}    
 {{ end }}
 
+0+002
 ### Grandma's Handwritten Recipe
 
 {% for item in page.handwritten %}
