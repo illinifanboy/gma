@@ -82,8 +82,9 @@ page.finalproduct is {% if page.finalproduct == nil %}nil{% else %}"{{ page.fina
 
 <!--- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ --->
 
+{% if page.ingredients != nil or page.steps != nil %}
 ## Recipe
-
+{% endif %}
 
 {% if page.ingredients != nil %}
 ### Ingredients
