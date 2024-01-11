@@ -2,7 +2,7 @@
 layout: page
 title: Refrigerator Rolls
 # blurb: A short, one-line introduction
-finalproduct: assets/images/general/noimage.jpg
+# finalproduct: assets/images/general/noimage.jpg
 handwritten: 
   - image: assets/images/handwritten/refrigrolls1-sm.jpg
   - image: assets/images/handwritten/refrigrolls2-sm.jpg
@@ -48,11 +48,11 @@ page.finalproduct is {% if page.finalproduct == nil %}nil{% else %}"{{ page.fina
 
 
 <!--- {{ if (isset page.finalproduct ) }}  --->
-{{ if (!empty(page.finalproduct)) }} 
+{% if page.finalproduct != nil %}
 
 <img alt="Final Product" src="https://illinifanboy.github.io/{{ page.finalproduct }}">
 
-{{ end }}
+{% endif %}
 
 {{ if (isset page.review ) }}
 ### Steve's Review  
