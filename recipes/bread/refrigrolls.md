@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Refrigerator Rolls
-blurb: A short, one-line introduction
+# blurb: A short, one-line introduction
 # finalproduct: assets/images/general/noimage.jpg
 handwritten: 
   - image: assets/images/handwritten/refrigrolls1-sm.jpg
@@ -24,7 +24,7 @@ steps:
     image: assets/images/general/noimage.jpg
   - header: Step 2
     text: The text that says what to do 2.
-    image: 
+    # image: 
   - header: Step 3
     text: The text that says what to do 3.
     image: assets/images/general/noimage.jpg
@@ -33,19 +33,20 @@ steps:
 {::comment}========================={:/comment}
 
 {% if page.blurb != nil %}
-> Blurb: {{ page.blurb }}
+> {{ page.blurb }}
 {% endif %}
 
 Jump to **[\<Recipe\>](#recipe)**.
 
 <!--- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ --->
 
+<!--- 
 page.finalproduct is {% if page.finalproduct == blank %}blank{% else %}"{{ page.finalproduct }}"{% endif %}
 
 page.finalproduct is {% if page.finalproduct == "" %}empty string{% else %}"{{ page.finalproduct }}"{% endif %}
 
 page.finalproduct is {% if page.finalproduct == nil %}nil{% else %}"{{ page.finalproduct }}"{% endif %}
-
+--->
 
 <!--- {{ if (isset page.finalproduct ) }}  --->
 {% if page.finalproduct != nil %}
@@ -54,10 +55,14 @@ page.finalproduct is {% if page.finalproduct == nil %}nil{% else %}"{{ page.fina
 
 {% endif %}
 
+<!--- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ --->
+
 {% if page.review != nil %}
 ### Steve's Review  
 {{ page.review }}    
 {% endif %}
+
+<!--- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ --->
 
 ### Grandma's Handwritten Recipe
 
@@ -67,40 +72,34 @@ page.finalproduct is {% if page.finalproduct == nil %}nil{% else %}"{{ page.fina
 
 {% endfor %}
 
-{{ if (isset page.review ) }}
+{% if page.story != nil %}
 
 {{ page.story }}
 
-{{ end }}
+{% endif %}
+
+<!--- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ --->
 
 ## Recipe
 
+
+{% if page.ingredients != nil %}
 ### Ingredients
 
-
+{% if page.ingredientsimage != nil %}
 {{ if (isset page.ingredientsimage ) }}
 <img alt="Ingredients" src="https://illinifanboy.github.io/{{ page.ingredientsimage }}">
-{{ end }}
+{% endif %}
 
-
-{{ if (isset page.ingredients ) }}
 Ingredient | Measurement, Weight | Notes
 ---|---|----
 {% for item in page.ingredients %}{{ item.name }} | {{ item.amount }} | {{ item.note }}
 {% endfor %}
-{{ end }}
 
+{% endif %}
 
-
+{% if page.steps != nil %}
 ### Steps
-
-#### <ins>Step 1</ins>
-
-Step 1 text.
-
-<img width="480" alt="Step 1" src="https://illinifanboy.github.io/assets/images/general/noimage.jpg">
-
-### Step Looping
 
 {% for item in page.steps %}
 
@@ -113,5 +112,5 @@ Step 1 text.
 {{ end }}
 {% endfor %}
 
-
+{% endif %}
 
