@@ -10,24 +10,24 @@ handwritten:
 # review: Not yet reviewed.
 # story: 
 # ingredientsimage: assets/images/general/noimage.jpg
-ingredients:
-  - name: Ingredient 1
-    amount: Amount 1
-    note: Note 1
-  - name: Ingredient 2
-    amount: Amount 2
-    note: 
+#ingredients:
+#  - name: Ingredient 1
+#    amount: Amount 1
+#    note: Note 1
+#  - name: Ingredient 2
+#    amount: Amount 2
+#    note: 
     
-steps:
-  - header: Step 1
-    text: The text that says what to do 1.
-    image: assets/images/general/noimage.jpg
-  - header: Step 2
-    text: The text that says what to do 2.
+#steps:
+#  - header: Step 1
+#    text: The text that says what to do 1.
+#    image: assets/images/general/noimage.jpg
+#  - header: Step 2
+#    text: The text that says what to do 2.
     # image: 
-  - header: Step 3
-    text: The text that says what to do 3.
-    image: assets/images/general/noimage.jpg
+#  - header: Step 3
+#    text: The text that says what to do 3.
+#    image: assets/images/general/noimage.jpg
 ---
 
 {::comment}========================={:/comment}
@@ -36,6 +36,7 @@ steps:
 > {{ page.blurb }}
 {% endif %}
 
+{% if page.ingredients != nil or page.steps != nil %}
 Jump to **[\<Recipe\>](#recipe)**.
 
 <!--- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ --->
