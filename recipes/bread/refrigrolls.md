@@ -7,8 +7,8 @@ handwritten:
   - image: assets/images/handwritten/refrigrolls1-sm.jpg
   - image: assets/images/handwritten/refrigrolls2-sm.jpg
   - image: assets/images/handwritten/refrigrolls3-sm.jpg
-review: Not yet reviewed.
-story: 
+# review: Not yet reviewed.
+# story: 
 ingredientsimage: assets/images/general/noimage.jpg
 ingredients:
   - name: Ingredient 1
@@ -41,6 +41,7 @@ Jump to **[\<Recipe\>](#recipe)**.
 <!--- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ --->
 
 {{ if (isset page.finalproduct ) }}
+{{ page.finalproduct }}
 
 <img alt="Final Product" src="https://illinifanboy.github.io/{{ page.finalproduct }}">
 
@@ -51,7 +52,6 @@ Jump to **[\<Recipe\>](#recipe)**.
 {{ page.review }}    
 {{ end }}
 
-0+002
 ### Grandma's Handwritten Recipe
 
 {% for item in page.handwritten %}
@@ -60,16 +60,20 @@ Jump to **[\<Recipe\>](#recipe)**.
 
 {% endfor %}
 
+{{ if (isset page.review ) }}
+
 {{ page.story }}
+
+{{ end }}
 
 ## Recipe
 
 ### Ingredients
 
 
-
+{{ if (isset page.ingredientsimage ) }}
 <img alt="Ingredients" src="https://illinifanboy.github.io/{{ page.ingredientsimage }}">
-
+{{ end }}
 
 
 Ingredient | Measurement, Weight | Notes
