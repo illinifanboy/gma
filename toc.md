@@ -26,5 +26,5 @@ description: Table of Contents
 
 Date | Change
 ---|---
-January 12, 2024 | Add Refrigerator Rolls, Orange Cake, Breakfast Cake, Danish Cheesecake.
+January 12, 2024 | Add Refrigerator Rolls, Orange Cake, Breakfast Cake, Danish Cheesecake, Fruit Squares.
 Janualy 4, 2024 | Full recipe for Richmond Frosting.
