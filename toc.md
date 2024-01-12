@@ -14,9 +14,9 @@ description: Table of Contents
 **3. Recipes**
 
   * 3.1 Desserts
-
-      * [3.1.1. Orange Cake - Handwritten Only](./recipes/desserts/orangecake.md)
-      * [3.1.2. Richmond Cholocalte Frosting](./recipes/desserts/richmond.md)
+      * [3.1.1. Breakfast Cake - Handwritten Only](./recipes/desserts/breakfastcake.md)
+      * [3.1.2. Orange Cake - Handwritten Only](./recipes/desserts/orangecake.md)
+      * [3.1.3. Richmond Cholocalte Frosting](./recipes/desserts/richmond.md)
   * 3.2 Bread
       * [3.2.1. Refrigerator Rolls - Handwritten Only](./recipes/bread/refrigrolls.md)
       * [3.2.2. Bread - Handwritten Only](./recipes/bread/bread.md)
