@@ -24,10 +24,13 @@ description: Table of Contents
       * [3.2.1. Bread - Handwritten Only](./recipes/bread/bread.md)
       * [3.2.2. Honey Coffee Cake - Handwritten Only](./recipes/bread/honeycoffeecake.md)
       * [3.2.3. Refrigerator Rolls - Handwritten Only](./recipes/bread/refrigrolls.md)
+  * 3.3 Other
+      * [3.3.1. Roach Balls <font color=darkred>(Not Food !!!)</font> - Handwritten Only](./recipes/other/roachballs.md)
+
 
 ## Change History
 
 Date | Change
 ---|---
-January 12, 2024 | Add Refrigerator Rolls, Orange Cake, Breakfast Cake, Danish Cheesecake, Fruit Squares, Honey Coffee Cake, Nut Roll, Oatmeal Cookies.
+January 12, 2024 | Add Refrigerator Rolls, Orange Cake, Breakfast Cake, Danish Cheesecake, Fruit Squares, Honey Coffee Cake, Nut Roll, Oatmeal Cookies, Roach Balls.
 Janualy 4, 2024 | Full recipe for Richmond Frosting.
