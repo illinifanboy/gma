@@ -20,6 +20,7 @@ description: Table of Contents
       * [3.1.4. Orange Cake - Handwritten Only](./recipes/desserts/orangecake.md)
       * [3.1.5. Oatmeal Cookies - Handwritten Only](./recipes/desserts/orangecake.md)
       * [3.1.6. Richmond Cholocalte Frosting](./recipes/desserts/richmond.md)
+      * [3.1.7. Torchetts](./recipes/desserts/torchetts.md)
   * 3.2 Bread
       * [3.2.1. Bread - Handwritten Only](./recipes/bread/bread.md)
       * [3.2.2. Honey Coffee Cake - Handwritten Only](./recipes/bread/honeycoffeecake.md)
@@ -32,5 +33,5 @@ description: Table of Contents
 
 Date | Change
 ---|---
-January 12, 2024 | Add Refrigerator Rolls, Orange Cake, Breakfast Cake, Danish Cheesecake, Fruit Squares, Honey Coffee Cake, Nut Roll, Oatmeal Cookies, Roach Balls.
+January 12, 2024 | Add Refrigerator Rolls, Orange Cake, Breakfast Cake, Danish Cheesecake, Fruit Squares, Honey Coffee Cake, Nut Roll, Oatmeal Cookies, Roach Balls, Torchetts.
 Janualy 4, 2024 | Full recipe for Richmond Frosting.
