@@ -19,12 +19,13 @@ description: Table of Contents
       * [3.1.3. Orange Cake - Handwritten Only](./recipes/desserts/orangecake.md)
       * [3.1.4. Richmond Cholocalte Frosting](./recipes/desserts/richmond.md)
   * 3.2 Bread
-      * [3.2.1. Refrigerator Rolls - Handwritten Only](./recipes/bread/refrigrolls.md)
-      * [3.2.2. Bread - Handwritten Only](./recipes/bread/bread.md)
+      * [3.2.1. Bread - Handwritten Only](./recipes/bread/bread.md)
+      * [3.2.2. Honey Coffee Cake - Handwritten Only](./recipes/bread/honecoffeecake.md)
+      * [3.2.3. Refrigerator Rolls - Handwritten Only](./recipes/bread/refrigrolls.md)
 
 ## Change History
 
 Date | Change
 ---|---
-January 12, 2024 | Add Refrigerator Rolls, Orange Cake, Breakfast Cake, Danish Cheesecake, Fruit Squares.
+January 12, 2024 | Add Refrigerator Rolls, Orange Cake, Breakfast Cake, Danish Cheesecake, Fruit Squares, Honey Coffee Cake.
 Janualy 4, 2024 | Full recipe for Richmond Frosting.
