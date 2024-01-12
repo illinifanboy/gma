@@ -4,7 +4,7 @@ title: Roach Balls
 # blurb: A short, one-line introduction
 # finalproduct: assets/images/general/noimage.jpg
 handwritten: 
-  - image: assets/images/handwritten/roaches.jpg
+  - image: assets/images/handwritten/roaches-sm.jpg
 # review: Not yet reviewed.
 # story: 
 # ingredientsimage: assets/images/general/noimage.jpg
