@@ -15,7 +15,7 @@ description: Table of Contents
 
   * 3.1 Desserts
 
-      * [3.1.1. Orange Cake](./recipes/desserts/orangecake.md)
+      * [3.1.1. Orange Cake - Handwritten Only](./recipes/desserts/orangecake.md)
       * [3.1.2. Richmond Cholocalte Frosting](./recipes/desserts/richmond.md)
   * 3.2 Bread
       * [3.2.1. Refrigerator Rolls - Handwritten Only](./recipes/bread/refrigrolls.md)
@@ -25,5 +25,5 @@ description: Table of Contents
 
 Date | Change
 ---|---
-January 11, 2024 | Add Refrigerator Rolls - handwritten only.
+January 11, 2024 | Add Refrigerator Rolls, Orange Cake.
 Janualy 4, 2024 | Full recipe for Richmond Frosting.
