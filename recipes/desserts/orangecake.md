@@ -5,20 +5,36 @@ title: Orange Cake
 # finalproduct: assets/images/general/noimage.jpg
 handwritten: 
   - image: assets/images/handwritten/orangecake-sm.jpg
-# review: Not yet reviewed.
+review: I have not tried this recipe yet.
 # story: 
 # ingredientsimage: assets/images/general/noimage.jpg
-#ingredients:
-#  - name: Ingredient 1
-#    amount: Amount 1
-#    note: Note 1
-#  - name: Ingredient 2
-#    amount: Amount 2
-#    note: 
+ingredients:
+  - name: Butter or Margarine
+    amount: 1 cup
+  - name: Sugar
+    amount: 2 cups
+  - name: Orange Rind
+    amount: 3 tablespoons
+    note: Grated
+  - name: Eggs
+    amount: 5
+  - name: Cake Flour
+    amount: 3 cups
+    note: Sifted
+  - name: Baking Powder
+    amount: 3 teaspoons
+  - name: Salt
+    amount: 1/4 teaspoon
+  - name: Orange Juice
+    amount: 3/4 teaspoon
     
-#steps:
-#  - header: Step 1
-#    text: The text that says what to do 1.
+steps:
+  - header: Step 1
+    text: Mix all ingredients. 
+  - header: Step 2
+    text: Pour into greased ten inch tube pan.
+  - header: Step3
+    text: Bake at 350 degrees for one hour.
 #    image: assets/images/general/noimage.jpg
 #  - header: Step 2
 #    text: The text that says what to do 2.
