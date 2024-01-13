@@ -5,20 +5,29 @@ title: Bread
 # finalproduct: assets/images/general/noimage.jpg
 handwritten: 
   - image: assets/images/handwritten/bread-sm.jpg
-# review: Not yet reviewed.
-# story: 
+review: I have not tried this recipe yet.
+story: My Grandmother made so much bread that she kept a medium garbage can in her kitchen just to hold flour. 
 # ingredientsimage: assets/images/general/noimage.jpg
-#ingredients:
-#  - name: Ingredient 1
-#    amount: Amount 1
-#    note: Note 1
-#  - name: Ingredient 2
-#    amount: Amount 2
-#    note: 
+ingredients:
+  - name: Flour
+    amount: 6 3/4 cups
+  - name: Salt
+    amount: 1 teaspoon
+  - name: Sugar
+    amount: 2 tablespoons
+  - name: Crisco
+    amount: 1 tablespoon
+  - name: Butter
+    amount: 1 tablespoon
+  - name: Fresh Yeast
+    amount: 1 1/2
+    note: No units given.  Is this a cake or a packet?
+  - name: Milk
+    amount: 2 cups
     
-#steps:
-#  - header: Step 1
-#    text: The text that says what to do 1.
+steps:
+  - header: One hour.
+    text: That's it.  To mixing instructions.  No proofing.  No temperature.
 #    image: assets/images/general/noimage.jpg
 #  - header: Step 2
 #    text: The text that says what to do 2.

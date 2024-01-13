@@ -22,7 +22,7 @@ description: Table of Contents
       * [Richmond Chocolate Frosting](./recipes/desserts/richmond.md)
       * [Torchetts - Handwritten Only](./recipes/desserts/torchetts.md)
   * Bread
-      * [Bread - Handwritten Only](./recipes/bread/bread.md)
+      * [Bread](./recipes/bread/bread.md)
       * [Honey Coffee Cake - Handwritten Only](./recipes/bread/honeycoffeecake.md)
       * [Refrigerator Rolls - Handwritten Only](./recipes/bread/refrigrolls.md)
   * Other
