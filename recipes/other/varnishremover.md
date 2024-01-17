@@ -34,7 +34,7 @@ review: I have not tried this.  I believe my Sister has used it successfully.  I
 > {{ page.blurb }}
 {% endif %}
 
-> <font color=darkred>&#x26A0; WARNING - THIS IS NOT FOOD - DO NOT EAT &#x26A0;</font><br />This recipe is for a roach killer!  This is not intended for human consumption.  Do not eat this. 
+> <font color=darkred>&#x26A0; WARNING - THIS IS NOT FOOD - DO NOT EAT &#x26A0;</font><br />This recipe is for a product used to remove varnish from furniture!  This is not intended for human consumption.  Do not eat this. 
 
 
 {% if page.ingredients != nil or page.steps != nil %}
