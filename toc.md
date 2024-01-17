@@ -18,7 +18,7 @@ description: Table of Contents
       * [Cherry Coke Cake - Handwritten Only](./recipes/desserts/cherrycokecake.md)
       * [Danish Cheesecake - Handwritten Only](./recipes/desserts/danishcheesecake.md)
       * [Impossible Pie - Handwritten Only](./recipes/desserts/impossiblepie.md)
-      * [Merinque - Handwritten Only](./recipes/desserts/meringue.md)
+      * [Meringue - Handwritten Only](./recipes/desserts/meringue.md)
       * [Nut Roll - Handwritten Only](./recipes/desserts/nutroll.md)
       * [Oatmeal Cookies - Handwritten Only](./recipes/desserts/oatmealcookies.md)      * [Orange Cake](./recipes/desserts/orangecake.md)
       * [Richmond Chocolate Frosting](./recipes/desserts/richmond.md)
