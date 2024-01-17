@@ -5,7 +5,7 @@ title: Meringue
 # finalproduct: assets/images/general/noimage.jpg
 handwritten: 
   - image: assets/images/handwritten/meringue-sm.jpg
-# review: Not yet reviewed.
+review: I have not tried this yet.  Looks like a standard reciple for meringue.
 # story: 
 # ingredientsimage: assets/images/general/noimage.jpg
 #ingredients:
