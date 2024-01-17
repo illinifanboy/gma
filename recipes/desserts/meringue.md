@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Merinque
+title: Meringue
 # blurb: A short, one-line introduction
 # finalproduct: assets/images/general/noimage.jpg
 handwritten: 
-  - image: assets/images/handwritten/merinque-sm.jpg
+  - image: assets/images/handwritten/meringue-sm.jpg
 # review: Not yet reviewed.
 # story: 
 # ingredientsimage: assets/images/general/noimage.jpg
