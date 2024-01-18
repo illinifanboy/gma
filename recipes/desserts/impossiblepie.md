@@ -25,16 +25,14 @@ ingredients:
     amount: 1/2 cup
 
     
-#steps:
-#  - header: Step 1
-#    text: The text that says what to do 1.
-#    image: assets/images/general/noimage.jpg
-#  - header: Step 2
-#    text: The text that says what to do 2.
-    # image: 
-#  - header: Step 3
-#    text: The text that says what to do 3.
-#    image: assets/images/general/noimage.jpg
+steps:
+  - header: Blend All Ingredients
+    text: Put everything in a bowl.  Mix with a mixer for 3 minutes.
+  - header: Pour Into Pie Plate
+    text: Pour into an ungreased 10 inch pie plate.
+  - header: Bake
+    text: Bake at 400 degrees for 30 to 35 minutes.
+    image: assets/images/general/noimage.jpg
 ---
 
 {::comment}========================={:/comment}

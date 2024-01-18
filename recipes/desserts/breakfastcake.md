@@ -6,16 +6,47 @@ title: Breakfast Cake
 handwritten: 
   - image: assets/images/handwritten/breakfastcake1-sm.jpg
   - image: assets/images/handwritten/breakfastcake2-sm.jpg
-# review: Not yet reviewed.
+review: I have not tried this recipe.
 # story: 
 # ingredientsimage: assets/images/general/noimage.jpg
-#ingredients:
-#  - name: Ingredient 1
-#    amount: Amount 1
-#    note: Note 1
-#  - name: Ingredient 2
-#    amount: Amount 2
-#    note: 
+ingredients:
+  - name: Yellow Cake Mix
+    amount: 1 package
+    note: Grandma says Betty Crocker.
+  - name: Vanilla Instant Pudding 
+    amount: 1 package
+  - name: Corn Oil
+    amount: 3/4 cup
+    note: Grandma says Wesson.
+  - name: Water
+    amount: 3/4 cup
+  - name: Eggs
+    amount: 4
+  - name: Butter Extract
+    amount: 1 teaspoon
+  - name: Vanilla
+    amount: 1 teaspoon
+  - name: Chopped Nuts
+    amount: 1/2 cup
+  - name: Sugar [for filler]
+    amount: 1/4 cup
+    note: For filler.
+  - name: Cinnamon
+    amount: 2 teaspoons
+    note: For filler.
+  - name: Powdered Sugar
+    amount: 1 cup
+    note: For glaze.
+  - name: Milk
+    amount: 3 tablespoons
+    note: For glaze.
+  - name: Butter Extract
+    amount: 1/2 teaspoon
+    note: For glaze.
+  - name: Vanilla
+    amount: 1/2 teaspoon
+    note: For glaze.
+
     
 #steps:
 #  - header: Step 1
