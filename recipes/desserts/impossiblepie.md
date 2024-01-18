@@ -7,14 +7,23 @@ handwritten:
   - image: assets/images/handwritten/impossiblepie-sm.jpg
 # review: Not yet reviewed.
 # story: 
-# ingredientsimage: assets/images/general/noimage.jpg
-#ingredients:
-#  - name: Ingredient 1
-#    amount: Amount 1
-#    note: Note 1
-#  - name: Ingredient 2
-#    amount: Amount 2
-#    note: 
+ingredients:
+  - name: Eggs 
+    amount: 4
+  - name: Sugar
+    amount: 3/4 cup
+  - name: Vanilla
+    amount: 1 teaspoon
+  - name: Oleo
+    amount: 1 stick
+    note: Oleo means margarine.
+  - name: Milk
+    amount: 2 cups
+  - name: Coconut
+    amount: 1 cup
+  - name: Bisquick
+    amount: 1/2 cup
+
     
 #steps:
 #  - header: Step 1
