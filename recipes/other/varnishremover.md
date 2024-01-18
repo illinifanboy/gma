@@ -8,13 +8,17 @@ handwritten:
 review: I have not tried this.  I believe my Sister has used it successfully.  I think varnish means varnish, not polyurethane.  Probably best used on older furniture.  I had to lookup what Washing Soda is all about.  It is sodium carbonate which is mildly caustic.  Arm and Hammer has a product.
 # story: 
 # ingredientsimage: assets/images/general/noimage.jpg
-# ingredients:
-#  - name: Ingredient 1
-#    amount: Amount 1
-#    note: Note 1
-#  - name: Ingredient 2
-#    amount: Amount 2
-#    note: 
+ingredients:
+  - name: Washing Soda
+    amount: 1/4 cup
+    note: e.g. Arm & Hammer
+  - name: Flour
+    amount: 1/4 cup
+    note: 
+  - name: Water
+    amount: 4 cups
+    note: Boiling
+
     
 #steps:
 #  - header: Step 1
