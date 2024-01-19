@@ -15,7 +15,7 @@ handwritten:
 #  - name: Ingredient 2
 #    amount: Amount 2
 #    note: 
-    
+     
 #steps:
 #  - header: Step 1
 #    text: The text that says what to do 1.
