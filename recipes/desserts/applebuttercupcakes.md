@@ -46,11 +46,11 @@ ingredients:
      
 steps:
   - header: Cream butter or margarine in a large bowl.
-    text: 
+    text: ```markdown test 1```
   - header: Add sugar gradually and cream until light and fluffy. 
-    text: 
+    text: ~~~markdown test 2~~~
   - header: Add egg and mix well.
-    text: 
+    text: Test a BR <br />Did it work?
   - header: Blend in apple butter and vanilla.
     text: 
   - header: Sift flour with soda, salt, and baking powder.
