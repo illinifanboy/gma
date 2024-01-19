@@ -14,6 +14,7 @@ description: Table of Contents
 **3. Recipes**
 
   * Desserts
+      * [Apple Butter Cupcakes - Handwritten Only](./recipes/desserts/applebuttercupcakes.md)
       * [Apple Sauce Cake - Handwritten Only](./recipes/desserts/applesaucecake.md)
       * [Breakfast Cake - Handwritten Only](./recipes/desserts/breakfastcake.md)
       * [Caramel Pecan Pie - Handwritten Only](./recipes/desserts/caramelpecanpie.md)
@@ -53,7 +54,7 @@ description: Table of Contents
 
 Date | Change
 ---|---
-January 19, 2024 | Add Rice Casserole, Wilted Cabbage, Snickerdoodles, Rusk Pie, Peanut Butter Krunch, Cheesecake, Caramel Pecan Pie, Cauliflower Pickles, Mixed Vegetable Pickles, Peach Preserves.
+January 19, 2024 | Add Rice Casserole, Wilted Cabbage, Snickerdoodles, Rusk Pie, Peanut Butter Krunch, Cheesecake, Caramel Pecan Pie, Cauliflower Pickles, Mixed Vegetable Pickles, Peach Preserves, Apple Butter Cupcakes.
 January 17, 2024 | Add Impossible Pie, Cherry Coke Cake, Merinque, Varnish Remover.
 January 12, 2024 | Add Refrigerator Rolls, Orange Cake, Breakfast Cake, Danish Cheesecake, Fruit Squares, Honey Coffee Cake, Nut Roll, Oatmeal Cookies, Roach Balls, Torchetts.
 Janualy 4, 2024 | Full recipe for Richmond Frosting.
