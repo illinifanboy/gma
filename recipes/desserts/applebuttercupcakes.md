@@ -44,16 +44,31 @@ ingredients:
     amount: 2/3 cup
     note: 
      
-#steps:
-#  - header: Step 1
-#    text: The text that says what to do 1.
-#    image: assets/images/general/noimage.jpg
-#  - header: Step 2
-#    text: The text that says what to do 2.
-    # image: 
-#  - header: Step 3
-#    text: The text that says what to do 3.
-#    image: assets/images/general/noimage.jpg
+steps:
+  - header: Cream butter or margarine in a large bowl.
+    text: 
+  - header: Add sugar gradually and cream until light and fluffy. 
+    text: 
+  - header: Add egg and mix well.
+    text: 
+  - header: Blend in apple butter and vanilla.
+    text: 
+  - header: Sift flour with soda, salt, and baking powder.
+    text: 
+  - header: Stir lemon juice in evaporated milk.
+    text: 
+  - header: Add the lemon/milk mixture to the flour mixture.
+    text: 
+  - header: Add the flour mixture to the apple butter mixture.
+    text: 
+  - header: Mix only enough to blend.
+    text: 
+  - header: Bake at 350 degrees for 30 to 35 minutes.
+    text: 
+  - header: Makes 30 to 35 cupcakes.
+    text: 
+  - header: Ice cupcakes with Almond Frosting.
+    text: 
 ---
 
 {::comment}========================={:/comment}
