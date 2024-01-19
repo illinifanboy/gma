@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Applie Souce Cake
+title: Apple Sauce Cake
 # blurb: A short, one-line introduction
 # finalproduct: assets/images/general/noimage.jpg
 handwritten: 

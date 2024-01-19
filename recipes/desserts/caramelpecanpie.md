@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Caramel Pecan Pike
+title: Caramel Pecan Pie
 # blurb: A short, one-line introduction
 # finalproduct: assets/images/general/noimage.jpg
 handwritten: 
