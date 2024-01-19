@@ -41,6 +41,7 @@ description: Table of Contents
       * [Rice Casserole - Handwritten Only](./recipes/vegetables/ricecasserole.md)
       * [Wilted Cabbage - Handwritten Only](./recipes/vegetables/wiltedcabbage.md)
   * Canning
+      * [Cauliflower Pickles - Handwritten Only](./recipes/canning/cauliflowerpickles.md)
       * [Mixed Vegetable Pickles - Handwritten Only](./recipes/canning/mixedvegetablepickles.md)
       * [Peach Preserves - Handwritten Only](./recipes/canning/peachpreserves.md)
   * Other
@@ -52,7 +53,7 @@ description: Table of Contents
 
 Date | Change
 ---|---
-January 19, 2024 | Add Rice Casserole, Wilted Cabbage, Snickerdoodles, Rusk Pie, Peanut Butter Krunch, Cheesecake, Caramel Pecan Pie.
+January 19, 2024 | Add Rice Casserole, Wilted Cabbage, Snickerdoodles, Rusk Pie, Peanut Butter Krunch, Cheesecake, Caramel Pecan Pie, Cauliflower Pickles, Mixed Vegetable Pickles, Peach Preserves.
 January 17, 2024 | Add Impossible Pie, Cherry Coke Cake, Merinque, Varnish Remover.
 January 12, 2024 | Add Refrigerator Rolls, Orange Cake, Breakfast Cake, Danish Cheesecake, Fruit Squares, Honey Coffee Cake, Nut Roll, Oatmeal Cookies, Roach Balls, Torchetts.
 Janualy 4, 2024 | Full recipe for Richmond Frosting.
