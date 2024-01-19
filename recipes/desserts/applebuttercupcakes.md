@@ -9,13 +9,40 @@ handwritten:
 # review: Not yet reviewed.
 # story: 
 # ingredientsimage: assets/images/general/noimage.jpg
-#ingredients:
-#  - name: Ingredient 1
-#    amount: Amount 1
-#    note: Note 1
-#  - name: Ingredient 2
-#    amount: Amount 2
-#    note: 
+ingredients:
+  - name: Butter or Margarine
+    amount: 1/2 cup
+    note: 
+  - name: Sugar
+    amount: 1 cup
+    note: 
+  - name: Egg
+    amount: 1
+    note: 
+  - name: Apple Butter 
+    amount: 1 cup
+    note: 
+  - name: Vanilla
+    amount: 1 teaspoon
+    note: 
+  - name: Flour
+    amount: 1-3/4 cups
+    note: Sifted
+  - name: Baking Soda
+    amount: 1 teaspoon
+    note: 
+  - name: Salt
+    amount: 1/2 teaspoon
+    note: 
+  - name: Baking Powder
+    amount: 1-1/2 teaspoon
+    note: 
+  - name: Lemon Juice
+    amount: 2 tablespoons
+    note: 
+  - name: Evaporated Milk
+    amount: 2/3 cup
+    note: 
      
 #steps:
 #  - header: Step 1
