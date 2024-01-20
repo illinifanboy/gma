@@ -48,14 +48,13 @@ description: Table of Contents
 ***Vegetables and Sides*** | 
 [Rice Casserole](./recipes/vegetables/ricecasserole.md) | &#x1F4DC;
 [Wilted Cabbage](./recipes/vegetables/wiltedcabbage.md) | &#x1F4DC;
-
-  * Canning
-      * [Cauliflower Pickles &#x1F4DC;](./recipes/canning/cauliflowerpickles.md)
-      * [Mixed Vegetable Pickles &#x1F4DC;](./recipes/canning/mixedvegetablepickles.md)
-      * [Peach Preserves &#x1F4DC;](./recipes/canning/peachpreserves.md)
-  * Other
-      * [Roach Balls <font color=darkred>(Not Food !!!)</font> &#x1F4DC;](./recipes/other/roachballs.md)
-      * [Varnish Remover <font color=darkred>(Not Food !!!)</font> &#x1F4DC;](./recipes/other/varnishremover.md)
+***Canning*** |
+[Cauliflower Pickles](./recipes/canning/cauliflowerpickles.md) | &#x1F4DC;
+[Mixed Vegetable Pickles](./recipes/canning/mixedvegetablepickles.md) | &#x1F4DC;
+[Peach Preserves](./recipes/canning/peachpreserves.md) | &#x1F4DC;
+***Other*** |
+[Roach Balls <font color=darkred>(Not Food !!!)</font>](./recipes/other/roachballs.md) | &#x1F4DC;
+[Varnish Remover <font color=darkred>(Not Food !!!)</font>](./recipes/other/varnishremover.md) | &#x1F4DC;
 
 
 ## Change History
