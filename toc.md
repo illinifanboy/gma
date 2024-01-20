@@ -13,23 +13,23 @@ description: Table of Contents
 
 **3. Recipes**
 
+&#x1F9EA; - Steve Tested, &#x1F44D; - Steve Approved, &#x1F4DC; - Handwritten Only
+
 ---|---
 ***Desserts*** |
 [Almond Frostings](./recipes/desserts/almondfrosting.md) |
+[Apple Butter Cupcakes](./recipes/desserts/applebuttercupcakes.md) 
 [Apple Sauce Cake](./recipes/desserts/applesaucecake.md) | &#x1F4DC;
 [Chocolate Cookies](./recipes/desserts/chocolatecookies.md) | &#x1F4DC;&#x1F44D;
 ***Bread*** |
 [Biscuits](./recipes/bread/biscuits.md) | &#x1F4DC;
+***Appetizers***
+[Toasted Ravioli](./recipes/appetizers/toastedravioli.md) | &#x1F4DC;&#x1F44D;
+***Vegetables and Sides***
+[Rice Casserole](./recipes/vegetables/ricecasserole.md) | &#x1F4DC;
 
----|---
-[Biscuits &#x1F4DC;](./recipes/bread/biscuits.md) | &#x1F4DC; 
-
-
-&#x1F9EA; - Steve Tested, &#x1F44D; - Steve Approved, &#x1F4DC; - Handwritten Only
 
   * Desserts
-      * [Almond Frostings](./recipes/desserts/almondfrosting.md)
-      * [Apple Butter Cupcakes](./recipes/desserts/applebuttercupcakes.md)
       * [Breakfast Cake &#x1F4DC;](./recipes/desserts/breakfastcake.md)
       * [Caramel Pecan Pie &#x1F4DC;](./recipes/desserts/caramelpecanpie.md)
       * [Cherry Coke Cake &#x1F4DC;](./recipes/desserts/cherrycokecake.md)
@@ -56,7 +56,6 @@ description: Table of Contents
   * Appetizers
       * [Toasted Ravioli &#x1F4DC;&#x1F44D;](./recipes/appetizers/toastedravioli.md)
   * Vegetables and Sides
-      * [Rice Casserole &#x1F4DC;](./recipes/vegetables/ricecasserole.md)
       * [Wilted Cabbage &#x1F4DC;](./recipes/vegetables/wiltedcabbage.md)
   * Canning
       * [Cauliflower Pickles &#x1F4DC;](./recipes/canning/cauliflowerpickles.md)
