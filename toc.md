@@ -16,18 +16,18 @@ description: Table of Contents
 &#x1F9EA; - Steve Tested, &#x1F44D; - Steve Approved, &#x1F4DC; - Handwritten Only
 
 ---|---
-***Desserts*** |
-[Almond Frostings](./recipes/desserts/almondfrosting.md) |
-[Apple Butter Cupcakes](./recipes/desserts/applebuttercupcakes.md) 
+***Desserts*** | 
+[Almond Frostings](./recipes/desserts/almondfrosting.md) | 
+[Apple Butter Cupcakes](./recipes/desserts/applebuttercupcakes.md) | 
 [Apple Sauce Cake](./recipes/desserts/applesaucecake.md) | &#x1F4DC;
 [Breakfast Cake](./recipes/desserts/breakfastcake.md) | &#x1F4DC;
 [Caramel Pecan Pie](./recipes/desserts/caramelpecanpie.md) | &#x1F4DC;
 [Chocolate Cookies](./recipes/desserts/chocolatecookies.md) | &#x1F4DC;&#x1F44D;
 ***Bread*** |
 [Biscuits](./recipes/bread/biscuits.md) | &#x1F4DC;
-***Appetizers***
+***Appetizers*** | 
 [Toasted Ravioli](./recipes/appetizers/toastedravioli.md) | &#x1F4DC;&#x1F44D;
-***Vegetables and Sides***
+***Vegetables and Sides*** | 
 [Rice Casserole](./recipes/vegetables/ricecasserole.md) | &#x1F4DC;
 
 
