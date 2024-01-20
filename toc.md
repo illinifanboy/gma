@@ -13,45 +13,45 @@ description: Table of Contents
 
 **3. Recipes**
 
-&#x1F44D; - Steve Approved, &#x1F4DC; - Handwritten Only
+&#x1F9EA; - Steve Tested, &#x1F44D; - Steve Approved, &#x1F4DC; - Handwritten Only
 
   * Desserts
       * [Almond Frostings](./recipes/desserts/almondfrosting.md)
       * [Apple Butter Cupcakes](./recipes/desserts/applebuttercupcakes.md)
-      * [Apple Sauce Cake - Handwritten Only](./recipes/desserts/applesaucecake.md)
-      * [Breakfast Cake - Handwritten Only](./recipes/desserts/breakfastcake.md)
-      * [Caramel Pecan Pie - Handwritten Only](./recipes/desserts/caramelpecanpie.md)
-      * [Cherry Coke Cake - Handwritten Only](./recipes/desserts/cherrycokecake.md)
-      * [Chocolate Cookies - Handwritten Only](./recipes/desserts/chocolatecookies.md)
-      * [Danish Cheesecake - Handwritten Only](./recipes/desserts/danishcheesecake.md)
-      * [Fruit Squares - Handwritten Only](./recipes/desserts/fruitsquares.md)
-      * [Impossible Pie - Handwritten Only](./recipes/desserts/impossiblepie.md)
-      * [Meringue - Handwritten Only](./recipes/desserts/meringue.md)
-      * [Nut Roll - Handwritten Only](./recipes/desserts/nutroll.md)
-      * [Oatmeal Cookies - Handwritten Only](./recipes/desserts/oatmealcookies.md)    
+      * [Apple Sauce Cake &#x1F4DC;](./recipes/desserts/applesaucecake.md)
+      * [Breakfast Cake &#x1F4DC;](./recipes/desserts/breakfastcake.md)
+      * [Caramel Pecan Pie &#x1F4DC;](./recipes/desserts/caramelpecanpie.md)
+      * [Cherry Coke Cake &#x1F4DC;](./recipes/desserts/cherrycokecake.md)
+      * [Chocolate Cookies &#x1F4DC;&#x1F44D;](./recipes/desserts/chocolatecookies.md)
+      * [Danish Cheesecake &#x1F4DC;](./recipes/desserts/danishcheesecake.md)
+      * [Fruit Squares &#x1F4DC;](./recipes/desserts/fruitsquares.md)
+      * [Impossible Pie &#x1F4DC;](./recipes/desserts/impossiblepie.md)
+      * [Meringue &#x1F4DC;](./recipes/desserts/meringue.md)
+      * [Nut Roll &#x1F4DC;](./recipes/desserts/nutroll.md)
+      * [Oatmeal Cookies &#x1F4DC;](./recipes/desserts/oatmealcookies.md)    
       * [Orange Cake](./recipes/desserts/orangecake.md)
-      * [Richmond Chocolate Frosting &#x1F44D;](./recipes/desserts/richmond.md)
-      * [Rusk Pie - Handwritten Only](./recipes/desserts/ruskpie.md)
-      * [Torchetts - Handwritten Only](./recipes/desserts/torchetts.md)
+      * [Richmond Chocolate Frosting &#x1F44D;&#x1F44D;](./recipes/desserts/richmond.md)
+      * [Rusk Pie &#x1F4DC;](./recipes/desserts/ruskpie.md)
+      * [Torchetts &#x1F4DC;](./recipes/desserts/torchetts.md)
   * Bread
-      * [Biscuits - Handwritten Only](./recipes/bread/biscuits.md)
-      * [Bread - Handwritten Only](./recipes/bread/bread.md)
-      * [Donuts - Handwritten Only](./recipes/bread/donuts.md)
-      * [Honey Coffee Cake - Handwritten Only](./recipes/bread/honeycoffeecake.md)
-      * [Horse Shoe Etts - Handwritten Only](./recipes/bread/horseshoeetts.md)
-      * [Refrigerator Rolls - Handwritten Only](./recipes/bread/refrigrolls.md)
+      * [Biscuits &#x1F4DC;](./recipes/bread/biscuits.md)
+      * [Bread &#x1F4DC;](./recipes/bread/bread.md)
+      * [Donuts &#x1F4DC;](./recipes/bread/donuts.md)
+      * [Honey Coffee Cake &#x1F4DC;](./recipes/bread/honeycoffeecake.md)
+      * [Horse Shoe Etts &#x1F4DC;](./recipes/bread/horseshoeetts.md)
+      * [Refrigerator Rolls &#x1F4DC;](./recipes/bread/refrigrolls.md)
   * Appetizers
-      * [Toasted Ravioli - Handwritten Only](./recipes/appetizers/toastedravioli.md)
+      * [Toasted Ravioli &#x1F4DC;&#x1F44D;](./recipes/appetizers/toastedravioli.md)
   * Vegetables and Sides
-      * [Rice Casserole - Handwritten Only](./recipes/vegetables/ricecasserole.md)
-      * [Wilted Cabbage - Handwritten Only](./recipes/vegetables/wiltedcabbage.md)
+      * [Rice Casserole &#x1F4DC;](./recipes/vegetables/ricecasserole.md)
+      * [Wilted Cabbage &#x1F4DC;](./recipes/vegetables/wiltedcabbage.md)
   * Canning
-      * [Cauliflower Pickles - Handwritten Only](./recipes/canning/cauliflowerpickles.md)
-      * [Mixed Vegetable Pickles - Handwritten Only](./recipes/canning/mixedvegetablepickles.md)
-      * [Peach Preserves - Handwritten Only](./recipes/canning/peachpreserves.md)
+      * [Cauliflower Pickles &#x1F4DC;](./recipes/canning/cauliflowerpickles.md)
+      * [Mixed Vegetable Pickles &#x1F4DC;](./recipes/canning/mixedvegetablepickles.md)
+      * [Peach Preserves &#x1F4DC;](./recipes/canning/peachpreserves.md)
   * Other
-      * [Roach Balls <font color=darkred>(Not Food !!!)</font> - Handwritten Only](./recipes/other/roachballs.md)
-      * [Varnish Remover <font color=darkred>(Not Food !!!)</font> - Handwritten Only](./recipes/other/varnishremover.md)
+      * [Roach Balls <font color=darkred>(Not Food !!!)</font> &#x1F4DC;](./recipes/other/roachballs.md)
+      * [Varnish Remover <font color=darkred>(Not Food !!!)</font> &#x1F4DC;](./recipes/other/varnishremover.md)
 
 
 ## Change History
