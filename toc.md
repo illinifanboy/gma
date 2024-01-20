@@ -32,6 +32,10 @@ description: Table of Contents
 [Meringue](./recipes/desserts/meringue.md) |  &#x1F4DC;
 [Nut Roll](./recipes/desserts/nutroll.md) |  &#x1F4DC;
 [Oatmeal Cookies](./recipes/desserts/oatmealcookies.md) | &#x1F4DC;
+[Orange Cake](./recipes/desserts/orangecake.md) |
+[Orange Cookies](./recipes/desserts/orangecookies.md) |
+[Orange Frosting](./recipes/desserts/orangefrosting.md) |
+[Richmond Chocolate Frosting](./recipes/desserts/richmond.md) | &#x1F44D;&#x1F44D;
 ***Bread*** |
 [Biscuits](./recipes/bread/biscuits.md) | &#x1F4DC;
 ***Appetizers*** | 
@@ -41,10 +45,6 @@ description: Table of Contents
 
 
   * Desserts    
-      * [Orange Cake](./recipes/desserts/orangecake.md)
-      * [Orange Cookies](./recipes/desserts/orangecookies.md)
-      * [Orange Frosting](./recipes/desserts/orangefrosting.md)
-      * [Richmond Chocolate Frosting &#x1F44D;&#x1F44D;](./recipes/desserts/richmond.md)
       * [Rusk Pie &#x1F4DC;](./recipes/desserts/ruskpie.md)
       * [Torchetts &#x1F4DC;](./recipes/desserts/torchetts.md)
   * Bread
