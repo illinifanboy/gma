@@ -34,6 +34,8 @@ description: Table of Contents
 [Orange Cookies](./recipes/desserts/orangecookies.md) |
 [Orange Frosting](./recipes/desserts/orangefrosting.md) |
 [Richmond Chocolate Frosting](./recipes/desserts/richmond.md) | &#x1F9EA;&#x1F44D;
+[Rusk Pie](./recipes/desserts/ruskpie.md) | &#x1F4DC;
+[Torchetts](./recipes/desserts/torchetts.md) | &#x1F4DC;
 ***Bread*** |
 [Biscuits](./recipes/bread/biscuits.md) | &#x1F4DC;
 ***Appetizers*** | 
@@ -43,8 +45,7 @@ description: Table of Contents
 
 
   * Desserts    
-      * [Rusk Pie &#x1F4DC;](./recipes/desserts/ruskpie.md)
-      * [Torchetts &#x1F4DC;](./recipes/desserts/torchetts.md)
+
   * Bread
       * [Biscuits &#x1F4DC;](./recipes/bread/biscuits.md)
       * [Bread &#x1F4DC;](./recipes/bread/bread.md)
