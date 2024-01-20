@@ -13,7 +13,7 @@ description: Table of Contents
 
 **3. Recipes**
 
-<center><em>== &#x1F9EA; - Steve Tested, &#x1F44D; - Steve Approved, &#x1F4DC; - Handwritten Only ==</em></center>
+<em>&#x1F9EA; - Steve Tested, &#x1F44D; - Steve Approved, &#x1F4DC; - Handwritten Only</em>
 
 ---|---
 ***Desserts*** | 
@@ -47,12 +47,8 @@ description: Table of Contents
 [Toasted Ravioli](./recipes/appetizers/toastedravioli.md) | &#x1F4DC;&#x1F44D;
 ***Vegetables and Sides*** | 
 [Rice Casserole](./recipes/vegetables/ricecasserole.md) | &#x1F4DC;
+[Wilted Cabbage](./recipes/vegetables/wiltedcabbage.md) | &#x1F4DC;
 
-
-  * Appetizers
-      * [Toasted Ravioli &#x1F4DC;&#x1F44D;](./recipes/appetizers/toastedravioli.md)
-  * Vegetables and Sides
-      * [Wilted Cabbage &#x1F4DC;](./recipes/vegetables/wiltedcabbage.md)
   * Canning
       * [Cauliflower Pickles &#x1F4DC;](./recipes/canning/cauliflowerpickles.md)
       * [Mixed Vegetable Pickles &#x1F4DC;](./recipes/canning/mixedvegetablepickles.md)
