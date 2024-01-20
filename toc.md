@@ -13,7 +13,10 @@ description: Table of Contents
 
 **3. Recipes**
 
+&#x1F44D; - Steve Approved
+
   * Desserts
+      * [Almond Frostings](./recipes/desserts/almondfrosting.md)
       * [Apple Butter Cupcakes - Handwritten Only](./recipes/desserts/applebuttercupcakes.md)
       * [Apple Sauce Cake - Handwritten Only](./recipes/desserts/applesaucecake.md)
       * [Breakfast Cake - Handwritten Only](./recipes/desserts/breakfastcake.md)
@@ -27,7 +30,7 @@ description: Table of Contents
       * [Nut Roll - Handwritten Only](./recipes/desserts/nutroll.md)
       * [Oatmeal Cookies - Handwritten Only](./recipes/desserts/oatmealcookies.md)    
       * [Orange Cake](./recipes/desserts/orangecake.md)
-      * [Richmond Chocolate Frosting](./recipes/desserts/richmond.md)
+      * [Richmond Chocolate Frosting &#x1F44D;](./recipes/desserts/richmond.md)
       * [Rusk Pie - Handwritten Only](./recipes/desserts/ruskpie.md)
       * [Torchetts - Handwritten Only](./recipes/desserts/torchetts.md)
   * Bread
