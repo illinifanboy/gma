@@ -22,7 +22,9 @@ description: Table of Contents
 [Apple Sauce Cake](./recipes/desserts/applesaucecake.md) | &#x1F4DC;
 [Breakfast Cake](./recipes/desserts/breakfastcake.md) | &#x1F4DC;
 [Caramel Pecan Pie](./recipes/desserts/caramelpecanpie.md) | &#x1F4DC;
+[Cherry Coke Cake](./recipes/desserts/cherrycokecake.md) | &#x1F4DC;
 [Chocolate Cookies](./recipes/desserts/chocolatecookies.md) | &#x1F4DC;&#x1F44D;
+[Danish Cheesecake](./recipes/desserts/danishcheesecake.md) | &#x1F4DC;
 ***Bread*** |
 [Biscuits](./recipes/bread/biscuits.md) | &#x1F4DC;
 ***Appetizers*** | 
@@ -32,9 +34,7 @@ description: Table of Contents
 
 
   * Desserts
-      * [Cherry Coke Cake &#x1F4DC;](./recipes/desserts/cherrycokecake.md)
-      * [Chocolate Cookies &#x1F4DC;&#x1F44D;](./recipes/desserts/chocolatecookies.md)
-      * [Danish Cheesecake &#x1F4DC;](./recipes/desserts/danishcheesecake.md)
+      * 
       * [Fruit Squares &#x1F4DC;](./recipes/desserts/fruitsquares.md)
       * [Impossible Pie &#x1F4DC;](./recipes/desserts/impossiblepie.md)
       * [Meringue &#x1F4DC;](./recipes/desserts/meringue.md)
