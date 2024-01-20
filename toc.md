@@ -16,7 +16,7 @@ description: Table of Contents
 ### Desserts
 
 ---|---
-### Desserts |
+***Desserts*** |
 Chocolate Cookies | &#x1F4DC;&#x1F44D;
 
 ***Bread***
