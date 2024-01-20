@@ -20,6 +20,8 @@ description: Table of Contents
 [Almond Frostings](./recipes/desserts/almondfrosting.md) |
 [Apple Butter Cupcakes](./recipes/desserts/applebuttercupcakes.md) 
 [Apple Sauce Cake](./recipes/desserts/applesaucecake.md) | &#x1F4DC;
+[Breakfast Cake](./recipes/desserts/breakfastcake.md) | &#x1F4DC;
+[Caramel Pecan Pie](./recipes/desserts/caramelpecanpie.md) | &#x1F4DC;
 [Chocolate Cookies](./recipes/desserts/chocolatecookies.md) | &#x1F4DC;&#x1F44D;
 ***Bread*** |
 [Biscuits](./recipes/bread/biscuits.md) | &#x1F4DC;
@@ -30,8 +32,6 @@ description: Table of Contents
 
 
   * Desserts
-      * [Breakfast Cake &#x1F4DC;](./recipes/desserts/breakfastcake.md)
-      * [Caramel Pecan Pie &#x1F4DC;](./recipes/desserts/caramelpecanpie.md)
       * [Cherry Coke Cake &#x1F4DC;](./recipes/desserts/cherrycokecake.md)
       * [Chocolate Cookies &#x1F4DC;&#x1F44D;](./recipes/desserts/chocolatecookies.md)
       * [Danish Cheesecake &#x1F4DC;](./recipes/desserts/danishcheesecake.md)
