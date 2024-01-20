@@ -41,6 +41,7 @@ Chocolate Cookies | &#x1F4DC;&#x1F44D;
       * [Nut Roll &#x1F4DC;](./recipes/desserts/nutroll.md)
       * [Oatmeal Cookies &#x1F4DC;](./recipes/desserts/oatmealcookies.md)    
       * [Orange Cake](./recipes/desserts/orangecake.md)
+      * [Orange Cookies](./recipes/desserts/orangecookies.md)
       * [Richmond Chocolate Frosting &#x1F44D;&#x1F44D;](./recipes/desserts/richmond.md)
       * [Rusk Pie &#x1F4DC;](./recipes/desserts/ruskpie.md)
       * [Torchetts &#x1F4DC;](./recipes/desserts/torchetts.md)
