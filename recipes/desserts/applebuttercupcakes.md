@@ -46,7 +46,7 @@ ingredients:
      
 steps:
   - header: Create the Apple Butter Mix
-    text: <ul><li>Cream butter or margarine in a large bowl.</li><li>Add sugar gradually and cream until light and fluffy.</li><li>Add egg and mix well.</li><li>Blend in apple butter and vanilla.</ul>
+    text: <ul><li>Cream butter or margarine in a large bowl.</li><li>Add sugar gradually and cream until light and fluffy.</li><li>Add egg and mix well.</li><li>Blend in apple butter and vanilla.</li></ul>
   - header: Cream butter or margarine in a large bowl.
     text: 
   - header: Add sugar gradually and cream until light and fluffy. 
