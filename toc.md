@@ -13,12 +13,13 @@ description: Table of Contents
 
 **3. Recipes**
 
-*** Desserts
+### Desserts
 
 ---|---
+### Desserts |
 Chocolate Cookies | &#x1F4DC;&#x1F44D;
 
-*** Bread
+***Bread***
 
 ---|---
 [Biscuits &#x1F4DC;](./recipes/bread/biscuits.md) | &#x1F4DC; 
