@@ -14,12 +14,14 @@ description: Table of Contents
 **3. Recipes**
 
 *** Desserts
+
 ---|---
 Chocolate Cookies | &#x1F4DC;&#x1F44D;
 
 *** Bread
+
 ---|---
-* [Biscuits &#x1F4DC;](./recipes/bread/biscuits.md) | &#x1F4DC; 
+[Biscuits &#x1F4DC;](./recipes/bread/biscuits.md) | &#x1F4DC; 
 
 
 &#x1F9EA; - Steve Tested, &#x1F44D; - Steve Approved, &#x1F4DC; - Handwritten Only
@@ -27,7 +29,7 @@ Chocolate Cookies | &#x1F4DC;&#x1F44D;
   * Desserts
       * [Almond Frostings](./recipes/desserts/almondfrosting.md)
       * [Apple Butter Cupcakes](./recipes/desserts/applebuttercupcakes.md)
-      * [Apple Sauce Cake &#x1F4DC;](./recipes/desserts/applesaucecake.md)
+      * [Apple Sauce Cake | &#x1F4DC;](./recipes/desserts/applesaucecake.md)
       * [Breakfast Cake &#x1F4DC;](./recipes/desserts/breakfastcake.md)
       * [Caramel Pecan Pie &#x1F4DC;](./recipes/desserts/caramelpecanpie.md)
       * [Cherry Coke Cake &#x1F4DC;](./recipes/desserts/cherrycokecake.md)
