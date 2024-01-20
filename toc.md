@@ -13,7 +13,7 @@ description: Table of Contents
 
 **3. Recipes**
 
-&#x1F9EA; - Steve Tested, &#x1F44D; - Steve Approved, &#x1F4DC; - Handwritten Only
+<center>&#x1F9EA; - Steve Tested, &#x1F44D; - Steve Approved, &#x1F4DC; - Handwritten Only</center>
 
 ---|---
 ***Desserts*** | 
