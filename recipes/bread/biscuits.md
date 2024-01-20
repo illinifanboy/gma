@@ -1,36 +1,33 @@
 ---
 layout: page
-title: Almond Frosting
+title: Biscuits
 # blurb: A short, one-line introduction
 # finalproduct: assets/images/general/noimage.jpg
 handwritten: 
-  - image: assets/images/handwritten/almondfrosting-sm.jpg
-review: I have not yet tried this recipe.<br /><br />This recipe goes hand-in-hand with the Apple Butter Cupcakes recipe.
+  - image: assets/images/handwritten/biscuits-sm.jpg
+review: I have not yet tried this recipe.
 # story: 
 # ingredientsimage: assets/images/general/noimage.jpg
 ingredients:
-  - name: Butter or Margarine
-    amount: 1/4 cup
-    note: 
-  - name: Evaporated Milk
-    amount: 2 tablespoons
-    note: 
-  - name: Powdered Sugar
+  - name: Flour
     amount: 2 cups
     note: Sifted
-  - name: Toasted Almonds 
-    amount: 1/2 cup
-    note: Chopped
+  - name: Salt
+    amount: 1/2 teaspoon
+    note: 
+  - name: Baking Powder
+    amount: 3 teaspoons
+    note: 
+  - name: Shortening 
+    amount: 3 tablespoons
+    note: 
+  - name: Milk
+    amount: 3/4 cup
+    note: 
      
 steps:
-  - header: Melt Butter
-    text: Melt butter or margarine and keep on low heat until bubbly.
-  - header: Mix in Some Sugar
-    text: Remove butter from heat and mix in 1/3 of the sugar.
-  - header: Mix in Rest of Sugar and Milk
-    text: Add milk and remaining sugar and beat until smooth.
-  - header: Add almonds.
-    text: Stir in the almonds.
+  - header: Bake
+    text: Back at 425 degrees for 20 minutes.
 ---
 
 {::comment}========================={:/comment}

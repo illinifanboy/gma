@@ -13,11 +13,11 @@ description: Table of Contents
 
 **3. Recipes**
 
-&#x1F44D; - Steve Approved
+&#x1F44D; - Steve Approved, &#x1F4DC; - Handwritten Only
 
   * Desserts
       * [Almond Frostings](./recipes/desserts/almondfrosting.md)
-      * [Apple Butter Cupcakes - Handwritten Only](./recipes/desserts/applebuttercupcakes.md)
+      * [Apple Butter Cupcakes](./recipes/desserts/applebuttercupcakes.md)
       * [Apple Sauce Cake - Handwritten Only](./recipes/desserts/applesaucecake.md)
       * [Breakfast Cake - Handwritten Only](./recipes/desserts/breakfastcake.md)
       * [Caramel Pecan Pie - Handwritten Only](./recipes/desserts/caramelpecanpie.md)
@@ -34,6 +34,7 @@ description: Table of Contents
       * [Rusk Pie - Handwritten Only](./recipes/desserts/ruskpie.md)
       * [Torchetts - Handwritten Only](./recipes/desserts/torchetts.md)
   * Bread
+      * [Biscuits - Handwritten Only](./recipes/bread/biscuits.md)
       * [Bread - Handwritten Only](./recipes/bread/bread.md)
       * [Donuts - Handwritten Only](./recipes/bread/donuts.md)
       * [Honey Coffee Cake - Handwritten Only](./recipes/bread/honeycoffeecake.md)
@@ -57,7 +58,7 @@ description: Table of Contents
 
 Date | Change
 ---|---
-January 19, 2024 | Add Rice Casserole, Wilted Cabbage, Snickerdoodles, Rusk Pie, Peanut Butter Krunch, Cheesecake, Caramel Pecan Pie, Cauliflower Pickles, Mixed Vegetable Pickles, Peach Preserves, Apple Butter Cupcakes.
+January 19, 2024 | Add Rice Casserole, Wilted Cabbage, Snickerdoodles, Rusk Pie, Peanut Butter Krunch, Cheesecake, Caramel Pecan Pie, Cauliflower Pickles, Mixed Vegetable Pickles, Peach Preserves, Apple Butter Cupcakes, Almond Frosting, Biscuits.
 January 17, 2024 | Add Impossible Pie, Cherry Coke Cake, Merinque, Varnish Remover.
 January 12, 2024 | Add Refrigerator Rolls, Orange Cake, Breakfast Cake, Danish Cheesecake, Fruit Squares, Honey Coffee Cake, Nut Roll, Oatmeal Cookies, Roach Balls, Torchetts.
 Janualy 4, 2024 | Full recipe for Richmond Frosting.
