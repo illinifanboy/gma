@@ -13,7 +13,7 @@ description: Table of Contents
 
 **3. Recipes**
 
-<center>&#x1F9EA; - Steve Tested, &#x1F44D; - Steve Approved, &#x1F4DC; - Handwritten Only</center>
+<center>== &#x1F9EA; - Steve Tested, &#x1F44D; - Steve Approved, &#x1F4DC; - Handwritten Only ==</center>
 
 ---|---
 ***Desserts*** | 
@@ -25,6 +25,8 @@ description: Table of Contents
 [Cherry Coke Cake](./recipes/desserts/cherrycokecake.md) | &#x1F4DC;
 [Chocolate Cookies](./recipes/desserts/chocolatecookies.md) | &#x1F4DC;&#x1F44D;
 [Danish Cheesecake](./recipes/desserts/danishcheesecake.md) | &#x1F4DC;
+[Fruit Squares](./recipes/desserts/fruitsquares.md) | &#x1F4DC;
+[Impossible Pie](./recipes/desserts/impossiblepie.md) | &#x1F4DC;
 ***Bread*** |
 [Biscuits](./recipes/bread/biscuits.md) | &#x1F4DC;
 ***Appetizers*** | 
@@ -35,8 +37,6 @@ description: Table of Contents
 
   * Desserts
       * 
-      * [Fruit Squares &#x1F4DC;](./recipes/desserts/fruitsquares.md)
-      * [Impossible Pie &#x1F4DC;](./recipes/desserts/impossiblepie.md)
       * [Meringue &#x1F4DC;](./recipes/desserts/meringue.md)
       * [Nut Roll &#x1F4DC;](./recipes/desserts/nutroll.md)
       * [Oatmeal Cookies &#x1F4DC;](./recipes/desserts/oatmealcookies.md)    
