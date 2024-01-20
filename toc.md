@@ -11,11 +11,9 @@ description: Table of Contents
 
 **[2. Overview](overview.md)**
 
-**test**
+**3. Recipes**
 
-**3. Recipes &#x1F9EA; - Steve Tested, &#x1F44D; - Steve Approved, &#x1F4DC; - Handwritten Only **
-
-<center>== &#x1F9EA; - Steve Tested, &#x1F44D; - Steve Approved, &#x1F4DC; - Handwritten Only ==</center>
+<center><strong>== &#x1F9EA; - Steve Tested, &#x1F44D; - Steve Approved, &#x1F4DC; - Handwritten Only ==</strong></center>
 
 ---|---
 ***Desserts*** | 
@@ -35,7 +33,7 @@ description: Table of Contents
 [Orange Cake](./recipes/desserts/orangecake.md) |
 [Orange Cookies](./recipes/desserts/orangecookies.md) |
 [Orange Frosting](./recipes/desserts/orangefrosting.md) |
-[Richmond Chocolate Frosting](./recipes/desserts/richmond.md) | &#x1F44D;&#x1F44D;
+[Richmond Chocolate Frosting](./recipes/desserts/richmond.md) | &#x1F9EA;&#x1F44D;
 ***Bread*** |
 [Biscuits](./recipes/bread/biscuits.md) | &#x1F4DC;
 ***Appetizers*** | 
