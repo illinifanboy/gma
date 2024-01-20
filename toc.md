@@ -38,21 +38,17 @@ description: Table of Contents
 [Torchetts](./recipes/desserts/torchetts.md) | &#x1F4DC;
 ***Bread*** |
 [Biscuits](./recipes/bread/biscuits.md) | &#x1F4DC;
+[Bread](./recipes/bread/bread.md) | &#x1F4DC;
+[Donuts](./recipes/bread/donuts.md) | &#x1F4DC;
+[Honey Coffee Cake](./recipes/bread/honeycoffeecake.md) | &#x1F4DC;
+[Horse Shoe Etts](./recipes/bread/horseshoeetts.md) | &#x1F4DC;
+[Refrigerator Rolls](./recipes/bread/refrigrolls.md) | &#x1F4DC;
 ***Appetizers*** | 
 [Toasted Ravioli](./recipes/appetizers/toastedravioli.md) | &#x1F4DC;&#x1F44D;
 ***Vegetables and Sides*** | 
 [Rice Casserole](./recipes/vegetables/ricecasserole.md) | &#x1F4DC;
 
 
-  * Desserts    
-
-  * Bread
-      * [Biscuits &#x1F4DC;](./recipes/bread/biscuits.md)
-      * [Bread &#x1F4DC;](./recipes/bread/bread.md)
-      * [Donuts &#x1F4DC;](./recipes/bread/donuts.md)
-      * [Honey Coffee Cake &#x1F4DC;](./recipes/bread/honeycoffeecake.md)
-      * [Horse Shoe Etts &#x1F4DC;](./recipes/bread/horseshoeetts.md)
-      * [Refrigerator Rolls &#x1F4DC;](./recipes/bread/refrigrolls.md)
   * Appetizers
       * [Toasted Ravioli &#x1F4DC;&#x1F44D;](./recipes/appetizers/toastedravioli.md)
   * Vegetables and Sides
