@@ -47,42 +47,22 @@ ingredients:
 steps:
   - header: Create the Apple Butter Mix
     text: <ul><li>Cream butter or margarine in a large bowl.</li><li>Add sugar gradually and cream until light and fluffy.</li><li>Add egg and mix well.</li><li>Blend in apple butter and vanilla.</li></ul>
-  - header: Cream butter or margarine in a large bowl.
-    text: 
-  - header: Add sugar gradually and cream until light and fluffy. 
-    text: 
-  - header: Add egg and mix well.
-    text: 
-  - header: Blend in apple butter and vanilla.
-    text: 
   - header: Mix the Dry Ingredients
     text: Sift flour with soda, salt, and baking power.
-  - header: Sift flour with soda, salt, and baking powder.
-    text: 
   - header: \"Sour\" the milk.
-    text: Stir lemon juice into evaporated milk.
-  - header: Stir lemon juice in evaporated milk.
-    text: 
+    text: Stir lemon juice into the evaporated milk.
   - header: Mix 1
-    text: Add the sour milk to the dry ingredient mixture.
+    text: Add the soured milk to the dry ingredient mixture.
   - header: Mix 2
-    text: Add the dry ingredients  
-  - header: Add the lemon/milk mixture to the flour mixture.
-    text: 
-  - header: Mix 3
-    text: Add the milk/flour mixture to the apple butter mixture.
+    text: Add the dry ingredients to the apple butter mixture. 
   - header: Blend
     text: Mix only enough to blend.
   - header: Pour into Cake Cups
     text: Makes 30 to 35 cupcakes.
   - header: Bake
     text: Bake at 350 degress for 30 to 35 minutes.
-  - header: Bake at 350 degrees for 30 to 35 minutes.
-    text: 
   - header: Ice
     text: Once cool, ice cupcakes with Almond Frosting.
-  - header: Ice cupcakes with Almond Frosting.
-    text: 
 ---
 
 {::comment}========================={:/comment}
