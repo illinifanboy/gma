@@ -162,9 +162,9 @@ Ingredient | Measurement, Weight | Notes
 
 {% for item in page.steps %}
 
-### <ins>{{ item.header }}</ins> 
+#### <ins>{{ item.header }}</ins> 
 
-{{ item.text }}
+<font size="4">{{ item.text }}</font>
 
 {{ if (isset item.image ) }}
 <img width="480" alt="{{ item.title }}" src="https://illinifanboy.github.io/{{ item.image }}">
