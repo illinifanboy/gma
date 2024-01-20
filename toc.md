@@ -43,6 +43,7 @@ Chocolate Cookies | &#x1F4DC;&#x1F44D;
       * [Oatmeal Cookies &#x1F4DC;](./recipes/desserts/oatmealcookies.md)    
       * [Orange Cake](./recipes/desserts/orangecake.md)
       * [Orange Cookies](./recipes/desserts/orangecookies.md)
+      * [Orange Frosting](./recipes/desserts/orangefrosting.md)
       * [Richmond Chocolate Frosting &#x1F44D;&#x1F44D;](./recipes/desserts/richmond.md)
       * [Rusk Pie &#x1F4DC;](./recipes/desserts/ruskpie.md)
       * [Torchetts &#x1F4DC;](./recipes/desserts/torchetts.md)
@@ -71,7 +72,7 @@ Chocolate Cookies | &#x1F4DC;&#x1F44D;
 
 Date | Change
 ---|---
-January 19, 2024 | Add Rice Casserole, Wilted Cabbage, Snickerdoodles, Rusk Pie, Peanut Butter Krunch, Cheesecake, Caramel Pecan Pie, Cauliflower Pickles, Mixed Vegetable Pickles, Peach Preserves, Apple Butter Cupcakes, Almond Frosting, Biscuits.
+January 19, 2024 | Add Rice Casserole, Wilted Cabbage, Snickerdoodles, Rusk Pie, Peanut Butter Krunch, Cheesecake, Caramel Pecan Pie, Cauliflower Pickles, Mixed Vegetable Pickles, Peach Preserves, Apple Butter Cupcakes, Almond Frosting, Biscuits, Orange Cookies, Orange Frosting.
 January 17, 2024 | Add Impossible Pie, Cherry Coke Cake, Merinque, Varnish Remover.
 January 12, 2024 | Add Refrigerator Rolls, Orange Cake, Breakfast Cake, Danish Cheesecake, Fruit Squares, Honey Coffee Cake, Nut Roll, Oatmeal Cookies, Roach Balls, Torchetts.
 Janualy 4, 2024 | Full recipe for Richmond Frosting.

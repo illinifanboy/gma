@@ -1,58 +1,27 @@
 ---
 layout: page
-title: Orange Cookies
+title: Orange Frosting
 # blurb: A short, one-line introduction
 # finalproduct: assets/images/general/noimage.jpg
 handwritten: 
   - image: assets/images/handwritten/orangecookies-sm.jpg
-review: I have not yet tried this recipe.<br /><br />This recipe goes hand-in-hand with the Orange Frosting recipe.
+review: I have not yet tried this recipe.<br /><br />This recipe goes hand-in-hand with the Orange Cookies recipe.
 # story: 
 # ingredientsimage: assets/images/general/noimage.jpg
 ingredients:
   - name: Butter or Margarine
-    amount: 1/2 cup
-    note: 
-  - name: Sugar
-    amount: 1/2 cup
-    note: 
-  - name: Grated Orange Zest
-    amount: 1 teaspoon
-    note: 
-  - name: Orange Juice
-    amount: 2 tablespoons
-    note: 
-  - name: Flour
+    amount: 1 tablespoon
+    note: Softened
+  - name: Powdered Sugar
     amount: 1 cup
     note: Sifted
-  - name: Baking Soda
-    amount: 1/2 teaspoon
-    note: 
-  - name: Egg
-    amount: 1
-    note: 
-  - name: Chopped Nuts
-    amount: 1/2 cup
-    note: 
-  - name: Dates
-    amount: 1/2 cup
+  - name: Orange Juice
+    amount: 1 tablespoon plus 1 teaspoon
     note: 
      
 steps:
-  - header: Prepare Pan
-    text: Grease a 9x9x2 inch square cake pan.
-  - header: Melt Butter
-    text: Melt butter in a saucepan.  Remove from heat.
-  - header: Add Sugar and Orange
-    text: Add sugar, orange zest, and orange juice to the melted butter.  Blend.
-  - header: Add Dry Ingredients
-    text: Sift flour and baking soda together.  Stir into butter mixture.
-  - header: Add Egg
-    text: Add egg and blend well.
-  - header: Bake
-    text: Pour into pan.  Bake for 25 minutes \[No temperature given!\].  Cool in pan.
-  - header: Frost and Serve
-    text: Frost with Orange Frosting and cut into 16 bars.  Enjoy.
-
+  - header: Mix
+    text: Beat until smooth and creamy.
 
 
 
