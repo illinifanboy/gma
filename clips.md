@@ -1,24 +1,26 @@
 ---
 layout: page
-title: Table of Contents
+title: Recipe Clips
 tagline: TOC
 description: Clips of Recipes
 clips:
-#  - header: Apple Dumplings
-#    image: assets/images/clips/appledumplingsclip-sm.jpg
-#  - header: Gold Cookies
-#    image: assets/images/clips/goldcookiesclip-sm.jpg
+  - header: Apple Dumplings
+    image: assets/images/clips/appledumplingsclip-sm.jpg
+  - header: Gold Cookies
+    image: assets/images/clips/goldcookiesclip-sm.jpg
+  - header: Hustle Cake
+    image: assets/images/clips/hustlecakeclip-sm.jpg
 ---
 
-## Apple Dumplings
+## Apple Dumplings x
 
 <img alt="{{ item.header }}" src="https://illinifanboy.github.io/assets/images/clips/appledumplingsclip-sm.jpg">
 
-## Gold Cookies
+## Gold Cookies x
 
 <img alt="{{ item.header }}" src="https://illinifanboy.github.io/assets/images/clips/goldcookiesclip-sm.jpg">
 
-## Hustle Cake
+## Hustle Cake x
 
 <img alt="{{ item.header }}" src="https://illinifanboy.github.io/assets/images/clips/hustlecakeclip-sm.jpg">
 
