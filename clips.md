@@ -2,8 +2,10 @@
 layout: page
 title: Table of Contents
 tagline: TOC
-description: Table of Contents
+description: Clips of Recipes
 clips:
+  - header: Apple Dumplings
+    image: assets/images/clips/appledumplingsclip-sm.jpg
   - header: Gold Cookies
     image: assets/images/clips/goldcookiesclip-sm.jpg
 ---
