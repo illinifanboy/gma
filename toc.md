@@ -20,6 +20,7 @@ description: Table of Contents
 [Cherry Coke Cake](./recipes/desserts/cherrycokecake.md) | &#x1F4DC;
 [Chocolate Chip Cookies](./recipes/desserts/chocolatechipcookies.md) | &#x1F4DC;
 [Chocolate Cookies](./recipes/desserts/chocolatecookies.md) | &#x1F4DC;&#x1F44D;
+[Chocolate Fudge Drops](./recipes/desserts/chocolatefudgedrops.md) | &#x1F4DC;
 [Danish Cheesecake](./recipes/desserts/danishcheesecake.md) | &#x1F4DC;
 [Fruit Squares](./recipes/desserts/fruitsquares.md) | &#x1F4DC;
 [Impossible Pie](./recipes/desserts/impossiblepie.md) | &#x1F4DC;
@@ -57,6 +58,7 @@ description: Table of Contents
 
 Date | Change
 ---|---
+January 21, 2024 | Add Chocolate Fudge Drops.
 January 19, 2024 | Add Rice Casserole, Wilted Cabbage, Snickerdoodles, Rusk Pie, Peanut Butter Krunch, Cheesecake, Caramel Pecan Pie, Cauliflower Pickles, Mixed Vegetable Pickles, Peach Preserves, Apple Butter Cupcakes, Almond Frosting, Biscuits, Orange Cookies, Orange Frosting, Apricot Cookies, Chocolate Chip Cookies
 January 17, 2024 | Add Impossible Pie, Cherry Coke Cake, Merinque, Varnish Remover.
 January 12, 2024 | Add Refrigerator Rolls, Orange Cake, Breakfast Cake, Danish Cheesecake, Fruit Squares, Honey Coffee Cake, Nut Roll, Oatmeal Cookies, Roach Balls, Torchetts.
