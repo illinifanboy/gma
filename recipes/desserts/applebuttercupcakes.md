@@ -46,7 +46,7 @@ ingredients:
      
 steps:
   - header: Create the Apple Butter Mix
-    text: <ul><li>Cream butter or margarine in a large bowl.</li><li>Add sugar gradually and cream until light and fluffy.</li><li>Add egg and mix well.</li><li>Blend in apple butter and vanilla.</li></ul>
+    text: Cream butter or margarine in a large bowl.<br />Add sugar gradually and cream until light and fluffy.<br />Add egg and mix well.<br />Blend in apple butter and vanilla.
   - header: Mix the Dry Ingredients
     text: Sift flour with soda, salt, and baking power.
   - header: \"Sour\" the milk.
