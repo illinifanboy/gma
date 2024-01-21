@@ -5,20 +5,53 @@ title: Coconut Islands
 # finalproduct: assets/images/general/noimage.jpg
 handwritten: 
   - image: assets/images/handwritten/coconutislands-sm.jpg
-# review: Not yet reviewed.
+review: Trying today.
 # story: 
 # ingredientsimage: assets/images/general/noimage.jpg
-#ingredients:
-#  - name: Ingredient 1
-#    amount: Amount 1
-#    note: Note 1
+ingredients:
+  - name: Flour
+    amount: 2 cups
+  - name: Baking Soda
+    amount: 1/2 teaspoon
+  - name: Salt
+    amount: 1/2 teaspoon
+  - name: Unsweetened Chocolate
+    amount: 3 ounces
+  - name: Coffee
+    amount: 1/4 cup
+    note: Hot and strong.
+  - name: Butter 
+    amount: 1/2 cup
+  - name: Brown Sugar
+    amount: 1 cup
+  - name: Egg
+    amount: 1
+  - name: Sour Cream
+    amount: 1/2 cup
+  - name: Coconut
+    amount: 1/3 cup
+    note: Finely cut.  Canned\(?\).
 #  - name: Ingredient 2
 #    amount: Amount 2
 #    note: 
     
-#steps:
-#  - header: Step 1
-#    text: The text that says what to do 1.
+steps:
+  - header: Sift Dry Ingredients Together
+    text: Sift together the flour, baking soda, and salt.
+  - header: Melt Chocolate and Coffee
+    text: Melt the chocolate and coffee in a small saucepan over low heat.  Allow the mixture to cool.
+  - header: Cream Butter and Sugar
+    text: Gradually add brown sugar to butter creaming well.
+  - header: Add Egg and Chocolate Mixture
+    text: To the creamed butter, add unbeaten egg and chocolate mixture.  Beat well.
+  - header: Add Dry Ingredients and Sour Cream
+    text: Alternately mix in dry ingredients and sour cream beginning and ending with dry ingredients.  Blend thoroughly after each addition.
+  - header: Add Coconut
+    text: Stir in the coconut.
+  - header: Bake
+    text: Bake at 375 degrees for 12 to 15 minutes.  Yield 3-1/2 dozen cookies.
+
+
 #    image: assets/images/general/noimage.jpg
 #  - header: Step 2
 #    text: The text that says what to do 2.
