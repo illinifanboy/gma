@@ -64,6 +64,7 @@ Jump to **[\<Clips\>](#clips)**.  These are recipe clippings that my Grandmother
 ***Desserts*** | 
 [Apple Dumplings](./clips.md#appledumplings) | 
 [Gold Cookies](./clips.md#goldcookies) | 
+[Hustle Cake](./clips.md#hustlecake) | 
 
 ## Change History
 

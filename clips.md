@@ -18,6 +18,9 @@ clips:
 
 <img alt="{{ item.header }}" src="https://illinifanboy.github.io/assets/images/clips/goldcookiesclip-sm.jpg">
 
+## Hustle Cake
+
+<img alt="{{ item.header }}" src="https://illinifanboy.github.io/assets/images/clips/hustlecakeclip-sm.jpg">
 
 
 
