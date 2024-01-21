@@ -5,25 +5,21 @@ tagline: TOC
 description: Clips of Recipes
 clips:
   - header: Apple Dumplings
+    link: apple-dumplings
     image: assets/images/clips/appledumplingsclip-sm.jpg
   - header: Gold Cookies
+    link: gold-cookies
     image: assets/images/clips/goldcookiesclip-sm.jpg
   - header: Hustle Cake
+    link: hustle-cake
     image: assets/images/clips/hustlecakeclip-sm.jpg
 ---
 
-## Apple Dumplings x
+{% for item in page.clips %}
 
-<img alt="{{ item.header }}" src="https://illinifanboy.github.io/assets/images/clips/appledumplingsclip-sm.jpg">
+### **[ {{item.header}} ](#{{item.link}})**
 
-## Gold Cookies x
-
-<img alt="{{ item.header }}" src="https://illinifanboy.github.io/assets/images/clips/goldcookiesclip-sm.jpg">
-
-## Hustle Cake x
-
-<img alt="{{ item.header }}" src="https://illinifanboy.github.io/assets/images/clips/hustlecakeclip-sm.jpg">
-
+{% endfor %}
 
 
 {% for item in page.clips %}
