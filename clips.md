@@ -17,7 +17,7 @@ clips:
 
 {% for item in page.clips %}
 
-### **[ {{item.header}} ](#{{item.link}})**
+#### **[ {{item.header}} ](#{{item.link}})**
 
 {% endfor %}
 
