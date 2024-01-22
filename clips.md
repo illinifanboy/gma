@@ -19,7 +19,10 @@ clips:
   - header: Swans Down Pancakes and Biscuits
     link: swans-down-pancakes-and-biscuits
     image: assets/images/clips/swansdown-sm.jpg
-    
+  - header: Bogus
+    link: bogus
+    image: assets/images/clips/bogus-sm.jpg
+
 ---
 
 {% for item in page.clips %}
