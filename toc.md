@@ -58,6 +58,7 @@ Jump to **[\<Clips\>](#clips)**.  These are recipe clippings that my Grandmother
 ***Appetizers*** | 
 [Toasted Ravioli](./recipes/appetizers/toastedravioli.md) | &#x1F4DC;&#x1F44D;
 ***Vegetables and Sides*** | 
+[Lima Bean Vegetable Soup](./recipes/vegetables/limabeansoup.md) | &#x1F4DC;
 [Rice Casserole](./recipes/vegetables/ricecasserole.md) | &#x1F4DC;
 [Wilted Cabbage](./recipes/vegetables/wiltedcabbage.md) | &#x1F4DC;
 ***Canning*** |
