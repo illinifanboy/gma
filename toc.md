@@ -60,6 +60,7 @@ Jump to **[\<Clips\>](#clips)**.  These are recipe clippings that my Grandmother
 [Rice Casserole](./recipes/vegetables/ricecasserole.md) | &#x1F4DC;
 [Wilted Cabbage](./recipes/vegetables/wiltedcabbage.md) | &#x1F4DC;
 ***Canning*** |
+[Antipasta](./recipes/canning/antipasta.md) | &#x1F4DC;&#x1F44D;
 [Cauliflower Pickles](./recipes/canning/cauliflowerpickles.md) | &#x1F4DC;
 [Mixed Vegetable Pickles](./recipes/canning/mixedvegetablepickles.md) | &#x1F4DC;
 [Peach Preserves](./recipes/canning/peachpreserves.md) | &#x1F4DC;
