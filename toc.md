@@ -73,7 +73,7 @@ Jump to **[\<Clips\>](#clips)**.  These are recipe clippings that my Grandmother
 [Hustle Cake](./clips.md#hustle-cake) | 
 [Orange Loaf](./clips.md#orange-loaf) | 
 ***Bread*** | 
-[Apple Dumplings](./clips.md#apple-dumplings) | 
+[Swans Down Pancakes and Biscuits](./clips.md#swans-down-pancakes-and-biscuits) | 
 
 ## Change History
 
