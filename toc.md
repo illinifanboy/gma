@@ -40,6 +40,7 @@ Jump to **[\<Clips\>](#clips)**.  These are recipe clippings that my Grandmother
 [Orange Cake](./recipes/desserts/orangecake.md) |
 [Orange Cookies](./recipes/desserts/orangecookies.md) |
 [Orange Frosting](./recipes/desserts/orangefrosting.md) |
+[Pineapple Upside Down Cake](./recipes/desserts/pineappleupsidedown.md) | &#x1F4DC;
 [Richmond Chocolate Frosting](./recipes/desserts/richmond.md) | &#x1F9EA;&#x1F44D;
 [Rusk Pie](./recipes/desserts/ruskpie.md) | &#x1F4DC;
 [Torchetts](./recipes/desserts/torchetts.md) | &#x1F4DC;
