@@ -47,6 +47,7 @@ Jump to **[\<Clips\>](#clips)**.  These are recipe clippings that my Grandmother
 [Torchetts](./recipes/desserts/torchetts.md) | &#x1F4DC;
 ***Main Courses*** |
 [Chicken Pie](./recipes/maincourses/chickenpie.md) | &#x1F4DC;
+[Dumplings](./recipes/maincourses/dumplings.md) | &#x1F4DC;
 ***Bread*** |
 [Biscuits](./recipes/bread/biscuits.md) | &#x1F4DC;
 [Bread](./recipes/bread/bread.md) | &#x1F4DC;
