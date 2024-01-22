@@ -6,7 +6,7 @@ finalproduct: assets/images/recipes/coconutislands/cnutcooked-sm.jpg
 handwritten: 
   - image: assets/images/handwritten/coconutislands-sm.jpg
 review: I did make this one.  Not very sweet.  Not very chocolately.  Not very coconutty.  Overall rating, "not very".<br /><br />In all seriousness, they were a bit bland and dry.  Might be better used as an "icing delivery system".  If there is a next time, I may decrease the flour and increase the coconut.  Maybe the chocolate too.
-# story: 
+story: No story.  Just pulled this out because I had the ingredients.  This was the second recipe that I have tried so far.  Too bad that it isn't a good example. 
 # ingredientsimage: assets/images/general/noimage.jpg
 ingredients:
   - name: Flour
