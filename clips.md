@@ -16,6 +16,9 @@ clips:
   - header: Orange Loaf
     link: orange-loaf
     image: assets/images/clips/orangeloaf-sm.jpg
+  - header: Swans Down Pancakes and Biscuits
+    link: orange-down-pancakes-and-biscuits
+    image: assets/images/clips/swansdown-sm.jpg
 ---
 
 {% for item in page.clips %}

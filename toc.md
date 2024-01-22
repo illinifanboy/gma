@@ -72,6 +72,8 @@ Jump to **[\<Clips\>](#clips)**.  These are recipe clippings that my Grandmother
 [Gold Cookies](./clips.md#gold-cookies) | 
 [Hustle Cake](./clips.md#hustle-cake) | 
 [Orange Loaf](./clips.md#orange-loaf) | 
+***Bread*** | 
+[Apple Dumplings](./clips.md#apple-dumplings) | 
 
 ## Change History
 
