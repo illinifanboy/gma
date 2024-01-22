@@ -19,9 +19,8 @@ clips:
   - header: Swans Down Pancakes and Biscuits
     link: swans-down-pancakes-and-biscuits
     image: assets/images/clips/swansdown-sm.jpg
-  - header: Bogus
-    link: bogus
-    image: assets/images/clips/bogus-sm.jpg
+    review: I tried the pancakes.  They are pancakes - nothing special.  I'll stick to Bisquick.
+
 
 ---
 
@@ -35,6 +34,10 @@ clips:
 {% for item in page.clips %}
 
 ### {{ item.header }}
+
+{% if item.review != nil %}
+> Steve's Review: {{ item.review }}
+{% endif %}
 
 <img alt="{{ item.header }}" src="https://illinifanboy.github.io/{{ item.image }}">
 
