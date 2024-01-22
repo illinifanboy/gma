@@ -19,6 +19,7 @@ clips:
   - header: Swans Down Pancakes and Biscuits
     link: swans-down-pancakes-and-biscuits
     image: assets/images/clips/swansdown-sm.jpg
+    
 ---
 
 {% for item in page.clips %}
