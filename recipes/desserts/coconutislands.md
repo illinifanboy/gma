@@ -42,6 +42,7 @@ steps:
   - header: Melt Chocolate and Coffee
     text: Melt the chocolate and coffee in a small saucepan over low heat.  Allow the mixture to cool.
     image: assets/images/recipes/coconutislands/cnutchoco1-sm.jpg
+    steve: Not sure how hot to heat this.  I stopped at warm and melted.
   - header: Cream Butter and Sugar
     text: Gradually add brown sugar to butter creaming well.
     image: assets/images/recipes/coconutislands/cnutcream-sm.jpg
@@ -54,12 +55,15 @@ steps:
   - header: Add Coconut
     text: Stir in the coconut.
     image: assets/images/recipes/coconutislands/cnutcnut-sm.jpg
+    steve: I packed the coconut.  1/3 cup seems like too little.
   - header: Bake
     text: Bake at 375 degrees for 12 to 15 minutes.  
     image: assets/images/recipes/coconutislands/cnutraw-sm.jpg
+    steve: I used cookie sheets with silicon mats.  Worked well.  Next time I also may smooth out the cookies with a wet finger.
   - header: Enjoy
     text: Yield 3-1/2 dozen cookies.
     image: assets/images/recipes/coconutislands/cnutcooked2-sm.jpg
+    steve: At rounded teaspoon size, I got more like 2-1/2 dozen.
 
 
 #    image: assets/images/general/noimage.jpg
@@ -148,13 +152,19 @@ Ingredient | Measurement, Weight | Notes
 
 {% for item in page.steps %}
 
-### <ins>{{ item.header }}</ins> 
+#### <ins>{{ item.header }}</ins> 
 
 {{ item.text }}
 
 {{ if (isset item.image ) }}
 <img width="480" alt="{{ item.title }}" src="https://illinifanboy.github.io/{{ item.image }}">
 {{ end }}
+
+{{ if (isset item.image ) }}
+> Steve's Note: {{ item.steve }}
+{% endif %}
+
+
 {% endfor %}
 
 {% endif %}
