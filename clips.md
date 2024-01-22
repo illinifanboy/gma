@@ -21,7 +21,6 @@ clips:
     image: assets/images/clips/swansdown-sm.jpg
     review: I tried the pancakes.  They are pancakes - nothing special.  I'll stick to Bisquick.
 
-
 ---
 
 {% for item in page.clips %}

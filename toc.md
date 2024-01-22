@@ -45,6 +45,8 @@ Jump to **[\<Clips\>](#clips)**.  These are recipe clippings that my Grandmother
 [Richmond Chocolate Frosting](./recipes/desserts/richmond.md) | &#x1F9EA;&#x1F44D;
 [Rusk Pie](./recipes/desserts/ruskpie.md) | &#x1F4DC;
 [Torchetts](./recipes/desserts/torchetts.md) | &#x1F4DC;
+***Main Courses*** |
+[Chicken Pie](./recipes/maincourses/chickenpie.md) | &#x1F4DC;
 ***Bread*** |
 [Biscuits](./recipes/bread/biscuits.md) | &#x1F4DC;
 [Bread](./recipes/bread/bread.md) | &#x1F4DC;
