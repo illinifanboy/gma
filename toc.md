@@ -34,6 +34,7 @@ Jump to **[\<Clips\>](#clips)**.  These are recipe clippings that my Grandmother
 [Ice Box Cookies](./recipes/desserts/iceboxcookies.md) | &#x1F4DC;
 [Impossible Pie](./recipes/desserts/impossiblepie.md) | &#x1F4DC;
 [Lemon Cream](./recipes/desserts/lemoncream.md) |  &#x1F4DC;
+[Lucky Stars](./recipes/desserts/luckystars.md) |  &#x1F4DC;
 [Meringue](./recipes/desserts/meringue.md) |  &#x1F4DC;
 [Nut Roll](./recipes/desserts/nutroll.md) |  &#x1F4DC;
 [Oatmeal Cookies](./recipes/desserts/oatmealcookies.md) | &#x1F4DC;
