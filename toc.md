@@ -27,7 +27,7 @@ Jump to **[\<Clips\>](#clips)**.  These are recipe clippings that my Grandmother
 [Chocolate Cookies](./recipes/desserts/chocolatecookies.md) | &#x1F4DC;&#x1F44D;
 [Chocolate Frosting](./recipes/desserts/chocolatefrosting.md) | &#x1F4DC;
 [Chocolate Fudge Drops](./recipes/desserts/chocolatefudgedrops.md) | &#x1F4DC;
-[Coconut Islands](./recipes/desserts/coconutislands.md) | &#x1F4DC;
+[Coconut Islands](./recipes/desserts/coconutislands.md) | &#x1F9EA;
 [Danish Cheesecake](./recipes/desserts/danishcheesecake.md) | &#x1F4DC;
 [Fruit Squares](./recipes/desserts/fruitsquares.md) | &#x1F4DC;
 [Ice Box Cookies](./recipes/desserts/iceboxcookies.md) | &#x1F4DC;

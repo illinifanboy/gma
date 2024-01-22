@@ -5,7 +5,7 @@ blurb: A chocolate coconut drop cookie.
 finalproduct: assets/images/recipes/coconutislands/cnutcooked-sm.jpg
 handwritten: 
   - image: assets/images/handwritten/coconutislands-sm.jpg
-review: Trying today.
+review: I did make this on.  Not very sweet.  Not very chocolately.  Not very coconutty.  Overall rating, "not very".
 # story: 
 # ingredientsimage: assets/images/general/noimage.jpg
 ingredients:
@@ -38,17 +38,22 @@ ingredients:
 steps:
   - header: Sift Dry Ingredients Together
     text: Sift together the flour, baking soda, and salt.
+    image: assets/images/recipes/coconutislands/cnutsifted-sm.jpg
   - header: Melt Chocolate and Coffee
     text: Melt the chocolate and coffee in a small saucepan over low heat.  Allow the mixture to cool.
+    image: assets/images/recipes/coconutislands/cnutchoco1.jpg
   - header: Cream Butter and Sugar
     text: Gradually add brown sugar to butter creaming well.
+    image: assets/images/recipes/coconutislands/cnutcream-sm.jpg
   - header: Add Egg and Chocolate Mixture
     text: To the creamed butter, add unbeaten egg and chocolate mixture.  Beat well.
+    image: assets/images/recipes/coconutislands/cnutaddegg-sn.jpg
   - header: Add Dry Ingredients and Sour Cream
     text: Alternately mix in dry ingredients and sour cream beginning and ending with dry ingredients.  Blend thoroughly after each addition.
     image: assets/images/recipes/coconutislands/cnutsourcream-sm.jpg
   - header: Add Coconut
     text: Stir in the coconut.
+    image: assets/images/recipes/coconutislands/cnutcnut-sm.jpg
   - header: Bake
     text: Bake at 375 degrees for 12 to 15 minutes.  
     image: assets/images/recipes/coconutislands/cnutraw-sm.jpg
