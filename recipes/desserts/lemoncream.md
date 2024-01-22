@@ -113,10 +113,9 @@ Ingredient | Measurement, Weight | Notes
 <img width="480" alt="{{ item.title }}" src="https://illinifanboy.github.io/{{ item.image }}">
 {{ end }}
 
-{{ if (isset item.image ) }}
+{% if item.steve != nil %}
 > Steve's Note: {{ item.steve }}
 {% endif %}
-
 
 {% endfor %}
 
