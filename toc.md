@@ -28,10 +28,12 @@ Jump to **[\<Clips\>](#clips)**.  These are recipe clippings that my Grandmother
 [Chocolate Frosting](./recipes/desserts/chocolatefrosting.md) | &#x1F4DC;
 [Chocolate Fudge Drops](./recipes/desserts/chocolatefudgedrops.md) | &#x1F4DC;
 [Coconut Islands](./recipes/desserts/coconutislands.md) | &#x1F9EA;
+[Cream Cheese Cake](./recipes/desserts/creamcheesecake.md) | &#x1F4DC;
 [Danish Cheesecake](./recipes/desserts/danishcheesecake.md) | &#x1F4DC;
 [Fruit Squares](./recipes/desserts/fruitsquares.md) | &#x1F4DC;
 [Ice Box Cookies](./recipes/desserts/iceboxcookies.md) | &#x1F4DC;
 [Impossible Pie](./recipes/desserts/impossiblepie.md) | &#x1F4DC;
+[Lemon Cream](./recipes/desserts/lemoncream.md) |  &#x1F4DC;
 [Meringue](./recipes/desserts/meringue.md) |  &#x1F4DC;
 [Nut Roll](./recipes/desserts/nutroll.md) |  &#x1F4DC;
 [Oatmeal Cookies](./recipes/desserts/oatmealcookies.md) | &#x1F4DC;
