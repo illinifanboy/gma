@@ -5,7 +5,7 @@ blurb: A chocolate coconut drop cookie.
 finalproduct: assets/images/recipes/coconutislands/cnutcooked-sm.jpg
 handwritten: 
   - image: assets/images/handwritten/coconutislands-sm.jpg
-review: I did make this on.  Not very sweet.  Not very chocolately.  Not very coconutty.  Overall rating, "not very".
+review: I did make this one.  Not very sweet.  Not very chocolately.  Not very coconutty.  Overall rating, "not very".<br /><br />In all seriousness, they were a bit bland and dry.  Might be better used as an "icing delivery system".  If there is a next time, I may decrease the flour and increase the coconut.  Maybe the chocolate too.
 # story: 
 # ingredientsimage: assets/images/general/noimage.jpg
 ingredients:
@@ -41,13 +41,13 @@ steps:
     image: assets/images/recipes/coconutislands/cnutsifted-sm.jpg
   - header: Melt Chocolate and Coffee
     text: Melt the chocolate and coffee in a small saucepan over low heat.  Allow the mixture to cool.
-    image: assets/images/recipes/coconutislands/cnutchoco1.jpg
+    image: assets/images/recipes/coconutislands/cnutchoco1-sm.jpg
   - header: Cream Butter and Sugar
     text: Gradually add brown sugar to butter creaming well.
     image: assets/images/recipes/coconutislands/cnutcream-sm.jpg
   - header: Add Egg and Chocolate Mixture
     text: To the creamed butter, add unbeaten egg and chocolate mixture.  Beat well.
-    image: assets/images/recipes/coconutislands/cnutaddegg-sn.jpg
+    image: assets/images/recipes/coconutislands/cnutaddegg-sm.jpg
   - header: Add Dry Ingredients and Sour Cream
     text: Alternately mix in dry ingredients and sour cream beginning and ending with dry ingredients.  Blend thoroughly after each addition.
     image: assets/images/recipes/coconutislands/cnutsourcream-sm.jpg
