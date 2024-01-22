@@ -10,6 +10,9 @@ clips:
   - header: Gold Cookies
     link: gold-cookies
     image: assets/images/clips/goldcookiesclip-sm.jpg
+  - header: Christmas Cookies
+    link: christmas-cookies
+    image: assets/images/clips/christmascookies-sm.jpg
   - header: Hustle Cake
     link: hustle-cake
     image: assets/images/clips/hustlecakeclip-sm.jpg
