@@ -1,33 +1,31 @@
 ---
 layout: page
-title: Biscuits I
+title: Apple Sauce Cake II
 # blurb: A short, one-line introduction
 # finalproduct: assets/images/general/noimage.jpg
 handwritten: 
-  - image: assets/images/handwritten/biscuits-sm.jpg
-review: I have not yet tried this recipe.
+  - image: assets/images/handwritten/biscuits2-sm.jpg
+review: Not yet tried.  This is the first variation of Apple Sauce Cake that was found.
 # story: 
 # ingredientsimage: assets/images/general/noimage.jpg
-ingredients:
-  - name: Flour
-    amount: 2 cups
-    note: Sifted
-  - name: Salt
-    amount: 1/2 teaspoon
-    note: 
-  - name: Baking Powder
-    amount: 3 teaspoons
-    note: 
-  - name: Shortening 
-    amount: 3 tablespoons
-    note: 
-  - name: Milk
-    amount: 3/4 cup
-    note: 
-     
-steps:
-  - header: Bake
-    text: Back at 425 degrees for 20 minutes.
+#ingredients:
+#  - name: Ingredient 1
+#    amount: Amount 1
+#    note: Note 1
+#  - name: Ingredient 2
+#    amount: Amount 2
+#    note: 
+    
+#steps:
+#  - header: Step 1
+#    text: The text that says what to do 1.
+#    image: assets/images/general/noimage.jpg
+#  - header: Step 2
+#    text: The text that says what to do 2.
+    # image: 
+#  - header: Step 3
+#    text: The text that says what to do 3.
+#    image: assets/images/general/noimage.jpg
 ---
 
 {::comment}========================={:/comment}
@@ -107,9 +105,9 @@ Ingredient | Measurement, Weight | Notes
 
 {% for item in page.steps %}
 
-#### <ins>{{ item.header }}</ins> 
+### <ins>{{ item.header }}</ins> 
 
-<font size="4">{{ item.text }}</font>
+{{ item.text }}
 
 {{ if (isset item.image ) }}
 <img width="480" alt="{{ item.title }}" src="https://illinifanboy.github.io/{{ item.image }}">
