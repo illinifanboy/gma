@@ -20,7 +20,7 @@ Jump to **[\<Clips\>](#clips)**.  These are recipe clippings that my Grandmother
 - [Canning](#recipes---canning)
 - [Other](#recipes---other)
 
-### [Clips](#clips)
+### [Clips](#newspaper-and-magazine-clips)
 
 
 #### Flags
@@ -112,7 +112,7 @@ Jump to **[\<Clips\>](#clips)**.  These are recipe clippings that my Grandmother
 [Varnish Remover <font color=darkred>(Not Food !!!)</font>](./recipes/other/varnishremover.md) | &#x1F4DC;
 
 
-### Clips
+### Newspaper and Magazine Clips
 
 ---|---
 ***Desserts*** | 
