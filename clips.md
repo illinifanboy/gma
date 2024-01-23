@@ -47,7 +47,7 @@ clips:
 
 ---
 
-<img alt="Lady Cooking" src="https://illinifanboy.github.io/assets/images/general/ladycooking-sm.jpg">
+<img alt="Lady Cooking" src="https://illinifanboy.github.io/assets/images/general/ladycooking-vs.jpg">
 
 {% for item in page.clips %}
 
