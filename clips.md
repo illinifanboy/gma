@@ -47,6 +47,8 @@ clips:
 
 ---
 
+<img alt="Lady Cooking" src="https://illinifanboy.github.io/assets/images/general/ladycooking-sm.jpg">
+
 {% for item in page.clips %}
 
 #### **[\> {{item.header}} ](#{{item.link}})**
