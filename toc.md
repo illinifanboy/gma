@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Table of Contents
+title: Recipes
 tagline: TOC
 description: Table of Contents
 ---
@@ -10,7 +10,7 @@ Jump to **[\<Recipes\>](#recipes)**.  These are recipes that my Grandmother wrot
 Jump to **[\<Clips\>](#clips)**.  These are recipe clippings that my Grandmother saved.
 
 
-## Recipes
+### Recipes
 
 - [Desserts](#recipes---desserts)
 - [Main Courses](#recipes---main-courses)
@@ -19,6 +19,9 @@ Jump to **[\<Clips\>](#clips)**.  These are recipe clippings that my Grandmother
 - [Vegetables and Sides](#recipes---vegetables-and-sides)
 - [Canning](#recipes---canning)
 - [Other](#recipes---other)
+
+### [Clips](#clips)
+
 
 #### Flags
 
@@ -109,7 +112,7 @@ Jump to **[\<Clips\>](#clips)**.  These are recipe clippings that my Grandmother
 [Varnish Remover <font color=darkred>(Not Food !!!)</font>](./recipes/other/varnishremover.md) | &#x1F4DC;
 
 
-## Clips
+### Clips
 
 ---|---
 ***Desserts*** | 
