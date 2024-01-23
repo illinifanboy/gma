@@ -1,11 +1,12 @@
 ---
 layout: page
-title: Apple Sauce Cake I
+title: Apple Sauce Cake II
 # blurb: A short, one-line introduction
 # finalproduct: assets/images/general/noimage.jpg
 handwritten: 
-  - image: assets/images/handwritten/applesaucecake-sm.jpg
-review: Not yet tried.  This is the first variation of Apple Sauce Cake that was found.
+  - image: assets/images/handwritten/applesaucecake1-sm.jpg
+  - image: assets/images/handwritten/applesaucecake2-sm.jpg
+review: Not yet tried.  This is the second variation of Apple Sauce Cake that was found.
 # story: 
 # ingredientsimage: assets/images/general/noimage.jpg
 #ingredients:
@@ -105,13 +106,18 @@ Ingredient | Measurement, Weight | Notes
 
 {% for item in page.steps %}
 
-### <ins>{{ item.header }}</ins> 
+#### <ins>{{ item.header }}</ins> 
 
 {{ item.text }}
 
 {{ if (isset item.image ) }}
 <img width="480" alt="{{ item.title }}" src="https://illinifanboy.github.io/{{ item.image }}">
 {{ end }}
+
+{% if item.steve != nil %}
+> Steve's Note: {{ item.steve }}
+{% endif %}
+
 {% endfor %}
 
 {% endif %}
