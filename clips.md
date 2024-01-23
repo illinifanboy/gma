@@ -13,6 +13,9 @@ clips:
   - header: Christmas Cookies
     link: christmas-cookies
     image: assets/images/clips/christmascookies-sm.jpg
+  - header: Crusty Italian Bread
+    link: crusty-italian-break
+    image: assets/images/clips/crustyitalianbread-sm.jpg
   - header: Hustle Cake
     link: hustle-cake
     image: assets/images/clips/hustlecakeclip-sm.jpg
