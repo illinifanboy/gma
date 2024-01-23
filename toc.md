@@ -12,13 +12,19 @@ Jump to **[\<Clips\>](#clips)**.  These are recipe clippings that my Grandmother
 
 ## Recipes
 
-- [Canning](recipes-canning)
-- [Other](recipes-other)
+- [Desserts](#recipes---desserts)
+- [Main Courses](#recipes---main-courses)
+- [Bread](#recipes---bread)
+- [Appetizers](#recipes---appetizers)
+- [Vegetables and Sides](#recipes---vegetables-and-sides)
+- [Canning](#recipes---canning)
+- [Other](#recipes---other)
 
 <em>&#x1F9EA; - Steve Tested, &#x1F44D; - Steve Approved, &#x1F4DC; - Handwritten Only</em>
 
----------|---
-***Desserts*** | 
+#### Recipes - Desserts
+
+|Recipe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Flags&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 [Almond Frostings](./recipes/desserts/almondfrosting.md) | 
 [Apple Butter Cupcakes](./recipes/desserts/applebuttercupcakes.md) | 
 [Apple Sauce Cake I](./recipes/desserts/applesaucecake.md) | &#x1F4DC;
@@ -53,10 +59,16 @@ Jump to **[\<Clips\>](#clips)**.  These are recipe clippings that my Grandmother
 [Rusk Pie](./recipes/desserts/ruskpie.md) | &#x1F4DC;
 [Torchetts](./recipes/desserts/torchetts.md) | &#x1F4DC;
 [Virginia Pound Cake](./recipes/desserts/virginiapoundcake.md) | &#x1F4DC;
-***Main Courses*** |
+
+#### Recipes - Main Courses
+
+|Recipe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Flags&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 [Chicken Pie](./recipes/maincourses/chickenpie.md) | &#x1F4DC;
 [Dumplings](./recipes/maincourses/dumplings.md) | &#x1F4DC;
-***Bread*** |
+
+#### Recipes - Bread
+
+|Recipe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Flags&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 [Biscuits I](./recipes/bread/biscuits.md) | &#x1F4DC;
 [Biscuits II](./recipes/bread/biscuitsagain.md) | &#x1F4DC;
 [Bread](./recipes/bread/bread.md) | &#x1F4DC;
@@ -65,9 +77,15 @@ Jump to **[\<Clips\>](#clips)**.  These are recipe clippings that my Grandmother
 [Horse Shoe Etts](./recipes/bread/horseshoeetts.md) | &#x1F4DC;
 [Refrigerator Rolls](./recipes/bread/refrigrolls.md) | &#x1F4DC;
 [Two Hour Yeast Rolls](./recipes/bread/twohouryeastrolls.md) | &#x1F4DC;
-***Appetizers*** | 
+
+#### Recipes - Appetizers 
+
+|Recipe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Flags&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 [Toasted Ravioli](./recipes/appetizers/toastedravioli.md) | &#x1F4DC;&#x1F44D;
-***Vegetables and Sides*** | 
+
+#### Recipes - Vegetables and Sides
+
+|Recipe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Flags&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 [Lima Bean Vegetable Soup](./recipes/vegetables/limabeansoup.md) | &#x1F4DC;
 [Rice Casserole](./recipes/vegetables/ricecasserole.md) | &#x1F4DC;
 [Wilted Cabbage](./recipes/vegetables/wiltedcabbage.md) | &#x1F4DC;
