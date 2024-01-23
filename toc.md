@@ -12,7 +12,8 @@ Jump to **[\<Clips\>](#clips)**.  These are recipe clippings that my Grandmother
 
 ## Recipes
 
-[Other](#other)
+- [Canning](recipes-canning)
+- [Other](recipes-other)
 
 <em>&#x1F9EA; - Steve Tested, &#x1F44D; - Steve Approved, &#x1F4DC; - Handwritten Only</em>
 
@@ -71,7 +72,7 @@ Jump to **[\<Clips\>](#clips)**.  These are recipe clippings that my Grandmother
 [Rice Casserole](./recipes/vegetables/ricecasserole.md) | &#x1F4DC;
 [Wilted Cabbage](./recipes/vegetables/wiltedcabbage.md) | &#x1F4DC;
 
-#### Canning
+#### Recipes - Canning
 
 |Recipe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Flags&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 -------------|---
@@ -80,7 +81,7 @@ Jump to **[\<Clips\>](#clips)**.  These are recipe clippings that my Grandmother
 [Mixed Vegetable Pickles](./recipes/canning/mixedvegetablepickles.md) | &#x1F4DC;
 [Peach Preserves](./recipes/canning/peachpreserves.md) | &#x1F4DC; 
 
-#### Other
+#### Recipes - Other
 
 |Recipe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Flags&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 -------------|---
