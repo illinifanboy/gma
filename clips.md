@@ -47,6 +47,8 @@ clips:
 
 ---
 
+> The reason I call this a "scrapbook" and not a "cookie" is because of clippings.  The scrapbooks contain both handwritten recipes and other recipes cut out from newspaper and magazines.  In fact, there are for more clippings than handwritten recipes.<br /><br />Since there were so many clippings to weed through, I had to pick and choose.  I picked things because they were interesting, either interesting to cook or interesting to look at.
+
 <img alt="Lady Cooking" src="https://illinifanboy.github.io/assets/images/general/ladycooking-vs.jpg">
 
 {% for item in page.clips %}
