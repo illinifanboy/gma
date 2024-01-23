@@ -16,6 +16,9 @@ clips:
   - header: Crusty Italian Bread
     link: crusty-italian-break
     image: assets/images/clips/crustyitalianbread-sm.jpg
+  - header: Homemade Bread
+    link: homemade-bread
+    image: assets/images/clips/homemadebread-sm.jpg
   - header: Hustle Cake
     link: hustle-cake
     image: assets/images/clips/hustlecakeclip-sm.jpg
