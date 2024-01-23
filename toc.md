@@ -73,7 +73,7 @@ Jump to **[\<Clips\>](#clips)**.  These are recipe clippings that my Grandmother
 
 #### Canning
 
-|`                Recipe                 `|`   Flags   `|
+|Recipe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Flags&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 -------------|---
 [Antipasta](./recipes/canning/antipasta.md) | &#x1F4DC;&#x1F44D;
 [Cauliflower Pickles](./recipes/canning/cauliflowerpickles.md) | &#x1F4DC;
@@ -82,7 +82,7 @@ Jump to **[\<Clips\>](#clips)**.  These are recipe clippings that my Grandmother
 
 #### Other
 
-|`                Recipe                 `|`   Flags   `|
+|Recipe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Flags&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 -------------|---
 [Roach Balls <font color=darkred>(Not Food !!!)</font>](./recipes/other/roachballs.md) | &#x1F4DC;
 [Varnish Remover <font color=darkred>(Not Food !!!)</font>](./recipes/other/varnishremover.md) | &#x1F4DC;
