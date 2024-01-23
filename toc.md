@@ -20,6 +20,8 @@ Jump to **[\<Clips\>](#clips)**.  These are recipe clippings that my Grandmother
 - [Canning](#recipes---canning)
 - [Other](#recipes---other)
 
+#### Flags
+
 <em>&#x1F9EA; - Steve Tested, &#x1F44D; - Steve Approved, &#x1F4DC; - Handwritten Only</em>
 
 #### Recipes - Desserts
