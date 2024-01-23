@@ -16,7 +16,7 @@ Jump to **[\<Clips\>](#clips)**.  These are recipe clippings that my Grandmother
 
 <em>&#x1F9EA; - Steve Tested, &#x1F44D; - Steve Approved, &#x1F4DC; - Handwritten Only</em>
 
----|---
+---------|---
 ***Desserts*** | 
 [Almond Frostings](./recipes/desserts/almondfrosting.md) | 
 [Apple Butter Cupcakes](./recipes/desserts/applebuttercupcakes.md) | 
@@ -75,9 +75,9 @@ Jump to **[\<Clips\>](#clips)**.  These are recipe clippings that my Grandmother
 [Mixed Vegetable Pickles](./recipes/canning/mixedvegetablepickles.md) | &#x1F4DC;
 [Peach Preserves](./recipes/canning/peachpreserves.md) | &#x1F4DC; 
 
-## Other
+#### Other
 
----|---
+---------|---
 [Roach Balls <font color=darkred>(Not Food !!!)</font>](./recipes/other/roachballs.md) | &#x1F4DC;
 [Varnish Remover <font color=darkred>(Not Food !!!)</font>](./recipes/other/varnishremover.md) | &#x1F4DC;
 

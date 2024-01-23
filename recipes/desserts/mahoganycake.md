@@ -6,7 +6,7 @@ title: Mahogany Cake
 handwritten: 
   - image: assets/images/handwritten/mahoganycake1-sm.jpg
   - image: assets/images/handwritten/mahoganycake2-sm.jpg
-review: Not yet tried.  This is the first variation of Apple Sauce Cake that was found.
+review: Not yet tried.  This recipe is typed, but I am calling this hand written.
 # story: 
 # ingredientsimage: assets/images/general/noimage.jpg
 #ingredients:
