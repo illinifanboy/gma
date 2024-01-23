@@ -16,6 +16,9 @@ clips:
   - header: Hustle Cake
     link: hustle-cake
     image: assets/images/clips/hustlecakeclip-sm.jpg
+  - header: Lemon Cake
+    link: lemon-cake
+    image: assets/images/clips/lemoncake-sm.jpg
   - header: Orange Loaf
     link: orange-loaf
     image: assets/images/clips/orangeloaf-sm.jpg

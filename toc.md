@@ -94,6 +94,7 @@ Jump to **[\<Clips\>](#clips)**.  These are recipe clippings that my Grandmother
 [Christmas Cookies](./clips.md#christmas-cookies) | 
 [Gold Cookies](./clips.md#gold-cookies) | 
 [Hustle Cake](./clips.md#hustle-cake) | 
+[Lemon Cake](./clips.md#lemon-cake) | 
 [Orange Loaf](./clips.md#orange-loaf) | 
 ***Bread*** | 
 [Swans Down Pancakes and Biscuits](./clips.md#swans-down-pancakes-and-biscuits) | &#x1F9EA;
@@ -102,7 +103,7 @@ Jump to **[\<Clips\>](#clips)**.  These are recipe clippings that my Grandmother
 
 Date | Change
 ---|---
-January 23, 2024 | Add Virginia Pound Cake, Cauliflower, Dumplings, Lima Bean Soup, Two Hour Yeast Rolls, Antipasta, Chicken Pie, Lucky Stars, Pineapple Upside Down Cake, Cream Cheese Cake, Chocolate Marble Cake, Biscuits\[again\], Mahogany Cake, Red Devils Food Cake
+January 23, 2024 | Add Virginia Pound Cake, Cauliflower, Dumplings, Lima Bean Soup, Two Hour Yeast Rolls, Antipasta, Chicken Pie, Lucky Stars, Pineapple Upside Down Cake, Cream Cheese Cake, Chocolate Marble Cake, Biscuits\[again\], Mahogany Cake, Red Devils Food Cake, Lemon Cake Clip
 January 21, 2024 | Add Chocolate Fudge Drops. Gold Cookies Clip, Ice Box Cookies, Orange Loaf Clip, Coconut Islands
 January 19, 2024 | Add Rice Casserole, Wilted Cabbage, Snickerdoodles, Rusk Pie, Peanut Butter Krunch, Cheesecake, Caramel Pecan Pie, Cauliflower Pickles, Mixed Vegetable Pickles, Peach Preserves, Apple Butter Cupcakes, Almond Frosting, Biscuits, Orange Cookies, Orange Frosting, Apricot Cookies, Chocolate Chip Cookies
 January 17, 2024 | Add Impossible Pie, Cherry Coke Cake, Merinque, Varnish Remover.
