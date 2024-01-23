@@ -22,6 +22,9 @@ clips:
   - header: Lemon Cake
     link: lemon-cake
     image: assets/images/clips/lemoncake-sm.jpg
+  - header: Lemon Meringue Pie
+    link: lemon-meringue-pie
+    image: assets/images/clips/lemonmeringuepie.jpg
   - header: Orange Loaf
     link: orange-loaf
     image: assets/images/clips/orangeloaf-sm.jpg
