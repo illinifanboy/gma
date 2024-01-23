@@ -12,7 +12,7 @@ Jump to **[\<Clips\>](#clips)**.  These are recipe clippings that my Grandmother
 
 ## Recipes
 
-[Desserts](#Desserts)
+[Other](#other)
 
 <em>&#x1F9EA; - Steve Tested, &#x1F44D; - Steve Approved, &#x1F4DC; - Handwritten Only</em>
 
@@ -39,6 +39,7 @@ Jump to **[\<Clips\>](#clips)**.  These are recipe clippings that my Grandmother
 [Impossible Pie](./recipes/desserts/impossiblepie.md) | &#x1F4DC;
 [Lemon Cream](./recipes/desserts/lemoncream.md) |  &#x1F4DC;
 [Lucky Stars](./recipes/desserts/luckystars.md) |  &#x1F4DC;
+[Mahogany Cake](./recipes/desserts/mahoganycake.md) |  &#x1F4DC;
 [Meringue](./recipes/desserts/meringue.md) |  &#x1F4DC;
 [Nut Roll](./recipes/desserts/nutroll.md) |  &#x1F4DC;
 [Oatmeal Cookies](./recipes/desserts/oatmealcookies.md) | &#x1F4DC;
@@ -72,12 +73,14 @@ Jump to **[\<Clips\>](#clips)**.  These are recipe clippings that my Grandmother
 [Antipasta](./recipes/canning/antipasta.md) | &#x1F4DC;&#x1F44D;
 [Cauliflower Pickles](./recipes/canning/cauliflowerpickles.md) | &#x1F4DC;
 [Mixed Vegetable Pickles](./recipes/canning/mixedvegetablepickles.md) | &#x1F4DC;
-[Peach Preserves](./recipes/canning/peachpreserves.md) | &#x1F4DC;
+[Peach Preserves](./recipes/canning/peachpreserves.md) | &#x1F4DC; 
 
-***Other*** 
+## Other
+
 ---|---
 [Roach Balls <font color=darkred>(Not Food !!!)</font>](./recipes/other/roachballs.md) | &#x1F4DC;
 [Varnish Remover <font color=darkred>(Not Food !!!)</font>](./recipes/other/varnishremover.md) | &#x1F4DC;
+
 
 ## Clips
 
@@ -95,7 +98,7 @@ Jump to **[\<Clips\>](#clips)**.  These are recipe clippings that my Grandmother
 
 Date | Change
 ---|---
-January 23, 2024 | Add Virginia Pound Cake, Cauliflower, Dumplings, Lima Bean Soup, Two Hour Yeast Rolls, Antipasta, Chicken Pie, Lucky Stars, Pineapple Upside Down Cake, Cream Cheese Cake, Chocolate Marble Cake, Biscuits\[again\]
+January 23, 2024 | Add Virginia Pound Cake, Cauliflower, Dumplings, Lima Bean Soup, Two Hour Yeast Rolls, Antipasta, Chicken Pie, Lucky Stars, Pineapple Upside Down Cake, Cream Cheese Cake, Chocolate Marble Cake, Biscuits\[again\], Mahogany Cake
 January 21, 2024 | Add Chocolate Fudge Drops. Gold Cookies Clip, Ice Box Cookies, Orange Loaf Clip, Coconut Islands
 January 19, 2024 | Add Rice Casserole, Wilted Cabbage, Snickerdoodles, Rusk Pie, Peanut Butter Krunch, Cheesecake, Caramel Pecan Pie, Cauliflower Pickles, Mixed Vegetable Pickles, Peach Preserves, Apple Butter Cupcakes, Almond Frosting, Biscuits, Orange Cookies, Orange Frosting, Apricot Cookies, Chocolate Chip Cookies
 January 17, 2024 | Add Impossible Pie, Cherry Coke Cake, Merinque, Varnish Remover.
