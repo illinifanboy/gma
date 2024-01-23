@@ -14,7 +14,7 @@ clips:
     link: christmas-cookies
     image: assets/images/clips/christmascookies-sm.jpg
   - header: Crusty Italian Bread
-    link: crusty-italian-break
+    link: crusty-italian-bread
     image: assets/images/clips/crustyitalianbread-sm.jpg
   - header: Homemade Bread
     link: homemade-bread
