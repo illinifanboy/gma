@@ -52,6 +52,7 @@ Jump to **[\<Clips\>](#clips)**.  These are recipe clippings that my Grandmother
 [Lemon Cream](./recipes/desserts/lemoncream.md) |  &#x1F4DC;
 [Lucky Stars](./recipes/desserts/luckystars.md) |  &#x1F4DC;
 [Mahogany Cake](./recipes/desserts/mahoganycake.md) |  &#x1F4DC;
+[Mandarin Orange Cake](./recipes/desserts/mandarinorangecake.md) |   &#x1F4DC;
 [Meringue](./recipes/desserts/meringue.md) |  &#x1F4DC;
 [Nut Roll](./recipes/desserts/nutroll.md) |  &#x1F4DC;
 [Oatmeal Cookies](./recipes/desserts/oatmealcookies.md) | &#x1F4DC;
@@ -123,7 +124,6 @@ Jump to **[\<Clips\>](#clips)**.  These are recipe clippings that my Grandmother
 [Hustle Cake](./clips.md#hustle-cake) | 
 [Lemon Cake](./clips.md#lemon-cake) | 
 [Lemon Meringue Pie](clips.md#lemon-meringue-pie) |
-[Mandarin Orange Cake](clips.md#mandarin-orange-cake) |
 [Orange Loaf](./clips.md#orange-loaf) | 
 [White Mountain Frosting](./clips.md#white-mountain-frosting) | 
 ***Bread*** | 

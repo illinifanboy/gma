@@ -31,9 +31,6 @@ clips:
   - header: Lemon Meringue Pie
     link: lemon-meringue-pie
     image: assets/images/clips/lemonmeringuepie.jpg
-  - header: Mandarin Orange Cake
-    link: mandarin-orange-cake
-    image: assets/images/clips/mandarinorangecake-sm.jpg
   - header: Orange Loaf
     link: orange-loaf
     image: assets/images/clips/orangeloaf-sm.jpg
