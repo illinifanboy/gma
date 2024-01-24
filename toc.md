@@ -77,7 +77,8 @@ Jump to **[\<Clips\>](#clips)**.  These are recipe clippings that my Grandmother
 |Recipe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Flags&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 [Biscuits I](./recipes/bread/biscuits.md) | &#x1F4DC;
 [Biscuits II](./recipes/bread/biscuitsagain.md) | &#x1F4DC;
-[Bread](./recipes/bread/bread.md) | &#x1F4DC;
+[Bread](./recipes/bread/breadagain.md) | &#x1F4DC;
+[Bread II](./recipes/bread/bread2.md) | &#x1F4DC;
 [Donuts](./recipes/bread/donuts.md) | &#x1F4DC;
 [Honey Coffee Cake](./recipes/bread/honeycoffeecake.md) | &#x1F4DC;
 [Horse Shoe Etts](./recipes/bread/horseshoeetts.md) | &#x1F4DC;

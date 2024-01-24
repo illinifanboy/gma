@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Bread
+title: Bread II
 # blurb: A short, one-line introduction
 # finalproduct: assets/images/general/noimage.jpg
 handwritten: 
-  - image: assets/images/handwritten/bread-sm.jpg
+  - image: assets/images/handwritten/bread2-sm.jpg
 review: I have not tried this recipe yet.
 story: My Grandmother made so much bread that she kept a medium garbage can in her kitchen just to hold flour. 
 # ingredientsimage: assets/images/general/noimage.jpg
