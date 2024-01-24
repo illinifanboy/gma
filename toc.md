@@ -7,7 +7,7 @@ description: Table of Contents
 
 Jump to **[\<Recipes\>](#recipes)**.  These are recipes that my Grandmother wrote out by hand.
 
-Jump to **[\<Clips\>](#clips)**.  These are recipe clippings that my Grandmother saved.
+Jump to **[\<Clips\>](#clips)**.  These are recipe clippings that my Grandmother cut out from newspapers and magazines.
 
 
 ### Recipes

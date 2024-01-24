@@ -5,7 +5,7 @@ title: Chocolate Marble Cake
 # finalproduct: assets/images/general/noimage.jpg
 handwritten: 
   - image: assets/images/handwritten/chocolatemarblecake-sm.jpg
-review: Not yet tried.  This is the first variation of Apple Sauce Cake that was found.
+review: Not yet tried.  
 # story: 
 # ingredientsimage: assets/images/general/noimage.jpg
 #ingredients:
