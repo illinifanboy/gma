@@ -130,7 +130,7 @@ Jump to **[\<Clips\>](#clips)**.  These are recipe clippings that my Grandmother
 [White Mountain Frosting](./clips.md#white-mountain-frosting) | 
 ***Bread*** | 
 [Crusty Italian Bread](./clips.md#crusty-italian-bread) | &#x1F4DC; 
-[Homemade Bread](./clips.md#homemade-bread) | &#x1F4DC; 
+[Homemade Bread \(Peasant Bread\)](./clips.md#homemade-bread) | &#x1F4DC; 
 [Swans Down Pancakes and Biscuits](./clips.md#swans-down-pancakes-and-biscuits) | &#x1F9EA;
 
 ## Change History
