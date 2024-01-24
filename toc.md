@@ -83,7 +83,7 @@ Jump to **[\<Clips\>](#clips)**.  These are recipe clippings that my Grandmother
 [Horse Shoe Etts](./recipes/bread/horseshoeetts.md) | &#x1F4DC;
 [Refrigerator Rolls](./recipes/bread/refrigrolls.md) | &#x1F4DC;
 [Two Hour Yeast Rolls](./recipes/bread/twohouryeastrolls.md) | &#x1F4DC;
-[Waffles](./recipes/bread/waffles.md.md) | &#x1F4DC;&#x1F9EA;&#x1F44D;
+[Waffles](./recipes/bread/waffles.md) | &#x1F4DC;&#x1F9EA;&#x1F44D;
 
 
 #### Recipes - Appetizers 
