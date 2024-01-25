@@ -69,6 +69,7 @@ Jump to **[\<Clips\>](#clips)**.  These are recipe clippings that my Grandmother
 #### Recipes - Main Courses
 
 |Recipe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Flags&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
+[Barbecue](./recipes/maincourses/barbecue.md) | &#x1F4DC;
 [Chicken Pie](./recipes/maincourses/chickenpie.md) | &#x1F4DC;
 [Dumplings](./recipes/maincourses/dumplings.md) | &#x1F4DC;
 

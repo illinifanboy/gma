@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Red Devils Food Cake
+title: Barbecue
 # blurb: A short, one-line introduction
 # finalproduct: assets/images/general/noimage.jpg
 handwritten: 
-  - image: assets/images/handwritten/reddevilsfoodcake=sm.jpg
-review: Not yet tried.  This recipe is typed, but I am calling this handwritten.
+  - image: assets/images/handwritten/barbecue-sm.jpg
+review: Not yet tried.  This recipe is typed, but I am calling this hand written.
 # story: 
 # ingredientsimage: assets/images/general/noimage.jpg
 #ingredients:
