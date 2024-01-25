@@ -7,9 +7,9 @@ clips:
   - header: Apple Dumplings
     link: apple-dumplings
     image: assets/images/clips/appledumplingsclip-sm.jpg
-  - header: Gold Cookies
-    link: gold-cookies
-    image: assets/images/clips/goldcookiesclip-sm.jpg
+  - header: Blue Ribbon Lemon Pie
+    link: blue-ribbon-lemon-pie
+    image: assets/images/clips/blueribbonlemonpie-sm.jpg
   - header: Christmas Cookies
     link: christmas-cookies
     image: assets/images/clips/christmascookies-sm.jpg
@@ -19,6 +19,9 @@ clips:
   - header: Cream Cheese Cookies
     link: cream-cheese-cookies
     image: assets/images/clips/creamcheesecookies-sm.jpg
+  - header: Gold Cookies
+    link: gold-cookies
+    image: assets/images/clips/goldcookiesclip-sm.jpg
   - header: Homemade Bread
     link: homemade-bread
     image: assets/images/clips/homemadebread-sm.jpg
