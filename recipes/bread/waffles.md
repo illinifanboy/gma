@@ -4,7 +4,7 @@ title: Waffles
 # blurb: A short, one-line introduction
 # finalproduct: assets/images/general/noimage.jpg
 handwritten: 
-  - image: assets/images/handwritten/waffles.jpg
+  - image: assets/images/handwritten/waffles-sm.jpg
 review: Not bad waffles.  Lots of butter in the mix.  Need to cook awhile to get it brown and crisply.  Probably due to all the butter.
 # story: 
 # ingredientsimage: assets/images/general/noimage.jpg
