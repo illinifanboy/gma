@@ -5,7 +5,7 @@ title: Barbecue
 # finalproduct: assets/images/general/noimage.jpg
 handwritten: 
   - image: assets/images/handwritten/barbecue-sm.jpg
-review: Not yet tried.  This recipe is typed, but I am calling this hand written.
+review: I have not yet tried this particular recipe.  My Grandmother made barbecue that was pretty good though I'm not sure if this is the recipe.  
 # story: 
 # ingredientsimage: assets/images/general/noimage.jpg
 #ingredients:
