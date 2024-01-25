@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Snickerdoodles 
+title: Snickerdoodles
 # blurb: A short, one-line introduction
 # finalproduct: assets/images/general/noimage.jpg
 handwritten: 
-  - image: assets/images/handwritten/snickerdoodle-sm.jpg
+  - image: assets/images/handwritten/snickerdoodles-sm.jpg
 # review: Not yet reviewed.
 # story: 
 # ingredientsimage: assets/images/general/noimage.jpg
