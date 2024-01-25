@@ -91,6 +91,7 @@ Jump to **[\<Clips\>](#clips)**.  These are recipe clippings that my Grandmother
 |Recipe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Flags&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 [Biscuits I](./recipes/bread/biscuits.md) | &#x1F4DC;
 [Biscuits II](./recipes/bread/biscuitsagain.md) | &#x1F4DC;
+[Butterhorn Rolls](./recipes/bread/butterhornrolls.md) | &#x1F4DC;
 [Bread](./recipes/bread/breadagain.md) | &#x1F4DC;
 [Bread II](./recipes/bread/bread2.md) | &#x1F4DC;
 [Clover Leaf Rolls](./recipes/bread/cloverleafrolls.md) | &#x1F4DC;
@@ -162,7 +163,7 @@ Jump to **[\<Clips\>](#clips)**.  These are recipe clippings that my Grandmother
 
 Date | Change
 ---|---
-January 25, 2024 | Add Waffles, French Bread - two kinds, Blue Ribbon Lemon Pie Clip, Lemon Cheesecake Pie Clip, Hershey Cake Clip, Sweetheart Crescents, Clover Leaf Rolls, Hot Cinnamon Coffee Cake Clip, Cheese Cake - two kinds, Sponge Cake, Cheese Pie
+January 25, 2024 | Add Waffles, French Bread - two kinds, Blue Ribbon Lemon Pie Clip, Lemon Cheesecake Pie Clip, Hershey Cake Clip, Sweetheart Crescents, Clover Leaf Rolls, Hot Cinnamon Coffee Cake Clip, Cheese Cake - two kinds, Sponge Cake, Cheese Pie, Butterhorn Rolls
 January 23, 2024 | Add Virginia Pound Cake, Cauliflower, Dumplings, Lima Bean Soup, Two Hour Yeast Rolls, Antipasta, Chicken Pie, Lucky Stars, Pineapple Upside Down Cake, Cream Cheese Cake, Chocolate Marble Cake, Biscuits\[again\], Mahogany Cake, Red Devils Food Cake, Lemon Cake Clip, Crusty Italian Bread Clip, White Mountain Frosting, Lemon Meringue Pie Clip, Mandarin Orange Cake Clip, Homemade Bread Clip, Cream Cheese Cookies Clip
 January 21, 2024 | Add Chocolate Fudge Drops. Gold Cookies Clip, Ice Box Cookies, Orange Loaf Clip, Coconut Islands
 January 19, 2024 | Add Rice Casserole, Wilted Cabbage, Snickerdoodles, Rusk Pie, Peanut Butter Krunch, Cheesecake, Caramel Pecan Pie, Cauliflower Pickles, Mixed Vegetable Pickles, Peach Preserves, Apple Butter Cupcakes, Almond Frosting, Biscuits, Orange Cookies, Orange Frosting, Apricot Cookies, Chocolate Chip Cookies
