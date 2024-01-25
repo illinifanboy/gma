@@ -91,6 +91,7 @@ Jump to **[\<Clips\>](#clips)**.  These are recipe clippings that my Grandmother
 [Hot Cinnamon Coffe Cake](./recipes/bread/hotcinnamoncoffeecake.md) | &#x1F4DC;
 [Refrigerator Rolls](./recipes/bread/refrigrolls.md) | &#x1F4DC;
 [Two Hour Yeast Rolls](./recipes/bread/twohouryeastrolls.md) | &#x1F4DC;
+[Sponge Cake](./recipes/bread/spongecake.md) | &#x1F4DC;
 [Sweetheart Cresents](./recipes/bread/sweetheartcrescents.md) | &#x1F4DC;
 [Waffles](./recipes/bread/waffles.md) | &#x1F4DC;&#x1F9EA;&#x1F44D;
 
@@ -150,7 +151,7 @@ Jump to **[\<Clips\>](#clips)**.  These are recipe clippings that my Grandmother
 
 Date | Change
 ---|---
-January 25, 2024 | Add Waffles, French Bread - two kinds, Blue Ribbon Lemon Pie Clip, Lemon Cheesecake Pie Clip, Hershey Cake Clip, Sweetheart Crescents, Clover Leaf Rolls, Hot Cinnamon Coffee Cake Clip, Cheese Cake - two kinds
+January 25, 2024 | Add Waffles, French Bread - two kinds, Blue Ribbon Lemon Pie Clip, Lemon Cheesecake Pie Clip, Hershey Cake Clip, Sweetheart Crescents, Clover Leaf Rolls, Hot Cinnamon Coffee Cake Clip, Cheese Cake - two kinds, Sponge Cake
 January 23, 2024 | Add Virginia Pound Cake, Cauliflower, Dumplings, Lima Bean Soup, Two Hour Yeast Rolls, Antipasta, Chicken Pie, Lucky Stars, Pineapple Upside Down Cake, Cream Cheese Cake, Chocolate Marble Cake, Biscuits\[again\], Mahogany Cake, Red Devils Food Cake, Lemon Cake Clip, Crusty Italian Bread Clip, White Mountain Frosting, Lemon Meringue Pie Clip, Mandarin Orange Cake Clip, Homemade Bread Clip, Cream Cheese Cookies Clip
 January 21, 2024 | Add Chocolate Fudge Drops. Gold Cookies Clip, Ice Box Cookies, Orange Loaf Clip, Coconut Islands
 January 19, 2024 | Add Rice Casserole, Wilted Cabbage, Snickerdoodles, Rusk Pie, Peanut Butter Krunch, Cheesecake, Caramel Pecan Pie, Cauliflower Pickles, Mixed Vegetable Pickles, Peach Preserves, Apple Butter Cupcakes, Almond Frosting, Biscuits, Orange Cookies, Orange Frosting, Apricot Cookies, Chocolate Chip Cookies
