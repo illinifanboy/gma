@@ -4,7 +4,7 @@ title: Cheesecake II
 # blurb: A short, one-line introduction
 # finalproduct: assets/images/general/noimage.jpg
 handwritten: 
-  - image: assets/images/handwritten/cheesecake2-sm.jpg
+  - image: assets/images/handwritten/cheesecakeii-sm.jpg
 # review: Not yet reviewed.
 # story: 
 # ingredientsimage: assets/images/general/noimage.jpg
