@@ -25,7 +25,7 @@ Jump to **[\<Clips\>](#clips)**.  These are recipe clippings that my Grandmother
 
 #### Flags
 
-<em>&#x1F9EA; - Steve Tested, &#x1F44D; - Steve Approved, &#x1F4DC; - Handwritten Only, &#x1F5CA; - Detailed</em>
+<em>&#x1F9EA; - Steve Tested, &#x1F44D; - Steve Approved, &#x1F4DC; - Handwritten Only, &#x1F3AB; - Detailed</em>
 <br />&#x1F3AB;
 <br />&#x1F483;
 <br />&#x1F4C3;
@@ -40,8 +40,8 @@ Jump to **[\<Clips\>](#clips)**.  These are recipe clippings that my Grandmother
 #### Recipes - Desserts
 
 |Recipe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Flags&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
-[Almond Frostings](./recipes/desserts/almondfrosting.md) | &#x1F5CA;
-[Apple Butter Cupcakes](./recipes/desserts/applebuttercupcakes.md) | &#x1F5CA; 
+[Almond Frostings](./recipes/desserts/almondfrosting.md) | &#x1F3AB;
+[Apple Butter Cupcakes](./recipes/desserts/applebuttercupcakes.md) | &#x1F3AB; 
 [Apple Sauce Cake I](./recipes/desserts/applesaucecake.md) | &#x1F4DC;
 [Apple Sauce Cake II](./recipes/desserts/applesaucecakeagain.md) | &#x1F4DC;
 [Apricot Cookies](./recipes/desserts/apricotcookies.md) | &#x1F4DC;
@@ -53,7 +53,7 @@ Jump to **[\<Clips\>](#clips)**.  These are recipe clippings that my Grandmother
 [Chocolate Frosting](./recipes/desserts/chocolatefrosting.md) | &#x1F4DC;
 [Chocolate Fudge Drops](./recipes/desserts/chocolatefudgedrops.md) | &#x1F4DC;
 [Chocolate Marble Cake](./recipes/desserts/chocolatemarblecake.md) | &#x1F4DC;
-[Coconut Islands](./recipes/desserts/coconutislands.md) | &#x1F5CA;&#x1F9EA;
+[Coconut Islands](./recipes/desserts/coconutislands.md) | &#x1F3AB;&#x1F9EA;
 [Cheese Pie](./recipes/desserts/cheesepie.md) | &#x1F4DC;
 [Cheesecake](./recipes/desserts/cheesecake.md) | &#x1F4DC;
 [Cheesecake II](./recipes/desserts/cheesecakeii.md) | &#x1F4DC;
@@ -69,11 +69,11 @@ Jump to **[\<Clips\>](#clips)**.  These are recipe clippings that my Grandmother
 [Meringue](./recipes/desserts/meringue.md) |  &#x1F4DC;
 [Nut Roll](./recipes/desserts/nutroll.md) |  &#x1F4DC;
 [Oatmeal Cookies](./recipes/desserts/oatmealcookies.md) | &#x1F4DC;
-[Orange Cake](./recipes/desserts/orangecake.md) | &#x1F5CA;
-[Orange Cookies](./recipes/desserts/orangecookies.md) | &#x1F5CA;
-[Orange Frosting](./recipes/desserts/orangefrosting.md) | &#x1F5CA;
+[Orange Cake](./recipes/desserts/orangecake.md) | &#x1F3AB;
+[Orange Cookies](./recipes/desserts/orangecookies.md) | &#x1F3AB;
+[Orange Frosting](./recipes/desserts/orangefrosting.md) | &#x1F3AB;
 [Pineapple Upside Down Cake](./recipes/desserts/pineappleupsidedown.md) | &#x1F4DC;
-[Richmond Chocolate Frosting](./recipes/desserts/richmond.md) | &#x1F5CA;&#x1F9EA;&#x1F44D;
+[Richmond Chocolate Frosting](./recipes/desserts/richmond.md) | &#x1F3AB;&#x1F9EA;&#x1F44D;
 [Red Devils Food Cake](./recipes/desserts/reddevilsfoodcake.md) | &#x1F4DC;
 [Rusk Pie](./recipes/desserts/ruskpie.md) | &#x1F4DC;
 [Torchetts](./recipes/desserts/torchetts.md) | &#x1F4DC;
