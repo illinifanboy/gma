@@ -80,11 +80,12 @@ Jump to **[\<Clips\>](#clips)**.  These are recipe clippings that my Grandmother
 [Biscuits II](./recipes/bread/biscuitsagain.md) | &#x1F4DC;
 [Bread](./recipes/bread/breadagain.md) | &#x1F4DC;
 [Bread II](./recipes/bread/bread2.md) | &#x1F4DC;
-[Bread II](./recipes/bread/cloverleafrolls.md) | &#x1F4DC;
+[Clover Leaf Rolls](./recipes/bread/cloverleafrolls.md) | &#x1F4DC;
 [Donuts](./recipes/bread/donuts.md) | &#x1F4DC;
 [French Bread](./recipes/bread/frenchbread.md) | &#x1F4DC;
 [Honey Coffee Cake](./recipes/bread/honeycoffeecake.md) | &#x1F4DC;
 [Horse Shoe Etts](./recipes/bread/horseshoeetts.md) | &#x1F4DC;
+[Hot Cinnamon Coffe Cake](./recipes/bread/hotcinnamoncoffeecake.md) | &#x1F4DC;
 [Refrigerator Rolls](./recipes/bread/refrigrolls.md) | &#x1F4DC;
 [Two Hour Yeast Rolls](./recipes/bread/twohouryeastrolls.md) | &#x1F4DC;
 [Sweetheart Cresents](./recipes/bread/sweetheartcrescents.md) | &#x1F4DC;
