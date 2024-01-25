@@ -31,6 +31,9 @@ clips:
   - header: Lemon Cake
     link: lemon-cake
     image: assets/images/clips/lemoncake-sm.jpg
+  - header: Lemon Cheese Cake Pie
+    link: lemon-cheese-cake-pie
+    image: assets/images/clips/lemoncheesecakepie-sm.jpg
   - header: Lemon Meringue Pie
     link: lemon-meringue-pie
     image: assets/images/clips/lemonmeringuepie.jpg
