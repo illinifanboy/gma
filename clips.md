@@ -47,6 +47,9 @@ clips:
     link: swans-down-pancakes-and-biscuits
     image: assets/images/clips/swansdown-sm.jpg
     review: I tried the pancakes.  They are pancakes - nothing special.  I'll stick to Bisquick.
+  - header: Speedie Rolls
+    link: speedie-rolls
+    image: assets/images/clips/speedierollsclip-sm.jpg
   - header: White Mountain Frosting
     link: white-mountain-frosting
     image: assets/images/clips/whitemountainfrosting-sm.jpg
