@@ -26,16 +26,6 @@ Jump to **[\<Clips\>](#clips)**.  These are recipe clippings that my Grandmother
 #### Flags
 
 <em>&#x1F9EA; - Steve Tested, &#x1F44D; - Steve Approved, &#x1F4DC; - Handwritten Only, &#x1F3AB; - Detailed</em>
-<br />&#x1F3AB;
-<br />&#x1F483;
-<br />&#x1F4C3;
-<br />&#x1F4C4;
-<br />&#x1F4D3;
-<br />&#x1F4F0;
-<br />&#x1F5AB;
-<br />&#x1F5BA;
-<br />&#x1F5C1;
-
 
 #### Recipes - Desserts
 
