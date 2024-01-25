@@ -22,6 +22,9 @@ clips:
   - header: Gold Cookies
     link: gold-cookies
     image: assets/images/clips/goldcookiesclip-sm.jpg
+  - header: Hershey Cake
+    link: hershey-cake
+    image: assets/images/clips/hersheycake-sm.jpg
   - header: Homemade Bread
     link: homemade-bread
     image: assets/images/clips/homemadebread-sm.jpg
