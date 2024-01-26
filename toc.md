@@ -84,7 +84,7 @@ Jump to **[\<Clips\>](#newspaper-and-magazine-clips)**.  These are recipe clippi
 [Biscuits I](./recipes/bread/biscuits.md) | &#x1F4DC;
 [Biscuits II](./recipes/bread/biscuitsagain.md) | &#x1F4DC;
 [Butterhorn Rolls](./recipes/bread/butterhornrolls.md) | &#x1F4DC;
-[Bread](./recipes/bread/breadagain.md) | &#x1F4DC;
+[Bread](./recipes/bread/breadagain.md) | &#x1F3AB;
 [Bread II](./recipes/bread/bread2.md) | &#x1F4DC;
 [Clover Leaf Rolls](./recipes/bread/cloverleafrolls.md) | &#x1F4DC;
 [Donuts](./recipes/bread/donuts.md) | &#x1F4DC;

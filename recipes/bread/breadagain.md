@@ -9,25 +9,51 @@ review: I have not tried this recipe yet.
 story: My Grandmother made so much bread that she kept a medium garbage can in her kitchen just to hold flour. 
 # ingredientsimage: assets/images/general/noimage.jpg
 ingredients:
+  - name: Yeast
+    amount: 2 cakes
+    note: 4-1/2 teaspoons dry yeast?
+  - name: Water
+    amount: 1/4 cup
+    note: lukewarm
   - name: Flour
-    amount: 6 3/4 cups
-  - name: Salt
-    amount: 1 teaspoon
-  - name: Sugar
-    amount: 2 tablespoons
-  - name: Crisco
-    amount: 1 tablespoon
+    amount: 5 cups
+    note: Sifted.  I will try bread flour.
   - name: Butter
+    amount: 4 tablespoons
+  - name: Sugar
+    amount: No amount given.
+    note: Trying 1-1/2 tablespoons.
+  - name: Salt
     amount: 1 tablespoon
-  - name: Fresh Yeast
-    amount: 1 1/2
-    note: No units given.  Is this a cake or a packet?
-  - name: Milk
-    amount: 2 cups
-    
+  - name: Top Milk
+    amount: 1/4 cup
+    note: Top milk is not homogenized.  I'll use half and half.
+  - name: Eggs
+    amount: 3
+    note: Beaten
+
 steps:
-  - header: One hour.
-    text: That's it.  To mixing instructions.  No proofing.  No temperature.
+  - header: Dissolve the Yeast
+    text: Mix the yeast into the lukewarm water.
+  - header: Sift the Flour
+  - header: Create Warm Milk Mixture
+    text: Heat the following to lukewarm - butter, sugar, salt, milk.
+  - header: Add Eggs, Yeast, Milk to Flour
+    text: Add the lukewarm milk, the yeast mixture, and the beaten eggs to the flour.  Beat with a wooden spoon.
+  - header: Knead
+    text: Turn mixture onto a floured board.  Knead for 8 to 10 minutes.
+  - header: Let Rise
+    text: Put dough in a clean large bowl.  Cover and let rise about 2 hours.  
+  - header: Knead Again
+    text: Not too much.
+  - header: Shape
+    text: Make into two loaves.  Place in greased pans.  What size pans?
+  - header: Rise Again
+    text: Cover and let rise another hour.
+  - header: Bake
+    text: 350 degrees for 1 hour.
+  
+
 #    image: assets/images/general/noimage.jpg
 #  - header: Step 2
 #    text: The text that says what to do 2.
