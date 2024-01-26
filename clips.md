@@ -46,13 +46,17 @@ clips:
   - header: Orange Loaf
     link: orange-loaf
     image: assets/images/clips/orangeloaf-sm.jpg
+  - header: Speedie Rolls
+    link: speedie-rolls
+    image: assets/images/clips/speedierollsclip-sm.jpg
   - header: Swans Down Pancakes and Biscuits
     link: swans-down-pancakes-and-biscuits
     image: assets/images/clips/swansdown-sm.jpg
     review: I tried the pancakes.  They are pancakes - nothing special.  I'll stick to Bisquick.
-  - header: Speedie Rolls
-    link: speedie-rolls
-    image: assets/images/clips/speedierollsclip-sm.jpg
+  - header: Sweet Coffee Cake
+    link: sweet-coffee-cake
+    image: assets/images/clips/sweetcoffeecake-sm.jpg
+    review: I tried the pancakes.  They are pancakes - nothing special.  I'll stick to Bisquick.
   - header: White Mountain Frosting
     link: white-mountain-frosting
     image: assets/images/clips/whitemountainfrosting-sm.jpg
