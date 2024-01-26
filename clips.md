@@ -13,6 +13,9 @@ clips:
   - header: Christmas Cookies
     link: christmas-cookies
     image: assets/images/clips/christmascookies-sm.jpg
+  - header: Coconut Peach Ice Cream
+    link: coconut-peach-ice-cream
+    image: assets/images/clips/coconutpeachicecream-sm.jpg
   - header: Crusty Italian Bread
     link: crusty-italian-bread
     image: assets/images/clips/crustyitalianbread-sm.jpg
