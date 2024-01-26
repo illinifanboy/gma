@@ -48,7 +48,7 @@ clips:
     image: assets/images/clips/lemoncheesecakepie-sm.jpg
   - header: Lemon Meringue Pie
     link: lemon-meringue-pie
-    image: assets/images/clips/lemonmeringuepie.jpg
+    image: assets/images/clips/lemonmeringuepie-sm.jpg
   - header: Orange Loaf
     link: orange-loaf
     image: assets/images/clips/orangeloaf-sm.jpg
