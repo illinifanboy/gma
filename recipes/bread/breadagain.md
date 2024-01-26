@@ -146,9 +146,10 @@ Ingredient | Measurement, Weight | Notes
 {{ item.text }}
 {% endif %}
 
-{{ if (isset item.image ) }}
+{% if item.image != nil %}
 <img width="480" alt="{{ item.title }}" src="https://illinifanboy.github.io/{{ item.image }}">
-{{ end }}
+{% endif %}
+
 {% endfor %}
 
 {% endif %}
