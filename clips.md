@@ -34,6 +34,9 @@ clips:
   - header: Hustle Cake
     link: hustle-cake
     image: assets/images/clips/hustlecakeclip-sm.jpg
+  - header: Lady Baltimore Cake
+    link: lady-baltimore-cake
+    image: assets/images/clips/ladybaltimorecake-sm.jpg
   - header: Lemon Cake
     link: lemon-cake
     image: assets/images/clips/lemoncake-sm.jpg
