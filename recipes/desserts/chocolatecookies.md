@@ -5,7 +5,7 @@ title: Chocolate Cookies
 # finalproduct: assets/images/general/noimage.jpg
 handwritten: 
   - image: assets/images/handwritten/chocolatecookies-sm.jpg
-# review: Not yet reviewed.
+review: I like the note on this recipe, "I always use this recipe", and she did.  Chocolate cookies were a specialty / favorite.  This recipe makes cookies that are like little chocolate cakes.  It is very, very easy to make these too dry.  These cookies need good chocolate icing.
 # story: 
 # ingredientsimage: assets/images/general/noimage.jpg
 #ingredients:
