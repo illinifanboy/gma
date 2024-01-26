@@ -19,6 +19,9 @@ clips:
   - header: Cream Cheese Cookies
     link: cream-cheese-cookies
     image: assets/images/clips/creamcheesecookies-sm.jpg
+  - header: Cream Puffs
+    link: cream-puffs
+    image: assets/images/clips/creampuffs-sm.jpg
   - header: Gold Cookies
     link: gold-cookies
     image: assets/images/clips/goldcookiesclip-sm.jpg
