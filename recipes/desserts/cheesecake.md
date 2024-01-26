@@ -4,6 +4,7 @@ title: Cheesecake
 # blurb: A short, one-line introduction
 # finalproduct: assets/images/general/noimage.jpg
 handwritten: 
+  - image: assets/images/handwritten/cheesecakedark-sm.jpg
   - image: assets/images/handwritten/cheesecake-sm.jpg
 # review: Not yet reviewed.
 # story: 
