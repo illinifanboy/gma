@@ -5,7 +5,7 @@ title: Bread I
 # finalproduct: assets/images/general/noimage.jpg
 handwritten: 
   - image: assets/images/handwritten/breadagain-sm.jpg
-review: I have not tried this recipe yet.
+review: I tried this recipe and it did not work out.  The dough seemed very dry.  I used a stand mixer with a dough hook to knead.  However, the dough was too dry for this to work, so I added some milk.  I also think the proofing wasn't long enough.  The bread did not rise enough.  Bottom line, I made bricks.
 story: My Grandmother made so much bread that she kept a medium garbage can in her kitchen just to hold flour. 
 # ingredientsimage: assets/images/general/noimage.jpg
 ingredients:
