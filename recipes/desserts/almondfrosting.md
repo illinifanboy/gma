@@ -5,7 +5,7 @@ title: Almond Frosting
 # finalproduct: assets/images/general/noimage.jpg
 handwritten: 
   - image: assets/images/handwritten/almondfrosting-sm.jpg
-review: I have not yet tried this recipe.<br /><br />This recipe goes hand-in-hand with the Apple Butter Cupcakes recipe.
+review: This was a flop.  Adding hot butter to powder sugar creates something that turns into a rock.  Frosting was hard, not fluffy, and not enough volume to frost a batch of cupcakes.
 # story: 
 # ingredientsimage: assets/images/general/noimage.jpg
 ingredients:

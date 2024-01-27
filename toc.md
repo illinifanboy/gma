@@ -30,7 +30,7 @@ Jump to **[\<Clips\>](#newspaper-and-magazine-clips)**.  These are recipe clippi
 #### Recipes - Desserts
 
 |Recipe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Flags&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
-[Almond Frostings](./recipes/desserts/almondfrosting.md) | &#x1F3AB;
+[Almond Frostings](./recipes/desserts/almondfrosting.md) | &#x1F3AB;&#x1F9EA;&#x1F6A7;
 [Apple Butter Cupcakes](./recipes/desserts/applebuttercupcakes.md) | &#x1F3AB; 
 [Apple Sauce Cake I](./recipes/desserts/applesaucecake.md) | &#x1F4DC;
 [Apple Sauce Cake II](./recipes/desserts/applesaucecakeagain.md) | &#x1F4DC;
@@ -84,7 +84,7 @@ Jump to **[\<Clips\>](#newspaper-and-magazine-clips)**.  These are recipe clippi
 [Biscuits I](./recipes/bread/biscuits.md) | &#x1F4DC;
 [Biscuits II](./recipes/bread/biscuitsagain.md) | &#x1F4DC;
 [Butterhorn Rolls](./recipes/bread/butterhornrolls.md) | &#x1F4DC;
-[Bread](./recipes/bread/breadagain.md) | &#x1F3AB; &#x1F6A7;
+[Bread](./recipes/bread/breadagain.md) | &#x1F3AB;&#x1F9EA;&#x1F6A7;
 [Bread II](./recipes/bread/bread2.md) | &#x1F4DC;
 [Clover Leaf Rolls](./recipes/bread/cloverleafrolls.md) | &#x1F4DC;
 [Donuts](./recipes/bread/donuts.md) | &#x1F4DC;
