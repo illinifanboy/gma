@@ -25,7 +25,7 @@ Jump to **[\<Clips\>](#newspaper-and-magazine-clips)**.  These are recipe clippi
 
 #### Flags
 
-<em>&#x1F9EA; - Steve Tested, &#x1F44D; - Steve Approved, &#x1F4DC; - Handwritten Only, &#x1F3AB; - Detailed</em>
+<em>&#x1F9EA; - Steve Tested, &#x1F44D; - Steve Approved, &#x1F6A7; - Warning, &#x1F4DC; - Handwritten Only, &#x1F3AB; - Detailed</em>
 
 #### Recipes - Desserts
 
@@ -84,7 +84,7 @@ Jump to **[\<Clips\>](#newspaper-and-magazine-clips)**.  These are recipe clippi
 [Biscuits I](./recipes/bread/biscuits.md) | &#x1F4DC;
 [Biscuits II](./recipes/bread/biscuitsagain.md) | &#x1F4DC;
 [Butterhorn Rolls](./recipes/bread/butterhornrolls.md) | &#x1F4DC;
-[Bread](./recipes/bread/breadagain.md) | &#x1F3AB;
+[Bread](./recipes/bread/breadagain.md) | &#x1F3AB; &#x1F6A7;
 [Bread II](./recipes/bread/bread2.md) | &#x1F4DC;
 [Clover Leaf Rolls](./recipes/bread/cloverleafrolls.md) | &#x1F4DC;
 [Donuts](./recipes/bread/donuts.md) | &#x1F4DC;
