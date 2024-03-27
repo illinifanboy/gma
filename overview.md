@@ -8,7 +8,9 @@ My Grandmother taught me that food is love.  Her name is Julie (Julia).  She sho
 
 <img width="174" alt="My Grandmother" src="https://illinifanboy.github.io/assets/images/general/gmapic.jpg">
 
-### My Grandmother
+#### My Grandmother
+
+### The Scrapbooks / Cookbook
 
 In her kitchen was a sideboard.  On the top of that sideboard always sat two ring binders.  Let's call them old and older.  These binders were scrapbooks where she stashed recipes and newspaper and magazine clippings about food.  
 
