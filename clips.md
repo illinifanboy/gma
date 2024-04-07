@@ -86,6 +86,8 @@ clips:
 
 ### {{ item.header }}
 
+<img alt="{{ item.header }}" src="https://illinifanboy.github.io/{{ item.image }}">
+
 {% if item.reviewimage != nil %}
 <img alt="{{ item.header }}" src="https://illinifanboy.github.io/{{ item.reviewimage }}">
 {% endif %}
@@ -93,8 +95,6 @@ clips:
 {% if item.reviewtext != nil %}
 > Steve's Review: {{ item.reviewtext }}
 {% endif %}
-
-<img alt="{{ item.header }}" src="https://illinifanboy.github.io/{{ item.image }}">
 
 {% endfor %}
 

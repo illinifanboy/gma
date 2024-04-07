@@ -165,6 +165,7 @@ Jump to **[\<Clips\>](#newspaper-and-magazine-clips)**.  These are recipe clippi
 
 Date | Change
 ---|---
+April 7, 2024 | Add pictures and review to clip Lemon Cream Chase Cake Pie.
 January 25, 2024 | Add Waffles, French Bread - two kinds, Blue Ribbon Lemon Pie Clip, Lemon Cheesecake Pie Clip, Hershey Cake Clip, Sweetheart Crescents, Clover Leaf Rolls, Hot Cinnamon Coffee Cake Clip, Cheese Cake - two kinds, Sponge Cake, Cheese Pie, Butterhorn Rolls, Speedie Rolls, Refrigerator Rolls II, Speedie Rolls Clip, Snicker Doodles, Cream Puffs Clip, Sweet Coffee Cake Clip, Lady Baltimore Cake Clip, Coconut Peach Ice Cream Clip
 January 23, 2024 | Add Virginia Pound Cake, Cauliflower, Dumplings, Lima Bean Soup, Two Hour Yeast Rolls, Antipasta, Chicken Pie, Lucky Stars, Pineapple Upside Down Cake, Cream Cheese Cake, Chocolate Marble Cake, Biscuits\[again\], Mahogany Cake, Red Devils Food Cake, Lemon Cake Clip, Crusty Italian Bread Clip, White Mountain Frosting, Lemon Meringue Pie Clip, Mandarin Orange Cake Clip, Homemade Bread Clip, Cream Cheese Cookies Clip
 January 21, 2024 | Add Chocolate Fudge Drops. Gold Cookies Clip, Ice Box Cookies, Orange Loaf Clip, Coconut Islands
