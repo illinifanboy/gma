@@ -133,8 +133,10 @@ Jump to **[\<Clips\>](#newspaper-and-magazine-clips)**.  These are recipe clippi
 
 ### Newspaper and Magazine Clips
 
+
+
 ---|---
-***Desserts*** | 
+***Desserts*** | ***Flags*** |
 [Apple Dumplings](./clips.md#apple-dumplings) | 
 [Blue Ribbon Lemon Pie](./clips.md#blue-ribbon-lemon-pie) | 
 [Christmas Cookies](./clips.md#christmas-cookies) | 
@@ -146,7 +148,7 @@ Jump to **[\<Clips\>](#newspaper-and-magazine-clips)**.  These are recipe clippi
 [Hustle Cake](./clips.md#hustle-cake) | 
 [Lady Baltimore Cake](./clips.md#lady-baltimore-cake) | 
 [Lemon Cake](./clips.md#lemon-cake) | 
-[Lemon Cheese Cake Pie](./clips.md#lemon-cheese-cake-pie) | 
+[Lemon Cheese Cake Pie](./clips.md#lemon-cheese-cake-pie) | &#x1F9EA |
 [Lemon Meringue Pie](clips.md#lemon-meringue-pie) |
 [Orange Loaf](./clips.md#orange-loaf) | 
 [White Mountain Frosting](./clips.md#white-mountain-frosting) | 
