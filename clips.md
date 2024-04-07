@@ -46,9 +46,8 @@ clips:
   - header: Lemon Cheese Cake Pie
     link: lemon-cheese-cake-pie
     image: assets/images/clips/lemoncheesecakepie-sm.jpg
-    review: 
-    - reviewimage: assets/images/clips/lemoncheesecakepie-review.jpg
-    - reviewtext: Not bad.  Lots of lemon flavor.  The cracker crumb pie shell is also not bad.  The pie is not good enough to serve to company, but I would try again.  Next time, I will just throw everything into a food processor.  All of these micro steps are not necessary.
+    reviewimage: assets/images/clips/lemoncheesecakepie-review.jpg
+    reviewtext: Not bad.  Lots of lemon flavor.  The cracker crumb pie shell is also not bad.  The pie is not good enough to serve to company, but I would try again.  Next time, I will just throw everything into a food processor.  All of these micro steps are not necessary.
   - header: Lemon Meringue Pie
     link: lemon-meringue-pie
     image: assets/images/clips/lemonmeringuepie-sm.jpg
@@ -87,9 +86,12 @@ clips:
 
 ### {{ item.header }}
 
-{% if item.review != nil %}
-<img alt="{{ item.header }}" src="https://illinifanboy.github.io/{{ item.review.reviewimage }}">
-> Steve's Review: {{ item.review.reviewtext }}
+{% if item.reviewimage != nil %}
+<img alt="{{ item.header }}" src="https://illinifanboy.github.io/{{ item.reviewimage }}">
+{% endif %}
+
+{% if item.reviewtext != nil %}
+> Steve's Review: {{ item.reviewtext }}
 {% endif %}
 
 <img alt="{{ item.header }}" src="https://illinifanboy.github.io/{{ item.image }}">
