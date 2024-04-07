@@ -133,7 +133,9 @@ Jump to **[\<Clips\>](#newspaper-and-magazine-clips)**.  These are recipe clippi
 
 ### Newspaper and Magazine Clips
 
+#### Flags
 
+<em>&#x1F9EA; - Steve Tested, &#x1F44D; - Steve Approved, &#x1F6A7; - Warning, &#x1F4DC; - Handwritten Only, &#x1F3AB; - Detailed</em>
 
 ---|---
 ***Desserts*** | ***Flags*** |
@@ -148,7 +150,7 @@ Jump to **[\<Clips\>](#newspaper-and-magazine-clips)**.  These are recipe clippi
 [Hustle Cake](./clips.md#hustle-cake) | 
 [Lady Baltimore Cake](./clips.md#lady-baltimore-cake) | 
 [Lemon Cake](./clips.md#lemon-cake) | 
-[Lemon Cheese Cake Pie](./clips.md#lemon-cheese-cake-pie) | &#x1F9EA |
+[Lemon Cheese Cake Pie](./clips.md#lemon-cheese-cake-pie) | &#x1F9EA; |
 [Lemon Meringue Pie](clips.md#lemon-meringue-pie) |
 [Orange Loaf](./clips.md#orange-loaf) | 
 [White Mountain Frosting](./clips.md#white-mountain-frosting) | 
