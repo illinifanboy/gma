@@ -1,10 +1,9 @@
 ---
 layout: page
 title: Oatmeal Cookies
-# blurb: A short, one-line introduction
+blurb: A basic oatmeal cookie.
 finalproduct: 
-  - image: assets/images/handwritten/oatmealcookies-sm.jpg
-#  - image: assets/images/recipes/oatmealcookies/oatmealcookiespic-sm.jpg
+finalproduct: assets/images/recipes/oatmealcookies/oatmealcookiespic-sm.jpg
 handwritten: 
   - image: assets/images/handwritten/oatmealcookies-sm.jpg
 review: These cookies are good, not great, but I'll likely make this recipe again.<br /><br />I don't eat oatmeal cookies very often, but these seem atypical.  They are not too sweet.  The texture and size remind me of muffin tops.  I also did not add walnuts (yuck!) and used golden raisins.  <br /><br />This makes alot of cookies, so I made two-thirds of a recipe.  That worked out well. <br /><br />The instructions provide by Grandma were slim, "30 mins 375 degrees".  The detailed instructions provided below were dreamed up by my wife and me. 
