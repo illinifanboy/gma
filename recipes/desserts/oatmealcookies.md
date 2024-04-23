@@ -3,7 +3,9 @@ layout: page
 title: Oatmeal Cookies
 # blurb: A short, one-line introduction
 finalproduct: 
-  - image: assets/images/recipes/oatmealcookies/oatmealcookies-sm.jpg
+  - image: assets/images/recipes/oatmealcookies/oatmealcookiespic-sm.jpg
+handwritten: 
+  - image: assets/images/handwritten/oatmealcookies-sm.jpg
 review: These cookies are good, not great, but I'll likely make this recipe again.<br /><br />I don't eat oatmeal cookies very often, but these seem atypical.  They are not too sweet.  The texture and size remind me of muffin tops.  I also did not add walnuts (yuck!) and used golden raisins.  <br /><br />This makes alot of cookies, so I made two-thirds of a recipe.  That worked out well. <br /><br />The instructions provide by Grandma were slim, "30 mins 375 degrees".  The detailed instructions provided below were dreamed up by my wife and me. 
 # story: 
 # ingredientsimage: assets/images/general/noimage.jpg
@@ -46,20 +48,29 @@ ingredients:
     note: 
     
 steps:
+  - header: Preheat oven.
+    text: 375 degrees.
   - header: Soften butter and margarine
     text: Soften butter and margarine for creaming.
   - header: Mix Dry Ingredients
     text: Mix oats, flour, baking powder, baking soda, salt and cinnamon in a large bowl.
 #    image: assets/images/general/noimage.jpg
-  - header: Cream butter, margarine and sugar in a large bowl.
-    text: Pick your own tool.  I used a pastry blender.
+  - header: Cream butter, margarine and sugar.
+    text: Use a large bowl. Pick your own tool.  I used a pastry blender.
 #  image: 
-  - header: Mix beaten eggs into creamed mixture.
-#    text: The text that says what to do 3.
+  - header: Add eggs.
+    text: Mix beaten eggs into creamed mixture.
 #    image: assets/images/general/noimage.jpg
-  - header: Mix milk into creamed mixture.
+  - header: Add milk.
+    text: Mix milk into creamed mixture.
   - header: Gradually mix dry ingredients into the wet ingredients.
     text: Gradual mixing decreases the likelihood of clumping.
+  - header: Put cookies on baking sheets.
+    text: I scooped ping pong ball sized cookies onto parchment paper covered cookies sheets.  Should create around 3 dozen cookies.
+  - header: Bake cookies.
+    text: Bake at 350 degrees for thirty minutes until bottoms are light brown.
+  - header: Enjoy.
+    text: Cool and eat.
 ---
 
 {::comment}========================={:/comment}
