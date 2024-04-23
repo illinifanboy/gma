@@ -2,10 +2,9 @@
 layout: page
 title: Oatmeal Cookies
 # blurb: A short, one-line introduction
-# finalproduct: assets/images/general/noimage.jpg
-handwritten: 
+finalproduct: assets/images/recipes/oatmealcookies/oatmealcookies-sm.jpg
   - image: assets/images/handwritten/oatmealcookies-sm.jpg
-review: These cookies are good (not great).  I don't eat oatmeal cookies very often, but these seem atypical.  They are not too sweet.  The texture and size remind me of muffin tops.  I also did not add walnuts (yuck!) and used golden raisins.  I'll likely make this recipe again. <br /><br />This makes alot of cookies.  I make two-thirds of a recipe. <br /><br />The instructions provide by Grandma were slim, "30 mins 375 degrees".  The detailed instructions provided below were dreamed up by my wife and me. 
+review: These cookies are good, not great, but I'll likely make this recipe again.<br /><br />I don't eat oatmeal cookies very often, but these seem atypical.  They are not too sweet.  The texture and size remind me of muffin tops.  I also did not add walnuts (yuck!) and used golden raisins.  <br /><br />This makes alot of cookies, so I made two-thirds of a recipe.  That worked out well. <br /><br />The instructions provide by Grandma were slim, "30 mins 375 degrees".  The detailed instructions provided below were dreamed up by my wife and me. 
 # story: 
 # ingredientsimage: assets/images/general/noimage.jpg
 ingredients:
@@ -15,17 +14,52 @@ ingredients:
   - name: Butter
     amount: 1 stick
     note: 
+  - name: Flour
+    amount: 3 cups
+    note: 
+  - name: Old-fashioned Oats
+    amount: 3 cups
+    note: 
+  - name: Sugar
+    amount: 1-1/2 cups
+    note: 
+  - name: Eggs
+    amount: 3
+    note: Beaten
+  - name: Baking Powder
+    amount: 1-1/2 teaspoons
+    note: 
+  - name: Baking Soda
+    amount: 1 teaspoon
+    note: 
+  - name: Salt
+    amount: 1/2 teaspoon
+    note: 
+  - name: Cinnamon
+    amount: 3 teaspoons
+    note: 
+  - name: Raisins
+    amount: 1-1/2 cups
+    note: 
+  - name: Milk
+    amount: 1 cup
+    note: 
     
 steps:
+  - header: Soften butter and margarine
+    text: Soften butter and margarine for creaming.
   - header: Mix Dry Ingredients
     text: Mix oats, flour, baking powder, baking soda, salt and cinnamon in a large bowl.
 #    image: assets/images/general/noimage.jpg
-#  - header: Step 2
-#    text: The text that says what to do 2.
-    # image: 
-#  - header: Step 3
+  - header: Cream butter, margarine and sugar in a large bowl.
+    text: Pick your own tool.  I used a pastry blender.
+#  image: 
+  - header: Mix beaten eggs into creamed mixture.
 #    text: The text that says what to do 3.
 #    image: assets/images/general/noimage.jpg
+  - header: Mix milk into creamed mixture.
+  - header: Gradually mix dry ingredients into the wet ingredients.
+    text: Gradual mixing decreases the likelihood of clumping.
 ---
 
 {::comment}========================={:/comment}
@@ -105,7 +139,7 @@ Ingredient | Measurement, Weight | Notes
 
 {% for item in page.steps %}
 
-### <ins>{{ item.header }}</ins> 
+#### <ins>{{ item.header }}</ins> 
 
 {{ item.text }}
 
