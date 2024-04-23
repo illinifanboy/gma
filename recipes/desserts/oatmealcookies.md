@@ -5,20 +5,20 @@ title: Oatmeal Cookies
 # finalproduct: assets/images/general/noimage.jpg
 handwritten: 
   - image: assets/images/handwritten/oatmealcookies-sm.jpg
-# review: Not yet reviewed.
+review: These cookies are good (not great).  I don't eat oatmeal cookies very often, but these seem atypical.  They are not too sweet.  The texture and size remind me of muffin tops.  I also did not add walnuts (yuck!) and used golden raisins.  I'll likely make this recipe again. <br /><br />This makes alot of cookies.  I make two-thirds of a recipe. <br /><br />The instructions provide by Grandma were slim, "30 mins 375 degrees".  The detailed instructions provided below were dreamed up by my wife and me. 
 # story: 
 # ingredientsimage: assets/images/general/noimage.jpg
-#ingredients:
-#  - name: Ingredient 1
-#    amount: Amount 1
-#    note: Note 1
-#  - name: Ingredient 2
-#    amount: Amount 2
-#    note: 
+ingredients:
+  - name: Oleo (aka marganine)
+    amount: 2 sticks
+    note: 
+  - name: Butter
+    amount: 1 stick
+    note: 
     
-#steps:
-#  - header: Step 1
-#    text: The text that says what to do 1.
+steps:
+  - header: Mix Dry Ingredients
+    text: Mix oats, flour, baking powder, baking soda, salt and cinnamon in a large bowl.
 #    image: assets/images/general/noimage.jpg
 #  - header: Step 2
 #    text: The text that says what to do 2.
