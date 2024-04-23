@@ -2,7 +2,6 @@
 layout: page
 title: Oatmeal Cookies
 blurb: A basic oatmeal cookie.
-finalproduct: 
 finalproduct: assets/images/recipes/oatmealcookies/oatmealcookiespic-sm.jpg
 handwritten: 
   - image: assets/images/handwritten/oatmealcookies-sm.jpg
