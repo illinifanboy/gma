@@ -56,21 +56,21 @@ steps:
     text: Mix oats, flour, baking powder, baking soda, salt and cinnamon in a large bowl.
 #    image: assets/images/general/noimage.jpg
   - header: Cream butter, margarine and sugar.
-    text: Use a large bowl. Pick your own tool.  I used a pastry blender.
+    text: Cream until butter / margarine are combined with sugar.  Use a large bowl. Pick your own tool.  I used a pastry blender.
 #  image: 
   - header: Add eggs.
     text: Mix beaten eggs into creamed mixture.
 #    image: assets/images/general/noimage.jpg
   - header: Add milk.
     text: Mix milk into creamed mixture.
-  - header: Gradually mix dry ingredients into the wet ingredients.
-    text: Gradual mixing decreases the likelihood of clumping.
+  - header: Mix dry into wet.
+    text: Gradually mix dry ingredients into the wet ingredients.  Gradual mixing decreases the likelihood of clumping.
   - header: Put cookies on baking sheets.
-    text: I scooped ping pong ball sized cookies onto parchment paper covered cookies sheets.  Should create around 3 dozen cookies.
+    text: I scooped ping pong ball sized cookies onto parchment paper covered cookies sheets. Parchment avoided any sticking. 
   - header: Bake cookies.
     text: Bake at 350 degrees for thirty minutes until bottoms are light brown.
-  - header: Enjoy.
-    text: Cool and eat.
+  - header: Enjoy!
+    text: Should create around 3 dozen cookies.  Cool and eat.
 ---
 
 {::comment}========================={:/comment}
