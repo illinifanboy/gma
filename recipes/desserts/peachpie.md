@@ -6,7 +6,7 @@ title: Peach Pie
 handwritten: 
   - image: assets/images/handwritten/peachpie-sm.jpg
 # review: Not yet reviewed.
-story: My Grandmother's peach pie was always one of my favorites.  It is missing anything about crust, and her crust was so good.  Is this the recipe I remember?  I don't think so.  There was no cream in the pie I remember.  Plus, when they were available, I believe she tossed in a apricot to add some zing. 
+story: My Grandmother's peach pie was always one of my favorites.  This reciple is missing anything about crust, and her crust was so good.  Is this the recipe I remember?  I don't think so.  There was no cream in the pie I remember.  Plus, when they were available, I believe she tossed in a apricot to add some zing. 
 # ingredientsimage: assets/images/general/noimage.jpg
 #ingredients:
 #  - name: Ingredient 1
