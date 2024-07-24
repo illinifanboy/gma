@@ -78,6 +78,7 @@ Jump to **[\<Clips\>](#newspaper-and-magazine-clips)**.  These are recipe clippi
 [Chicken Pie](./recipes/maincourses/chickenpie.md) | &#x1F4DC;
 [Duck Soup](./recipes/maincourses/ducksoup.md) | &#x1F4DC;
 [Dumplings](./recipes/maincourses/dumplings.md) | &#x1F4DC;
+[Pirozki](./recipes/maincourses/pirozki.md) | &#x1F4DC;
 
 #### Recipes - Bread
  
@@ -166,7 +167,7 @@ Jump to **[\<Clips\>](#newspaper-and-magazine-clips)**.  These are recipe clippi
 
 Date | Change
 ---|---
-July 24, 2024 | Duck soup.
+July 24, 2024 | Duck soup, Pirozki.
 April 23, 2024 | Flesh out the Oatmeal Cookies recipe.
 April 7, 2024 | Add pictures and review to clip Lemon Cream Chase Cake Pie.
 January 25, 2024 | Add Waffles, French Bread - two kinds, Blue Ribbon Lemon Pie Clip, Lemon Cheesecake Pie Clip, Hershey Cake Clip, Sweetheart Crescents, Clover Leaf Rolls, Hot Cinnamon Coffee Cake Clip, Cheese Cake - two kinds, Sponge Cake, Cheese Pie, Butterhorn Rolls, Speedie Rolls, Refrigerator Rolls II, Speedie Rolls Clip, Snicker Doodles, Cream Puffs Clip, Sweet Coffee Cake Clip, Lady Baltimore Cake Clip, Coconut Peach Ice Cream Clip
