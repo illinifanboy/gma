@@ -6,7 +6,7 @@ title: Duck Soup (Lithuanian)
 handwritten: 
   - image: assets/images/handwritten/ducksoup-lithuanian-sm.jpg
 # review: Not yet reviewed.
-story: This is one of the new actual lithuanian recipes that I have.  I remember one day listening to my Grandmother and her niece bemoaning the difficulty if finding duck's blood.  Leave it to say, I don't expect anyone to be making this recipe.  
+story: This is one of the few actual lithuanian recipes that I have.  I remember one day listening to my Grandmother and her niece bemoaning the difficulty if finding duck's blood.  Leave it to say, I don't expect anyone to be making this recipe.  
 # ingredientsimage: assets/images/general/noimage.jpg
 #ingredients:
 #  - name: Ingredient 1
