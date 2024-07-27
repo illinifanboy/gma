@@ -81,6 +81,7 @@ Jump to **[\<Clips\>](#newspaper-and-magazine-clips)**.  These are recipe clippi
 [Duck Soup](./recipes/maincourses/ducksoup.md) | &#x1F4DC;
 [Dumplings](./recipes/maincourses/dumplings.md) | &#x1F4DC;
 [Pirozki](./recipes/maincourses/pirozki.md) | &#x1F4DC;
+[Rice Casserole](./recipes/maincourses/ricecasserole.md) | &#x1F4DC;
 
 #### Recipes - Bread
  
@@ -169,6 +170,7 @@ Jump to **[\<Clips\>](#newspaper-and-magazine-clips)**.  These are recipe clippi
 
 Date | Change
 ---|---
+July 27, 2024 | Rice Casserole.
 July 24, 2024 | Duck soup, Pirozki, Peach Pie, Pie Crust.
 April 23, 2024 | Flesh out the Oatmeal Cookies recipe.
 April 7, 2024 | Add pictures and review to clip Lemon Cream Chase Cake Pie.
