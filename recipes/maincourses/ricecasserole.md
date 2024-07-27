@@ -69,7 +69,7 @@ page.finalproduct is {% if page.finalproduct == nil %}nil{% else %}"{{ page.fina
 
 {% for item in page.handwritten %}
 
-<img alt="Grandma's Handwritten Recipe" src="https://illinifanboy.github.io/{{ item.image }}">
+<img style="border: 3px solid #555;" alt="Grandma's Handwritten Recipe" src="https://illinifanboy.github.io/{{ item.image }}">
 
 {% endfor %}
 
