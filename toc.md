@@ -44,6 +44,7 @@ Jump to **[\<Clips\>](#newspaper-and-magazine-clips)**.  These are recipe clippi
 [Chocolate Fudge Drops](./recipes/desserts/chocolatefudgedrops.md) | &#x1F4DC;
 [Chocolate Marble Cake](./recipes/desserts/chocolatemarblecake.md) | &#x1F4DC;
 [Coconut Islands](./recipes/desserts/coconutislands.md) | &#x1F3AB;&#x1F9EA;
+[Custard Pie](./recipes/desserts/custardpie.md) | &#x1F4DC;
 [Cheese Pie](./recipes/desserts/cheesepie.md) | &#x1F4DC;
 [Cheesecake](./recipes/desserts/cheesecake.md) | &#x1F4DC;
 [Cheesecake II](./recipes/desserts/cheesecakeii.md) | &#x1F4DC;
@@ -171,7 +172,7 @@ Jump to **[\<Clips\>](#newspaper-and-magazine-clips)**.  These are recipe clippi
 
 Date | Change
 ---|---
-August 2, 2024 | Chili.
+August 2, 2024 | Chili, Custard Pie.
 July 27, 2024 | Rice Casserole.
 July 24, 2024 | Duck soup, Pirozki, Peach Pie, Pie Crust.
 April 23, 2024 | Flesh out the Oatmeal Cookies recipe.
