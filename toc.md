@@ -78,6 +78,7 @@ Jump to **[\<Clips\>](#newspaper-and-magazine-clips)**.  These are recipe clippi
 |Recipe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Flags&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 [Barbecue](./recipes/maincourses/barbecue.md) | &#x1F4DC;
 [Chicken Pie](./recipes/maincourses/chickenpie.md) | &#x1F4DC;
+[Chili](./recipes/maincourses/chili.md) | &#x1F4DC;
 [Duck Soup](./recipes/maincourses/ducksoup.md) | &#x1F4DC;
 [Dumplings](./recipes/maincourses/dumplings.md) | &#x1F4DC;
 [Pirozki](./recipes/maincourses/pirozki.md) | &#x1F4DC;
@@ -170,6 +171,7 @@ Jump to **[\<Clips\>](#newspaper-and-magazine-clips)**.  These are recipe clippi
 
 Date | Change
 ---|---
+August 2, 2024 | Chili.
 July 27, 2024 | Rice Casserole.
 July 24, 2024 | Duck soup, Pirozki, Peach Pie, Pie Crust.
 April 23, 2024 | Flesh out the Oatmeal Cookies recipe.
