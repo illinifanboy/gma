@@ -51,7 +51,7 @@ page.finalproduct is {% if page.finalproduct == nil %}nil{% else %}"{{ page.fina
 <!--- {{ if (isset page.finalproduct ) }}  --->
 {% if page.finalproduct != nil %}
 
-<img alt="Final Product" src="https://illinifanboy.github.io/{{ page.finalproduct }}">
+<img   style="border: 3px solid #555;"  alt="Final Product" src="https://illinifanboy.github.io/{{ page.finalproduct }}">
 
 {% endif %}
 
