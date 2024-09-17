@@ -4,7 +4,7 @@ title: Mandarin Orange Cake
 # blurb: A short, one-line introduction
 # finalproduct: assets/images/general/noimage.jpg
 handwritten: 
-  - image: assets/images/handwritten/mandarinorangecake-sn.jpg
+  - image: assets/images/handwritten/mandarinorangecake-sm.jpg
 review: Not yet tried.  This recipe is typed, but I am calling this hand written.
 # story: 
 # ingredientsimage: assets/images/general/noimage.jpg
