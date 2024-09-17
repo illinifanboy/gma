@@ -39,6 +39,7 @@ Jump to **[\<Clips\>](#newspaper-and-magazine-clips)**.  These are recipe clippi
 [Cake-n-Cheesecake](./recipes/desserts/cakeandcheesecake.md) | &#x1F4DC;
 [Caramel Pecan Pie](./recipes/desserts/caramelpecanpie.md) | &#x1F4DC;
 [Cherry Coke Cake](./recipes/desserts/cherrycokecake.md) | &#x1F4DC;
+[Cherry Winks](./recipes/desserts/cherrywinks.md) | &#x1F4DC;
 [Chocolate Chip Cookies](./recipes/desserts/chocolatechipcookies.md) | &#x1F4DC;
 [Chocolate Cookies](./recipes/desserts/chocolatecookies.md) | &#x1F4DC;&#x1F44D;
 [Chocolate Frosting](./recipes/desserts/chocolatefrosting.md) | &#x1F4DC;
@@ -184,7 +185,7 @@ Jump to **[\<Clips\>](#newspaper-and-magazine-clips)**.  These are recipe clippi
 
 Date | Change
 ---|---
-September 17, 2024 | Pinch Rolls, Peanut Butter Krunch, Heath Bar Candy cake, Fudge, Meringue II, Croissants, Pierogi, Bread Sticks, Cake-n-Cheesecake, Marshmallow Fudge, Coconut Cherry Drops.
+September 17, 2024 | Pinch Rolls, Peanut Butter Krunch, Heath Bar Candy Cake, Fudge, Meringue II, Croissants, Pierogi, Bread Sticks, Cake-n-Cheesecake, Marshmallow Fudge, Coconut Cherry Drops, Cherry Winks.
 August 2, 2024 | Chili, Custard Pie.
 July 27, 2024 | Rice Casserole.
 July 24, 2024 | Duck soup, Pirozki, Peach Pie, Pie Crust.
