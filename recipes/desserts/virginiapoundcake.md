@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Virinia Pound Cake
+title: Virginia Pound Cake
 # blurb: A short, one-line introduction
 # finalproduct: assets/images/general/noimage.jpg
 handwritten: 

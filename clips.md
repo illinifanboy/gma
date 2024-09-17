@@ -54,6 +54,9 @@ clips:
   - header: Orange Loaf
     link: orange-loaf
     image: assets/images/clips/orangeloaf-sm.jpg
+  - header: One-step Pound Cake
+    link: onesteppoundcake
+    image: assets/images/clips/onesteppoundcake-sm.jpg
   - header: Speedie Rolls
     link: speedie-rolls
     image: assets/images/clips/speedierollsclip-sm.jpg
