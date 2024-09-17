@@ -98,6 +98,7 @@ Jump to **[\<Clips\>](#newspaper-and-magazine-clips)**.  These are recipe clippi
 [Butterhorn Rolls](./recipes/bread/butterhornrolls.md) | &#x1F4DC;
 [Bread](./recipes/bread/breadagain.md) | &#x1F3AB;&#x1F9EA;&#x1F6A7;
 [Bread II](./recipes/bread/bread2.md) | &#x1F4DC;
+[Breadsticks](./recipes/bread/breadsticks.md) | &#x1F4DC;
 [Clover Leaf Rolls](./recipes/bread/cloverleafrolls.md) | &#x1F4DC;
 [Croissants](./recipes/bread/croissants.md) | &#x1F4DC;
 [Donuts](./recipes/bread/donuts.md) | &#x1F4DC;
@@ -179,7 +180,7 @@ Jump to **[\<Clips\>](#newspaper-and-magazine-clips)**.  These are recipe clippi
 
 Date | Change
 ---|---
-September 17, 2024 | Pinch Rolls, Peanut Butter Krunch, Heath Bar Candy cake, Fudge, Meringue II, Croissants, Pierogi
+September 17, 2024 | Pinch Rolls, Peanut Butter Krunch, Heath Bar Candy cake, Fudge, Meringue II, Croissants, Pierogi, Bread Sticks.
 August 2, 2024 | Chili, Custard Pie.
 July 27, 2024 | Rice Casserole.
 July 24, 2024 | Duck soup, Pirozki, Peach Pie, Pie Crust.
