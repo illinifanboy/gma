@@ -64,6 +64,7 @@ Jump to **[\<Clips\>](#newspaper-and-magazine-clips)**.  These are recipe clippi
 [Orange Cookies](./recipes/desserts/orangecookies.md) | &#x1F3AB;
 [Orange Frosting](./recipes/desserts/orangefrosting.md) | &#x1F3AB;
 [Peach Pie](./recipes/desserts/peachpie.md) | &#x1F4DC;
+[Peanut Butter Krunch](./recipes/desserts/pbkrunch.md) | &#x1F4DC;
 [Pie Crust](./recipes/desserts/piecrust.md) | &#x1F4DC;
 [Pineapple Upside Down Cake](./recipes/desserts/pineappleupsidedown.md) | &#x1F4DC;
 [Richmond Chocolate Frosting](./recipes/desserts/richmond.md) | &#x1F3AB;&#x1F9EA;&#x1F44D;
@@ -173,7 +174,7 @@ Jump to **[\<Clips\>](#newspaper-and-magazine-clips)**.  These are recipe clippi
 
 Date | Change
 ---|---
-September 17, 2024 | Pinch Rolls.
+September 17, 2024 | Pinch Rolls, Peanut Butter Krunch.
 August 2, 2024 | Chili, Custard Pie.
 July 27, 2024 | Rice Casserole.
 July 24, 2024 | Duck soup, Pirozki, Peach Pie, Pie Crust.
