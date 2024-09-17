@@ -4,7 +4,7 @@ title: Red Devils Food Cake
 # blurb: A short, one-line introduction
 # finalproduct: assets/images/general/noimage.jpg
 handwritten: 
-  - image: assets/images/handwritten/reddevilsfoodcake=sm.jpg
+  - image: assets/images/handwritten/reddevilsfoodcake-sm.jpg
 review: Not yet tried.  This recipe is typed, but I am calling this handwritten.
 # story: 
 # ingredientsimage: assets/images/general/noimage.jpg
