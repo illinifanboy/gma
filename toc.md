@@ -51,6 +51,7 @@ Jump to **[\<Clips\>](#newspaper-and-magazine-clips)**.  These are recipe clippi
 [Custard Pie](./recipes/desserts/custardpie.md) | &#x1F4DC;
 [Danish Cheesecake](./recipes/desserts/danishcheesecake.md) | &#x1F4DC;
 [Fruit Squares](./recipes/desserts/fruitsquares.md) | &#x1F4DC;
+[Heath Candy Bar Cake](./recipes/desserts/heathbarcake.md) | &#x1F4DC;
 [Ice Box Cookies](./recipes/desserts/iceboxcookies.md) | &#x1F4DC;
 [Impossible Pie](./recipes/desserts/impossiblepie.md) | &#x1F4DC;
 [Lemon Cream](./recipes/desserts/lemoncream.md) |  &#x1F4DC;
@@ -154,7 +155,6 @@ Jump to **[\<Clips\>](#newspaper-and-magazine-clips)**.  These are recipe clippi
 [Cream Cheese Cookies](./clips.md#cream-cheese-cookies) | 
 [Cream Puffs](./clips.md#cream-puffs) | 
 [Gold Cookies](./clips.md#gold-cookies) | 
-[Heath Candy Bar Cake](./clips.md#heathbarcake) |
 [Hershey Cake](./clips.md#hershey-cake) | 
 [Hot Cinnamon Coffee Cake](./clips.md#hot-cinnamon-coffee-cake) | 
 [Hustle Cake](./clips.md#hustle-cake) | 
