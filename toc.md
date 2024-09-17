@@ -62,6 +62,7 @@ Jump to **[\<Clips\>](#newspaper-and-magazine-clips)**.  These are recipe clippi
 [Lucky Stars](./recipes/desserts/luckystars.md) |  &#x1F4DC;
 [Mahogany Cake](./recipes/desserts/mahoganycake.md) |  &#x1F4DC;
 [Mandarin Orange Cake](./recipes/desserts/mandarinorangecake.md) |   &#x1F4DC;
+[Marshmallow Cream Fudge](./recipes/desserts/marshmallowcreamfudge.md) |  &#x1F4DC;
 [Meringue](./recipes/desserts/meringue.md) |  &#x1F4DC;
 [Meringue II](./recipes/desserts/meringuetwo.md) |  &#x1F4DC;
 [Nut Roll](./recipes/desserts/nutroll.md) |  &#x1F4DC;
