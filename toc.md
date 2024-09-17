@@ -154,6 +154,7 @@ Jump to **[\<Clips\>](#newspaper-and-magazine-clips)**.  These are recipe clippi
 [Cream Cheese Cookies](./clips.md#cream-cheese-cookies) | 
 [Cream Puffs](./clips.md#cream-puffs) | 
 [Gold Cookies](./clips.md#gold-cookies) | 
+[Heath Candy Bar Cake](./clips.md#heathbarcake) |
 [Hershey Cake](./clips.md#hershey-cake) | 
 [Hot Cinnamon Coffee Cake](./clips.md#hot-cinnamon-coffee-cake) | 
 [Hustle Cake](./clips.md#hustle-cake) | 
@@ -174,7 +175,7 @@ Jump to **[\<Clips\>](#newspaper-and-magazine-clips)**.  These are recipe clippi
 
 Date | Change
 ---|---
-September 17, 2024 | Pinch Rolls, Peanut Butter Krunch.
+September 17, 2024 | Pinch Rolls, Peanut Butter Krunch, Heath Bar Candy cake.
 August 2, 2024 | Chili, Custard Pie.
 July 27, 2024 | Rice Casserole.
 July 24, 2024 | Duck soup, Pirozki, Peach Pie, Pie Crust.

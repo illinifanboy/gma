@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Heathbar Candy Bar Cake
+title: Heath Candy Bar Cake
 # blurb: A short, one-line introduction
 # finalproduct: assets/images/general/noimage.jpg
 handwritten: 
