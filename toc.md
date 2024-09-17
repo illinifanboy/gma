@@ -100,6 +100,7 @@ Jump to **[\<Clips\>](#newspaper-and-magazine-clips)**.  These are recipe clippi
 [Honey Coffee Cake](./recipes/bread/honeycoffeecake.md) | &#x1F4DC;
 [Horse Shoe Etts](./recipes/bread/horseshoeetts.md) | &#x1F4DC;
 [Hot Cinnamon Coffe Cake](./recipes/bread/hotcinnamoncoffeecake.md) | &#x1F4DC;
+[Pinch Rolls](./recipes/bread/pinchrolls.md) | &#x1F4DC;
 [Refrigerator Rolls](./recipes/bread/refrigrolls.md) | &#x1F4DC;
 [Refrigerator Rolls II](./recipes/bread/refrigrollsii.md) | &#x1F4DC;
 [Speedie Rolls](./recipes/bread/speedierolls.md) | &#x1F4DC;
@@ -172,6 +173,7 @@ Jump to **[\<Clips\>](#newspaper-and-magazine-clips)**.  These are recipe clippi
 
 Date | Change
 ---|---
+September 17, 2024 | Pinch Rolls.
 August 2, 2024 | Chili, Custard Pie.
 July 27, 2024 | Rice Casserole.
 July 24, 2024 | Duck soup, Pirozki, Peach Pie, Pie Crust.
