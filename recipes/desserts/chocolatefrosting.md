@@ -1,10 +1,11 @@
 ---
 layout: page
 title: Chocolate Frosting
-# blurb: A short, one-line introduction
+blurb: I have included two different hardwritten versions of this same recipe.
 # finalproduct: assets/images/general/noimage.jpg
 handwritten: 
   - image: assets/images/handwritten/chocolatefrosting-sm.jpg
+  - image: assets/images/handwritten/chocolatefrosting2-sm.jpg
 # review: Not yet reviewed.
 # story: 
 # ingredientsimage: assets/images/general/noimage.jpg
