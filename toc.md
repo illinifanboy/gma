@@ -44,11 +44,11 @@ Jump to **[\<Clips\>](#newspaper-and-magazine-clips)**.  These are recipe clippi
 [Chocolate Frosting](./recipes/desserts/chocolatefrosting.md) | &#x1F4DC;
 [Chocolate Fudge Drops](./recipes/desserts/chocolatefudgedrops.md) | &#x1F4DC;
 [Chocolate Marble Cake](./recipes/desserts/chocolatemarblecake.md) | &#x1F4DC;
-[Coconut Cherry Drops](./recipes/desserts/coconutcherrydrops.md) | &#x1F4DC;
-[Coconut Islands](./recipes/desserts/coconutislands.md) | &#x1F3AB;&#x1F9EA;
 [Cheese Pie](./recipes/desserts/cheesepie.md) | &#x1F4DC;
 [Cheesecake](./recipes/desserts/cheesecake.md) | &#x1F4DC;
 [Cheesecake II](./recipes/desserts/cheesecakeii.md) | &#x1F4DC;
+[Coconut Cherry Drops](./recipes/desserts/coconutcherrydrops.md) | &#x1F4DC;
+[Coconut Islands](./recipes/desserts/coconutislands.md) | &#x1F3AB;&#x1F9EA;
 [Cream Cheese Cake](./recipes/desserts/creamcheesecake.md) | &#x1F4DC;
 [Custard Pie](./recipes/desserts/custardpie.md) | &#x1F4DC;
 [Danish Cheesecake](./recipes/desserts/danishcheesecake.md) | &#x1F4DC;
