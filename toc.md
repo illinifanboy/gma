@@ -100,7 +100,7 @@ Jump to **[\<Clips\>](#newspaper-and-magazine-clips)**.  These are recipe clippi
 [Honey Coffee Cake](./recipes/bread/honeycoffeecake.md) | &#x1F4DC;
 [Horse Shoe Etts](./recipes/bread/horseshoeetts.md) | &#x1F4DC;
 [Hot Cinnamon Coffe Cake](./recipes/bread/hotcinnamoncoffeecake.md) | &#x1F4DC;
-[Pinch Rolls](./recipes/bread/pinchrolls.md) | &#x1F4DC;
+[Pinch Rolls](./recipes/bread/pinch.md) | &#x1F4DC;
 [Refrigerator Rolls](./recipes/bread/refrigrolls.md) | &#x1F4DC;
 [Refrigerator Rolls II](./recipes/bread/refrigrollsii.md) | &#x1F4DC;
 [Speedie Rolls](./recipes/bread/speedierolls.md) | &#x1F4DC;
