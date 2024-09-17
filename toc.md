@@ -86,6 +86,7 @@ Jump to **[\<Clips\>](#newspaper-and-magazine-clips)**.  These are recipe clippi
 [Chili](./recipes/maincourses/chili.md) | &#x1F4DC;
 [Duck Soup](./recipes/maincourses/ducksoup.md) | &#x1F4DC;
 [Dumplings](./recipes/maincourses/dumplings.md) | &#x1F4DC;
+[Pierogi](./recipes/maincourses/pierogi.md) | &#x1F4DC;
 [Pirozki](./recipes/maincourses/pirozki.md) | &#x1F4DC;
 [Rice Casserole](./recipes/maincourses/ricecasserole.md) | &#x1F4DC;
 
@@ -178,7 +179,7 @@ Jump to **[\<Clips\>](#newspaper-and-magazine-clips)**.  These are recipe clippi
 
 Date | Change
 ---|---
-September 17, 2024 | Pinch Rolls, Peanut Butter Krunch, Heath Bar Candy cake, Fudge, Meringue II, Croissants.
+September 17, 2024 | Pinch Rolls, Peanut Butter Krunch, Heath Bar Candy cake, Fudge, Meringue II, Croissants, Pierogi
 August 2, 2024 | Chili, Custard Pie.
 July 27, 2024 | Rice Casserole.
 July 24, 2024 | Duck soup, Pirozki, Peach Pie, Pie Crust.
