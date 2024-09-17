@@ -168,6 +168,7 @@ Jump to **[\<Clips\>](#newspaper-and-magazine-clips)**.  These are recipe clippi
 [Lemon Cake](./clips.md#lemon-cake) | 
 [Lemon Cheese Cake Pie](./clips.md#lemon-cheese-cake-pie) | &#x1F9EA; |
 [Lemon Meringue Pie](clips.md#lemon-meringue-pie) |
+[Marshmallow Fudge](clips.md#marshmallowfudge) |
 [One-step Pound Cake](./clips.md#onesteppoundcake) | 
 [Orange Loaf](./clips.md#orange-loaf) | 
 [White Mountain Frosting](./clips.md#white-mountain-frosting) | 
@@ -182,7 +183,7 @@ Jump to **[\<Clips\>](#newspaper-and-magazine-clips)**.  These are recipe clippi
 
 Date | Change
 ---|---
-September 17, 2024 | Pinch Rolls, Peanut Butter Krunch, Heath Bar Candy cake, Fudge, Meringue II, Croissants, Pierogi, Bread Sticks, Cake-n-Cheesecake.
+September 17, 2024 | Pinch Rolls, Peanut Butter Krunch, Heath Bar Candy cake, Fudge, Meringue II, Croissants, Pierogi, Bread Sticks, Cake-n-Cheesecake, Marshmallow Fudge.
 August 2, 2024 | Chili, Custard Pie.
 July 27, 2024 | Rice Casserole.
 July 24, 2024 | Duck soup, Pirozki, Peach Pie, Pie Crust.
