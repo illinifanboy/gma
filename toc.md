@@ -168,7 +168,7 @@ Jump to **[\<Clips\>](#newspaper-and-magazine-clips)**.  These are recipe clippi
 [Lemon Cake](./clips.md#lemon-cake) | 
 [Lemon Cheese Cake Pie](./clips.md#lemon-cheese-cake-pie) | &#x1F9EA; |
 [Lemon Meringue Pie](clips.md#lemon-meringue-pie) |
-[Marshmallow Fudge](clips.md#marshmallowfudge) |
+[Marshmallow Fudge](clips.md#marshmallow-fudge) |
 [One-step Pound Cake](./clips.md#onesteppoundcake) | 
 [Orange Loaf](./clips.md#orange-loaf) | 
 [White Mountain Frosting](./clips.md#white-mountain-frosting) | 

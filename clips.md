@@ -52,7 +52,7 @@ clips:
     link: lemon-meringue-pie
     image: assets/images/clips/lemonmeringuepie-sm.jpg
   - header: Marshmallow Fudge
-    link: marshmallowfudge
+    link: marshmallow-fudge
     image: assets/images/clips/marshmallowfudge-sm.jpg
   - header: Orange Loaf
     link: orange-loaf
