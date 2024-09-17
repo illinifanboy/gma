@@ -51,6 +51,7 @@ Jump to **[\<Clips\>](#newspaper-and-magazine-clips)**.  These are recipe clippi
 [Custard Pie](./recipes/desserts/custardpie.md) | &#x1F4DC;
 [Danish Cheesecake](./recipes/desserts/danishcheesecake.md) | &#x1F4DC;
 [Fruit Squares](./recipes/desserts/fruitsquares.md) | &#x1F4DC;
+[Fudge](./recipes/desserts/fudge.md) | &#x1F4DC;
 [Heath Candy Bar Cake](./recipes/desserts/heathbarcake.md) | &#x1F4DC;
 [Ice Box Cookies](./recipes/desserts/iceboxcookies.md) | &#x1F4DC;
 [Impossible Pie](./recipes/desserts/impossiblepie.md) | &#x1F4DC;
@@ -175,7 +176,7 @@ Jump to **[\<Clips\>](#newspaper-and-magazine-clips)**.  These are recipe clippi
 
 Date | Change
 ---|---
-September 17, 2024 | Pinch Rolls, Peanut Butter Krunch, Heath Bar Candy cake.
+September 17, 2024 | Pinch Rolls, Peanut Butter Krunch, Heath Bar Candy cake, Fudge.
 August 2, 2024 | Chili, Custard Pie.
 July 27, 2024 | Rice Casserole.
 July 24, 2024 | Duck soup, Pirozki, Peach Pie, Pie Crust.
