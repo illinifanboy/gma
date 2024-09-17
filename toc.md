@@ -60,6 +60,7 @@ Jump to **[\<Clips\>](#newspaper-and-magazine-clips)**.  These are recipe clippi
 [Mahogany Cake](./recipes/desserts/mahoganycake.md) |  &#x1F4DC;
 [Mandarin Orange Cake](./recipes/desserts/mandarinorangecake.md) |   &#x1F4DC;
 [Meringue](./recipes/desserts/meringue.md) |  &#x1F4DC;
+[Meringue II](./recipes/desserts/meringuetwo.md) |  &#x1F4DC;
 [Nut Roll](./recipes/desserts/nutroll.md) |  &#x1F4DC;
 [Oatmeal Cookies](./recipes/desserts/oatmealcookies.md) | &#x1F3AB;&#x1F9EA;&#x1F44D;
 [Orange Cake](./recipes/desserts/orangecake.md) | &#x1F3AB;
@@ -176,7 +177,7 @@ Jump to **[\<Clips\>](#newspaper-and-magazine-clips)**.  These are recipe clippi
 
 Date | Change
 ---|---
-September 17, 2024 | Pinch Rolls, Peanut Butter Krunch, Heath Bar Candy cake, Fudge.
+September 17, 2024 | Pinch Rolls, Peanut Butter Krunch, Heath Bar Candy cake, Fudge, Meringue II.
 August 2, 2024 | Chili, Custard Pie.
 July 27, 2024 | Rice Casserole.
 July 24, 2024 | Duck soup, Pirozki, Peach Pie, Pie Crust.
