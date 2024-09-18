@@ -52,6 +52,7 @@ Jump to **[\<Clips\>](#newspaper-and-magazine-clips)**.  These are recipe clippi
 [Coconut Cherry Drops](./recipes/desserts/coconutcherrydrops.md) | &#x1F4DC;
 [Coconut Islands](./recipes/desserts/coconutislands.md) | &#x1F3AB;&#x1F9EA;
 [Cream Cheese Cake](./recipes/desserts/creamcheesecake.md) | &#x1F4DC;
+[Cream Filling](./recipes/desserts/creamfilling.md) | &#x1F4DC;
 [Custard Pie](./recipes/desserts/custardpie.md) | &#x1F4DC;
 [Danish Cheesecake](./recipes/desserts/danishcheesecake.md) | &#x1F4DC;
 [Fruit Squares](./recipes/desserts/fruitsquares.md) | &#x1F4DC;
@@ -151,6 +152,7 @@ Jump to **[\<Clips\>](#newspaper-and-magazine-clips)**.  These are recipe clippi
 
 |Recipe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Flags&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 -------------|---
+[Dry Cheese](./recipes/canning/drycheese.md) | &#x1F4DC; 
 [Roach Balls <font color=darkred>(Not Food !!!)</font>](./recipes/other/roachballs.md) | &#x1F4DC;
 [Varnish Remover <font color=darkred>(Not Food !!!)</font>](./recipes/other/varnishremover.md) | &#x1F4DC;
 
