@@ -6,7 +6,7 @@ title: Cheesecake
 handwritten: 
   - image: assets/images/handwritten/cheesecakedark-sm.jpg
   - image: assets/images/handwritten/cheesecake-sm.jpg
-# review: Not yet reviewed.
+review: This recipe will be very difficult to make because Milnot is not readily available.
 # story: 
 # ingredientsimage: assets/images/general/noimage.jpg
 #ingredients:

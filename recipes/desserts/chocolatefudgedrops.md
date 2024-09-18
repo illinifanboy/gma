@@ -8,7 +8,7 @@ handwritten:
   - image: assets/images/handwritten/chocfudge2-sm.jpg
   - image: assets/images/handwritten/chocfudge3-sm.jpg
   - image: assets/images/handwritten/chocfudge4-sm.jpg
-review: I have not tried this recipe yet.<br /><br />As you can see below, this recipe was not in great shape.  The paper was brown and the pencil marks were faded.  Because of this, I scanned it twice.  The first two images, below, are the "original" scan.  The secord two images are the same pages put through the "magic" filter to enhance readability.<br />I have put my own comments in parenthesis.
+review: I have not tried this recipe yet.<br /><br />As you can see below, this recipe was not in great shape.  The paper was brown and the pencil marks were faded.  Because of this, I scanned it twice.  The first two images, below, are the "original" scan.  The secord two images are the same pages put through the "magic" filter to enhance readability.<br /><br />I have put my own comments in parenthesis.
 # story: 
 # ingredientsimage: assets/images/general/noimage.jpg
 ingredients:
