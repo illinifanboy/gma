@@ -6,7 +6,7 @@ title: Cheesecake
 handwritten: 
   - image: assets/images/handwritten/cheesecakedark-sm.jpg
   - image: assets/images/handwritten/cheesecake-sm.jpg
-review: This recipe will be very difficult to make because Milnot is not readily available.
+review: This recipes calls for Milnot which is no longer available.  Substitue with a "filled" evaporated milk.  Harris Teeter carries something called "Evaporated Filled Milk" from a brand named "Sunshine".
 # story: 
 # ingredientsimage: assets/images/general/noimage.jpg
 #ingredients:
