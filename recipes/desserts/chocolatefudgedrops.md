@@ -11,13 +11,34 @@ handwritten:
 review: I have not tried this recipe yet.<br /><br />As you can see below, this recipe was not in great shape.  The paper was brown and the pencil marks were faded.  Because of this, I scanned it twice.  The first two images, below, are the "original" scan.  The secord two images are the same pages put through the "magic" filter to enhance readability.
 # story: 
 # ingredientsimage: assets/images/general/noimage.jpg
-#ingredients:
-#  - name: Ingredient 1
-#    amount: Amount 1
-#    note: Note 1
-#  - name: Ingredient 2
-#    amount: Amount 2
-#    note: 
+ingredients:
+  - name: Semi-sweet Chocolate
+    amount: 1 package
+    note: Melted
+  - name: Flour 
+    amount: 1-1/2 cups
+    note: Sifted
+  - name: Baking Powder
+    amount: 1/2 tsp. (I think)
+    note: Was hard to read.
+  - name: Salt
+    amount: 1/2 tsp. (I think)
+    note: Was hard to read.
+  - name: Shortening 
+    amount: 1/2 cup
+    note: 
+  - name: Brown Sugar 
+    amount: 1/2 cup
+    note: 
+  - name: Eggs
+    amount: 2
+    note: 
+  - name: Vanilla
+    amount: 1/2 tsp.
+    note: 
+  - name: Chpped Nuts
+    amount: 1/2 cup
+    note: 
     
 #steps:
 #  - header: Step 1
