@@ -57,7 +57,7 @@ steps:
     text: Push down slightly.
 #    image: 
   - header: Bake
-    text: Bake 6-8 minutes at 400 degrees
+    text: Bake 6-8 minutes at 400 degrees.
 #    image: 
 ---
 
