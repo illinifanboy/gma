@@ -8,13 +8,43 @@ handwritten:
 # review: Not yet tried.  This recipe is typed, but I am calling this handwritten.
 # story: 
 # ingredientsimage: assets/images/general/noimage.jpg
-#ingredients:
-#  - name: Ingredient 1
-#    amount: Amount 1
-#    note: Note 1
-#  - name: Ingredient 2
-#    amount: Amount 2
-#    note: 
+ingredients:
+  - name: Sugar
+    amount: 1 cup
+    note: 
+  - name: Brown Sugar
+    amount: 1 cup
+    note: 
+  - name: Salt
+    amount: 1/2 tsp.
+    note: 
+  - name: Baking Soda
+    amount: 1 tsp.
+    note: 
+  - name: Butter
+    amount: 1 cup
+    note: Not margarine.
+  - name: Eggs
+    amount: 2
+    note: 
+  - name: Baking Powder
+    amount: 1 tsp.
+    note: 
+  - name: Vanilla
+    amount: 1 tsp.
+    note: 
+  - name: Oatmeal
+    amount: 1-1/2 cups
+    note: 
+  - name: Nuts
+    amount: 3/4 cup
+    note: 
+  - name: Flout
+    amount: 2-1/2 to 3 cups
+    note: 
+  - name: Chocolate
+    amount: 8 ounces
+    note: Chips or broken bar
     
 #steps:
 #  - header: Step 1
