@@ -44,7 +44,7 @@ Jump to **[\<Clips\>](#newspaper-and-magazine-clips)**.  These are recipe clippi
 [Chocolate Chip Cookies](./recipes/desserts/chocolatechipcookies.md) | &#x1F4DC;
 [Chocolate Cookies](./recipes/desserts/chocolatecookies.md) | &#x1F4DC;&#x1F44D;
 [Chocolate Frosting](./recipes/desserts/chocolatefrosting.md) | &#x1F4DC;
-[Chocolate Fudge Drops](./recipes/desserts/chocolatefudgedrops.md) | &#x1F4DC;
+[Chocolate Fudge Drops](./recipes/desserts/chocolatefudgedrops.md) | &#x1F3AB;
 [Chocolate Marble Cake](./recipes/desserts/chocolatemarblecake.md) | &#x1F4DC;
 [Cheese Pie](./recipes/desserts/cheesepie.md) | &#x1F4DC;
 [Cheesecake](./recipes/desserts/cheesecake.md) | &#x1F4DC;
