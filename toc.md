@@ -35,6 +35,7 @@ Jump to **[\<Clips\>](#newspaper-and-magazine-clips)**.  These are recipe clippi
 [Apple Sauce Cake I](./recipes/desserts/applesaucecake.md) | &#x1F4DC;
 [Apple Sauce Cake II](./recipes/desserts/applesaucecakeagain.md) | &#x1F4DC;
 [Apricot Cookies](./recipes/desserts/apricotcookies.md) | &#x1F4DC;
+[Bread Pudding](./recipes/desserts/breadpudding.md) | &#x1F4DC;
 [Breakfast Cake](./recipes/desserts/breakfastcake.md) | &#x1F4DC;
 [Cake-n-Cheesecake](./recipes/desserts/cakeandcheesecake.md) | &#x1F4DC;
 [Caramel Pecan Pie](./recipes/desserts/caramelpecanpie.md) | &#x1F4DC;
@@ -190,7 +191,7 @@ Jump to **[\<Clips\>](#newspaper-and-magazine-clips)**.  These are recipe clippi
 
 Date | Change
 ---|---
-September 17, 2024 | Pinch Rolls, Peanut Butter Krunch, Heath Bar Candy Cake, Fudge, Meringue II, Croissants, Pierogi, Bread Sticks, Cake-n-Cheesecake, Marshmallow Fudge, Coconut Cherry Drops, Cherry Winks, Strawberry Chiffon Pie, Strawberry Cream Pie, Strawberry and Cream Pie, Mrs. Fields Cookies.
+September 17, 2024 | Pinch Rolls, Peanut Butter Krunch, Heath Bar Candy Cake, Fudge, Meringue II, Croissants, Pierogi, Bread Sticks, Cake-n-Cheesecake, Marshmallow Fudge, Coconut Cherry Drops, Cherry Winks, Strawberry Chiffon Pie, Strawberry Cream Pie, Strawberry and Cream Pie, Mrs. Fields Cookies, Bread Pudding.
 August 2, 2024 | Chili, Custard Pie.
 July 27, 2024 | Rice Casserole.
 July 24, 2024 | Duck soup, Pirozki, Peach Pie, Pie Crust.
