@@ -46,16 +46,19 @@ ingredients:
     amount: 8 ounces
     note: Chips or broken bar
     
-#steps:
-#  - header: Step 1
-#    text: The text that says what to do 1.
+steps:
+  - header: Mix Everything
+    text: Mix all ingredients together.  Use a mixer for smooth texture.
 #    image: assets/images/general/noimage.jpg
-#  - header: Step 2
-#    text: The text that says what to do 2.
-    # image: 
-#  - header: Step 3
-#    text: The text that says what to do 3.
-#    image: assets/images/general/noimage.jpg
+  - header: Shape
+    text: Shape into golf ball size balls.  Place on greased cookie sheet.
+#    image: 
+  - header: Flatten
+    text: Push down slightly.
+#    image: 
+  - header: Bake
+    text: Bake 6-8 minutes at 400 degrees
+#    image: 
 ---
 
 {::comment}========================={:/comment}
