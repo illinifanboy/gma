@@ -152,7 +152,7 @@ Jump to **[\<Clips\>](#newspaper-and-magazine-clips)**.  These are recipe clippi
 
 |Recipe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Flags&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 -------------|---
-[Dry Cheese](./recipes/canning/drycheese.md) | &#x1F4DC; 
+[Dry Cheese](./recipes/other/drycheese.md) | &#x1F4DC; 
 [Roach Balls <font color=darkred>(Not Food !!!)</font>](./recipes/other/roachballs.md) | &#x1F4DC;
 [Varnish Remover <font color=darkred>(Not Food !!!)</font>](./recipes/other/varnishremover.md) | &#x1F4DC;
 
