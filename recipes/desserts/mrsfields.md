@@ -39,7 +39,7 @@ ingredients:
   - name: Nuts
     amount: 3/4 cup
     note: 
-  - name: Flout
+  - name: Flour
     amount: 2-1/2 to 3 cups
     note: 
   - name: Chocolate
