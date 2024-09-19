@@ -2,11 +2,11 @@
 layout: page
 title: Mrs. Fields Cookies
 # blurb: A short, one-line introduction
-# finalproduct: assets/images/general/noimage.jpg
+finalproduct: assets/images/recipes/mrsfields/mrsfieldsfinalproduct-sm.jpg
 handwritten: 
   - image: assets/images/handwritten/mrsfields-sm.jpg 
 review: I tried this.  Makes a perfectly acceptable chocolate chip cookie but nothing to write home about.
-# story: 
+story: The steps from the original, handwritten recipe are labeled with 'Gma-'.  My own versions of the steps are labeled with 'Steve-'. 
 ingredientsimage: assets/images/recipes/mrsfields/mrsfieldsingreds-sm.jpg
 ingredients:
   - name: Sugar
@@ -47,18 +47,45 @@ ingredients:
     note: Chips or broken bar
     
 steps:
-  - header: Mix Everything
+  - header: Gma - Mix Everything
     text: Mix all ingredients together.  Use a mixer for smooth texture.
 #    image: assets/images/general/noimage.jpg
-  - header: Shape
+  - header: Gma - Shape
     text: Shape into golf ball size balls.  Place on greased cookie sheet.
 #    image: 
-  - header: Flatten
+  - header: Gma - Flatten
     text: Push down slightly.
 #    image: 
-  - header: Bake
+  - header: Gma - Bake
     text: Bake 6-8 minutes at 400 degrees.
 #    image: 
+  - header: Steve - Cream
+    text: Soften the butter.  Cream the butter with the sugars.
+    image: assets/images/recipes/mrsfields/mrsfieldscream-sm.jpg
+  - header: Steve - Eggs
+    text: Lightly beat the eggs and add them to the creamed mixture.
+    # image: assets/images/recipes/mrsfields/mrsfieldscream-sm.jpg
+  - header: Steve - Add the Rest
+    text: Mix in everything else except the oats, flour, nuts and chocolate.
+    # image: assets/images/recipes/mrsfields/mrsfieldscream-sm.jpg
+  - header: Steve - Add the Oats
+    text: Mix in the oats.
+    # image: assets/images/recipes/mrsfields/mrsfieldscream-sm.jpg
+  - header: Steve - Add the Flour
+    text: Mix in the flour a little at a time.
+    # image: assets/images/recipes/mrsfields/mrsfieldscream-sm.jpg
+  - header: Steve - Nuts and Chocolate
+    text: Fold in the nuts and the chocolate chips/pieces.
+    # image: assets/images/recipes/mrsfields/mrsfieldscream-sm.jpg
+  - header: Steve - Shape
+    text: Shape into golf ball size balls.  Place on greased cookie sheet.
+#    image: 
+  - header: Steve - Flatten
+    text: Push down slightly.
+    image: assets/images/recipes/mrsfields/mrsfieldsready-sm.jpg 
+  - header: Steve - Bake
+    text: Bake 6-8 minutes at 400 degrees.
+    image: assets/images/recipes/mrsfields/mrsfieldsintheoven-sm.jpg
 ---
 
 {::comment}========================={:/comment}
