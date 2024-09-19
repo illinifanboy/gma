@@ -4,10 +4,10 @@ title: Mrs. Fields Cookies
 # blurb: A short, one-line introduction
 # finalproduct: assets/images/general/noimage.jpg
 handwritten: 
-  - image: assets/images/handwritten/mrsfields-sm.jpg
-# review: Not yet tried.  This recipe is typed, but I am calling this handwritten.
+  - image: assets/images/handwritten/mrsfields-sm.jpg 
+review: I tried this.  Makes a perfectly acceptable chocolate chip cookie but nothing to write home about.
 # story: 
-# ingredientsimage: assets/images/general/noimage.jpg
+ingredientsimage: assets/images/recipes/mrsfields/mrsfieldsingreds-sm.jpg
 ingredients:
   - name: Sugar
     amount: 1 cup
