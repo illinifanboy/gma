@@ -67,7 +67,7 @@ Jump to **[\<Clips\>](#newspaper-and-magazine-clips)**.  These are recipe clippi
 [Marshmallow Cream Fudge](./recipes/desserts/marshmallowcreamfudge.md) |  &#x1F4DC;
 [Meringue](./recipes/desserts/meringue.md) |  &#x1F4DC;
 [Meringue II](./recipes/desserts/meringuetwo.md) |  &#x1F4DC;
-[Mrs. Fields Cookies](./recipes/desserts/mrsfields.md) |  &#x1F4DC;
+[Mrs. Fields Cookies](./recipes/desserts/mrsfields.md) |  &#x1F3AB;&#x1F9EA;&#x1F44D;
 [Nut Roll](./recipes/desserts/nutroll.md) |  &#x1F4DC;
 [Oatmeal Cookies](./recipes/desserts/oatmealcookies.md) | &#x1F3AB;&#x1F9EA;&#x1F44D;
 [Orange Cake](./recipes/desserts/orangecake.md) | &#x1F3AB;
