@@ -79,10 +79,10 @@ steps:
     # image: assets/images/recipes/mrsfields/mrsfieldscream-sm.jpg
   - header: Steve - Shape
     text: Shape into golf ball size balls.  Place on greased cookie sheet.
-#    image: 
+    image: assets/images/recipes/mrsfields/mrsfieldsready-sm.jpg 
   - header: Steve - Flatten
     text: Push down slightly.
-    image: assets/images/recipes/mrsfields/mrsfieldsready-sm.jpg 
+    # image: assets/images/recipes/mrsfields/mrsfieldsready-sm.jpg 
   - header: Steve - Bake
     text: Bake 6-8 minutes at 400 degrees.
     image: assets/images/recipes/mrsfields/mrsfieldsintheoven-sm.jpg
