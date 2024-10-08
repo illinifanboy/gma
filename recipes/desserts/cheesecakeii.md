@@ -54,10 +54,10 @@ ingredients:
     
 steps:
   - header: Mix the shell. 
-    text: Mix the graham crack crumbs, 1 tablespoon of sugar and cinnamon (I used 1/2 teaspoon).
+    text: Mix the graham cracker crumbs, 1 tablespoon of sugar, and the cinnamon (I used 1/2 teaspoon).
     image: assets/images/recipes/cheesecakeii/ck2crumbs-sm.jpg
-  - header: Put crumbs in pan.
-    text: Put crumb mixture into a pie pan. The recipe says to use an 8 inch pan.  I used a 9 inch pie pan.  The recipe also says to save half of the crumbs to use as a topping.  I only saved one quarter and still had too much. Chill the shell.
+  - header: Put crumbs into pie pan.
+    text: Put crumb mixture into a pie pan. The recipe says to use an "8 inch pan".  I used a 9 inch pie pan.  The recipe also says to save half of the crumbs to use as a topping.  I only saved one quarter and still had too much. Chill the shell.
     image: assets/images/recipes/cheesecakeii/ck2crust-sm.jpg
   - header: Mix custard ingredients.
     text: In a small saucepan, mix the milk, sugar, egg and salt.
@@ -66,11 +66,10 @@ steps:
     text: Cook until thick stirring constantly [this only thickens slightly].
     image: assets/images/recipes/cheesecakeii/ck2custardcooking-sm.jpg
   - header: Soak the gelatin.
-    text: In a small bowl, mix the gelatin and water and sit aside.
+    text: In a small bowl, mix the gelatin and water.
     image: assets/images/recipes/cheesecakeii/ck2gel-sm.jpg
   - header: Add gelatin to custard.
     text: Add the soaked gelatin to the hot custard.
-    image: assets/images/recipes/cheesecakeii/ck2gel-sm.jpg
   - header: Cool the custard.
     text: Custard needs to cool until no longer warm. 
   - header: Mix the cream cheese. 
@@ -83,12 +82,14 @@ steps:
     image: assets/images/recipes/cheesecakeii/ck2fold-sm.jpg
   - header: Fill the shell.
     text: Pour the cream cheese mixture into the pie shell.
-    image: assets/images/recipes/cheesecakeii/ck2shell-sm.jpg
+    image: assets/images/recipes/cheesecakeii/ck2fillshell-sm.jpg
   - header: Add topping.
     text: Sprinkle reserved crumbs onto the pie.
     image: assets/images/recipes/cheesecakeii/ck2finalpie2-sm.jpg
   - header: Chill.
-    text: Chill the pie until good and firm.  Enjoy!
+    text: Chill the pie until good and firm.  
+  - header: Enjoy!
+    text: Fruit is highly recommended.
     image: assets/images/recipes/cheesecakeii/ck2finalpie-sm.jpg
 ---
 
