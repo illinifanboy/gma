@@ -5,7 +5,7 @@ blurb: The recipe says cheesecake, but it really is more of a cheese pie based o
 finalproduct: assets/images/recipes/cheesecakeii/ck2slice-sm.jpg
 handwritten: 
   - image: assets/images/handwritten/cheesecakeii-sm.jpg
-review: This made a good dessert.  It is more of a vanilla custard pie than a cheesecake.  The texture is very light.  The cream cheese flavor is very slight.  It needs to be served with fresh (unsweetened) fruit to cut the sweetness and to add some flavor to the vanilla custard.
+review: This made a good dessert.  It is more of a vanilla custard pie than a cheesecake.  The texture is very light.  The cream cheese flavor is minimal.  It needs to be served with fresh (unsweetened) fruit to cut the sweetness and to add some flavor to the vanilla custard.
 story: This recipe was one of the few that was typed.  My Grandmother never used a typewriter, so this was probably given to her by a friend. 
 # ingredientsimage: assets/images/general/noimage.jpg
 ingredients:
