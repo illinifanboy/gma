@@ -76,7 +76,7 @@ steps:
   - header: Mix the cream cheese. 
     text: Mix the softened cream cheese, vanilla, and lemon juice.
   - header: Whip the cream.
-    text: Whip the whipping cream until thick.  Hint: use a freezing-cold bowl.
+    text: Whip the whipping cream until thick.  Using a freezing-cold bowl helps.
     image: assets/images/recipes/cheesecakeii/ck2freezer-sm.jpg
   - header: Fold-in the cream.
     text: Fold the whipped cream into the custard.
