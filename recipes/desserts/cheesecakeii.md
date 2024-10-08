@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Cheesecake II
-blurb: The recipe says Cheesecake, but it really is more of a cheese pie based on a vanilla custard.
+blurb: The recipe says cheesecake, but it really is more of a cheese pie based on a vanilla custard.
 # finalproduct: assets/images/general/noimage.jpg
 handwritten: 
   - image: assets/images/handwritten/cheesecakeii-sm.jpg
@@ -29,7 +29,7 @@ ingredients:
     note: 
   - name: Cream Cheese
     amount: Two 3-ounce packages.
-    note: 6 ounces
+    note: 6 ounces softened
   - name: Vanilla
     amount: 1 teaspoon
     note: 
@@ -52,16 +52,16 @@ ingredients:
     amount: 3 tablespoons
     note: For crust
     
-#steps:
-#  - header: Step 1
-#    text: The text that says what to do 1.
-#    image: assets/images/general/noimage.jpg
-#  - header: Step 2
-#    text: The text that says what to do 2.
-    # image: 
-#  - header: Step 3
-#    text: The text that says what to do 3.
-#    image: assets/images/general/noimage.jpg
+steps:
+  - header: Mix custard ingredients.
+    text: In a small saucepan, mix the milk, sugar, egg and salt.
+    image: assets/images/recipes/cheesecakeii/ck2custardingreds-sm.jpg
+  - header: Cook custard.
+    text: Cook until thick stirring constantly [this only thickens slightly].
+    image: assets/images/recipes/cheesecakeii/ck2custardcooking-sm.jpg
+  - header: Cook custard.
+    text: Custard needs to cool until no longer warm.
+    image: 
 ---
 
 {::comment}========================={:/comment}
