@@ -41,14 +41,14 @@ Jump to **[\<Clips\>](#newspaper-and-magazine-clips)**.  These are recipe clippi
 [Caramel Pecan Pie](./recipes/desserts/caramelpecanpie.md) | &#x1F4DC;
 [Cherry Coke Cake](./recipes/desserts/cherrycokecake.md) | &#x1F4DC;
 [Cherry Winks](./recipes/desserts/cherrywinks.md) | &#x1F4DC;
+[Cheese Pie](./recipes/desserts/cheesepie.md) | &#x1F4DC;
+[Cheesecake](./recipes/desserts/cheesecake.md) | &#x1F4DC;
+[Cheesecake II](./recipes/desserts/cheesecakeii.md) | &#x1F3AB;&#x1F9EA;&#x1F44D;
 [Chocolate Chip Cookies](./recipes/desserts/chocolatechipcookies.md) | &#x1F4DC;
 [Chocolate Cookies](./recipes/desserts/chocolatecookies.md) | &#x1F4DC;&#x1F44D;
 [Chocolate Frosting](./recipes/desserts/chocolatefrosting.md) | &#x1F4DC;
 [Chocolate Fudge Drops](./recipes/desserts/chocolatefudgedrops.md) | &#x1F3AB;
 [Chocolate Marble Cake](./recipes/desserts/chocolatemarblecake.md) | &#x1F4DC;
-[Cheese Pie](./recipes/desserts/cheesepie.md) | &#x1F4DC;
-[Cheesecake](./recipes/desserts/cheesecake.md) | &#x1F4DC;
-[Cheesecake II](./recipes/desserts/cheesecakeii.md) | &#x1F4DC;
 [Coconut Cherry Drops](./recipes/desserts/coconutcherrydrops.md) | &#x1F4DC;
 [Coconut Islands](./recipes/desserts/coconutislands.md) | &#x1F3AB;&#x1F9EA;
 [Cream Cheese Cake](./recipes/desserts/creamcheesecake.md) | &#x1F4DC;
