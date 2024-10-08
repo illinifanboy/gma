@@ -6,7 +6,7 @@ finalproduct: assets/images/recipes/cheesecakeii/ck2slice-sm.jpg
 handwritten: 
   - image: assets/images/handwritten/cheesecakeii-sm.jpg
 review: This made a good dessert.  It is more of a vanilla custard pie than a cheesecake.  The texture is very light.  The cream cheese flavor is minimal.  It needs to be served with fresh (unsweetened) fruit to cut the sweetness and to add some flavor to the vanilla custard.
-story: This recipe was one of the few that was typed.  My Grandmother never used a typewriter, so this was probably given to her by a friend. 
+story: This recipe was one of the few that was typed.  My Grandmother never used a typewriter with her recipes, so this was probably given to her by a friend. 
 # ingredientsimage: assets/images/general/noimage.jpg
 ingredients:
   - name: Milk
@@ -70,10 +70,12 @@ steps:
     image: assets/images/recipes/cheesecakeii/ck2gel-sm.jpg
   - header: Add gelatin to custard.
     text: Add the soaked gelatin to the hot custard.
-  - header: Cool the custard.
-    text: Custard needs to cool until no longer warm. 
   - header: Mix the cream cheese. 
     text: Mix the softened cream cheese, vanilla, and lemon juice.
+  - header: Add to custard. 
+    text: Mix the cream cheese mix to the hot custard.
+  - header: Cool the custard.
+    text: Custard needs to be completely cool before adding the whipped cream. 
   - header: Whip the cream.
     text: Whip the whipping cream until thick.  Using a freezing-cold bowl helps.
     image: assets/images/recipes/cheesecakeii/ck2freezer-sm.jpg
