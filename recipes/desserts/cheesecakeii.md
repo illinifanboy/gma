@@ -1,20 +1,56 @@
 ---
 layout: page
 title: Cheesecake II
-# blurb: A short, one-line introduction
+blurb: The recipe says Cheesecake, but it really is more of a cheese pie based on a vanilla custard.
 # finalproduct: assets/images/general/noimage.jpg
 handwritten: 
   - image: assets/images/handwritten/cheesecakeii-sm.jpg
-# review: Not yet reviewed.
-# story: 
+review: This made a good dessert.  It is more of a vanilla custard pie than a cheesecake.  The cream cheese flavor is very slight.  It needs to be served with fresh (unsweetened) fruit to cut the sweetness and to add some flavor to the vanilla custard.
+story: This recipe was one of the few that was typed.  My Grandmother never used a typewriter, so this was probably given to her by a friend. 
 # ingredientsimage: assets/images/general/noimage.jpg
-#ingredients:
-#  - name: Ingredient 1
-#    amount: Amount 1
-#    note: Note 1
-#  - name: Ingredient 2
-#    amount: Amount 2
-#    note: 
+ingredients:
+  - name: Milk
+    amount: 1 cup
+    note: 
+  - name: Sugar 
+    amount: 1 cup
+    note: 
+  - name: Egg
+    amount: 1
+    note: 
+  - name: Salt
+    amount: To taste
+    note: 
+  - name: Gelatin
+    amount: 1 envelope
+    note: Recipe says use Knox
+  - name: Cold Water
+    amount: 1/4 cup
+    note: 
+  - name: Cream Cheese
+    amount: Two 3-ounce packages.
+    note: 6 ounces
+  - name: Vanilla
+    amount: 1 teaspoon
+    note: 
+  - name: Lemon Juice
+    amount: 2 teaspoons
+    note: 
+  - name: Whipping Cream
+    amount: 1/2 pint
+    note: 
+  - name: Graham Cracker Crumbs
+    amount: 1-1/2 cups
+    note: For crust
+  - name: Sugar
+    amount: 1 tablespoon
+    note: For crust
+  - name: Cinnamon
+    amount: To taste
+    note: For crust
+  - name: Butter, melted
+    amount: 3 tablespoons
+    note: For crust
     
 #steps:
 #  - header: Step 1

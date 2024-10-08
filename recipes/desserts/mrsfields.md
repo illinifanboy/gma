@@ -5,7 +5,7 @@ title: Mrs. Fields Cookies
 finalproduct: assets/images/recipes/mrsfields/mrsfieldsfinalproduct-sm.jpg
 handwritten: 
   - image: assets/images/handwritten/mrsfields-sm.jpg 
-review: I tried this.  Makes a perfectly acceptable chocolate chip cookie but nothing to write home about.
+review: I tried this.  Makes a perfectly decent chocolate chip cookie - my wife says they are excellent. 
 story: The steps from the original, handwritten recipe are labeled with 'Gma-'.  My own versions of the steps are labeled with 'Steve-'. 
 ingredientsimage: assets/images/recipes/mrsfields/mrsfieldsingreds-sm.jpg
 ingredients:
