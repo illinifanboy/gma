@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Cheesecake II
-blurb: The recipe says cheesecake, but it really is more of a cheese pie based on a vanilla custard.
-# finalproduct: assets/images/general/noimage.jpg
+blurb: The recipe says cheesecake, but it really is more of a cheese pie based on a vanilla custard. 
+finalproduct: assets/images/recipes/cheesecakeii/ck2slice-sm.jpg
 handwritten: 
   - image: assets/images/handwritten/cheesecakeii-sm.jpg
-review: This made a good dessert.  It is more of a vanilla custard pie than a cheesecake.  The cream cheese flavor is very slight.  It needs to be served with fresh (unsweetened) fruit to cut the sweetness and to add some flavor to the vanilla custard.
+review: This made a good dessert.  It is more of a vanilla custard pie than a cheesecake.  The texture is very light.  The cream cheese flavor is very slight.  It needs to be served with fresh (unsweetened) fruit to cut the sweetness and to add some flavor to the vanilla custard.
 story: This recipe was one of the few that was typed.  My Grandmother never used a typewriter, so this was probably given to her by a friend. 
 # ingredientsimage: assets/images/general/noimage.jpg
 ingredients:
@@ -53,15 +53,43 @@ ingredients:
     note: For crust
     
 steps:
+  - header: Mix the shell. 
+    text: Mix the graham crack crumbs, 1 tablespoon of sugar and cinnamon (I used 1/2 teaspoon).
+    image: assets/images/recipes/cheesecakeii/ck2crumbs-sm.jpg
+  - header: Put crumbs in pan.
+    text: Put crumb mixture into a pie pan. The recipe says to use an 8 inch pan.  I used a 9 inch pie pan.  The recipe also says to save half of the crumbs to use as a topping.  I only saved one quarter and still had too much. Chill the shell.
+    image: assets/images/recipes/cheesecakeii/ck2crust-sm.jpg
   - header: Mix custard ingredients.
     text: In a small saucepan, mix the milk, sugar, egg and salt.
     image: assets/images/recipes/cheesecakeii/ck2custardingreds-sm.jpg
   - header: Cook custard.
     text: Cook until thick stirring constantly [this only thickens slightly].
     image: assets/images/recipes/cheesecakeii/ck2custardcooking-sm.jpg
-  - header: Cook custard.
-    text: Custard needs to cool until no longer warm.
-    image: 
+  - header: Soak the gelatin.
+    text: In a small bowl, mix the gelatin and water and sit aside.
+    image: assets/images/recipes/cheesecakeii/ck2gel-sm.jpg
+  - header: Add gelatin to custard.
+    text: Add the soaked gelatin to the hot custard.
+    image: assets/images/recipes/cheesecakeii/ck2gel-sm.jpg
+  - header: Cool the custard.
+    text: Custard needs to cool until no longer warm. 
+  - header: Mix the cream cheese. 
+    text: Mix the softened cream cheese, vanilla, and lemon juice.
+  - header: Whip the cream.
+    text: Whip the whipping cream until thick.  Hint: use a freezing-cold bowl.
+    image: assets/images/recipes/cheesecakeii/ck2freezer-sm.jpg
+  - header: Fold-in the cream.
+    text: Fold the whipped cream into the custard.
+    image: assets/images/recipes/cheesecakeii/ck2fold-sm.jpg
+  - header: Fill the shell.
+    text: Pour the cream cheese mixture into the pie shell.
+    image: assets/images/recipes/cheesecakeii/ck2shell-sm.jpg
+  - header: Add topping.
+    text: Sprinkle reserved crumbs onto the pie.
+    image: assets/images/recipes/cheesecakeii/ck2finalpie2-sm.jpg
+  - header: Chill.
+    text: Chill the pie until good and firm.  Enjoy!
+    image: assets/images/recipes/cheesecakeii/ck2finalpie-sm.jpg
 ---
 
 {::comment}========================={:/comment}
