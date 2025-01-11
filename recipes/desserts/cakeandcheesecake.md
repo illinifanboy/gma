@@ -6,15 +6,48 @@ title: Cake-n-Cheesecake
 handwritten: 
   - image: assets/images/handwritten/cakeandcheesecake-sm.jpg
 # review: Not yet reviewed.
-# story: 
+story: I had to find something on the internet to flesh out this recipe.  They call this a recipe from 1954. 
 # ingredientsimage: assets/images/general/noimage.jpg
-#ingredients:
-#  - name: Ingredient 1
-#    amount: Amount 1
-#    note: Note 1
-#  - name: Ingredient 2
-#    amount: Amount 2
-#    note: 
+ingredients:
+  - name: Cream Cheese
+    amount: One eight ounce package
+    note: For topping.
+  - name: Sour Cream
+    amount: 1/2 cup
+    note: For topping.
+  - name: Vanilla
+    amount: 1 teaspoon
+    note: For topping.
+  - name: Unbeaten eggs.
+    amount: 2 eggs
+    note: For topping.
+  - name: Sugar
+    amount: 2/3 cup
+    note: For topping.
+  - name: All purpose flour
+    amount: 1 cup
+    note: For cake.
+  - name: Baking Powder
+    amount: 1 teaspoon
+    note: For cake.
+  - name: Salt
+    amount: 1/2 teaspoon
+    note: For cake.
+  - name: Margarine
+    amount: 1/2 cup
+    note: For cake.
+  - name: Sugar
+    amount: 2/3 cup
+    note: For cake.
+  - name: Eggs
+    amount: 2 eggs
+    note: For cake.
+  - name: Milk
+    amount: 1 tablespoon
+    note: For cake.
+  - name: Vanilla
+    amount: 1 teaspoon
+    note: For cake.
     
 #steps:
 #  - header: Step 1
