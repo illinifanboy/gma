@@ -75,7 +75,7 @@ steps:
     text: Stir in dry ingredients.
     # image: assets/images/general/noimage.jpg
   - header: Cake Step 6
-    text: Grease and flour a 9-inch pice plan or 9 by 9 square pan.
+    text: Grease and flour a 9-inch pie plan or 9 by 9 square pan.
     # image: assets/images/general/noimage.jpg
   - header: Cake Step 7
     text: Spread cake batter over bottom and sides of pan.  Spread thinner on the sides.
