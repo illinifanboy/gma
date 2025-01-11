@@ -6,7 +6,7 @@ title: Cake-n-Cheesecake
 handwritten: 
   - image: assets/images/handwritten/cakeandcheesecake-sm.jpg
 # review: Not yet reviewed.
-story: I had to find something on the internet to flesh out this recipe.  They call this a recipe from 1954. 
+story: I had to find something on the internet (https://www.food.com/recipe/cake-n-cheesecake-147937) to flesh out this recipe especially the cooking steps.  They say this recipe is from 1954. 
 # ingredientsimage: assets/images/general/noimage.jpg
 ingredients:
   - name: Cream Cheese
@@ -49,16 +49,49 @@ ingredients:
     amount: 1 teaspoon
     note: For cake.
     
-#steps:
-#  - header: Step 1
-#    text: The text that says what to do 1.
+steps:
+  - header: Topping Step 1
+    text: Beat cream cheese and sugar together until well blended.
 #    image: assets/images/general/noimage.jpg
-#  - header: Step 2
-#    text: The text that says what to do 2.
+  - header: Topping Step 2
+    text: Mix in sour cream and vanilla.
     # image: 
-#  - header: Step 3
-#    text: The text that says what to do 3.
-#    image: assets/images/general/noimage.jpg
+  - header: Topping Step 3
+    text: Beat in eggs one at a time then set the topping mixture aside.
+    # image: assets/images/general/noimage.jpg
+  - header: Cake Step 1
+    text: Sift together flour, sugar, salt, and backing powder.  Set aside.
+    # image: assets/images/general/noimage.jpg
+  - header: Cake Step 2
+    text: Cream butter and sugar.
+    # image: assets/images/general/noimage.jpg
+  - header: Cake Step 3
+    text: Beat in eggs.
+    # image: assets/images/general/noimage.jpg
+  - header: Cake Step 4
+    text: Stir in milk and vanilla.
+    # image: assets/images/general/noimage.jpg
+  - header: Cake Step 5
+    text: Stir in dry ingredients.
+    # image: assets/images/general/noimage.jpg
+  - header: Cake Step 6
+    text: Grease and flour a 9-inch pice plan or 9 by 9 square pan.
+    # image: assets/images/general/noimage.jpg
+  - header: Cake Step 7
+    text: Spread cake batter over bottom and sides of pan.  Spread thinner on the sides.
+    # image: assets/images/general/noimage.jpg
+  - header: Cake Step 8
+    text: Spoon cheesecake topping over the batter.
+    # image: assets/images/general/noimage.jpg
+  - header: Cake Step 9
+    text: Back at 325 degrees for 50 minutes.
+    # image: assets/images/general/noimage.jpg
+  - header: Cake Step 10
+    text: Cool then refrigerate for 4 hours.
+    # image: assets/images/general/noimage.jpg
+  - header: Cake Step 11
+    text: Enjoy!
+    # image: assets/images/general/noimage.jpg
 ---
 
 {::comment}========================={:/comment}
