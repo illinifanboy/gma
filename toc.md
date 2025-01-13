@@ -37,7 +37,7 @@ Jump to **[\<Clips\>](#newspaper-and-magazine-clips)**.  These are recipe clippi
 [Apricot Cookies](./recipes/desserts/apricotcookies.md) | &#x1F4DC;
 [Bread Pudding](./recipes/desserts/breadpudding.md) | &#x1F4DC;
 [Breakfast Cake](./recipes/desserts/breakfastcake.md) | &#x1F4DC;
-[Cake-n-Cheesecake](./recipes/desserts/cakeandcheesecake.md) | &#x1F4DC;
+[Cake-n-Cheesecake](./recipes/desserts/cakeandcheesecake.md) | &#x1F3AB;&#x1F9EA;&#x1F44D;
 [Caramel Pecan Pie](./recipes/desserts/caramelpecanpie.md) | &#x1F4DC;
 [Cherry Coke Cake](./recipes/desserts/cherrycokecake.md) | &#x1F4DC;
 [Cherry Winks](./recipes/desserts/cherrywinks.md) | &#x1F4DC;
