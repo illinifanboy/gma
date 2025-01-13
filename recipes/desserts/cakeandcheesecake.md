@@ -53,7 +53,7 @@ ingredients:
 steps:
   - header: Topping Step 1
     text: Beat cream cheese and sugar together until well blended.
-#    image: assets/images/general/noimage.jpg
+  #    image: assets/images/general/noimage.jpg
   - header: Topping Step 2
     text: Mix in sour cream and vanilla.
     # image: 
