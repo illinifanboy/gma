@@ -79,7 +79,6 @@ steps:
     # image: assets/images/general/noimage.jpg
   - header: Cake Step 7
     text: Spread cake batter over bottom and sides of pan.  Spread thinner on the sides.
-    cncready-sm.jpg
     image: assets/images/recipes/cakencheesecake/cncfillable-sm.jpg
   - header: Cake Step 8
     text: Spoon cheesecake topping over the batter.
