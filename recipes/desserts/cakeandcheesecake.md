@@ -79,10 +79,11 @@ steps:
     # image: assets/images/general/noimage.jpg
   - header: Cake Step 7
     text: Spread cake batter over bottom and sides of pan.  Spread thinner on the sides.
-    # image: assets/images/recipes/cakencheesecake/cncready-sm.jpg
+    cncready-sm.jpg
+    image: assets/images/recipes/cakencheesecake/cncfillable-sm.jpg
   - header: Cake Step 8
     text: Spoon cheesecake topping over the batter.
-    # image: assets/images/general/noimage.jpg
+    image: assets/images/recipes/cakencheesecake/cncready-sm.jpg
   - header: Cake Step 9
     text: Bake at 325 degrees for 50 minutes.
     # image: assets/images/general/noimage.jpg
@@ -91,7 +92,7 @@ steps:
     # image: assets/images/general/noimage.jpg
   - header: Cake Step 11
     text: Enjoy!
-    # image: assets/images/recipes/cakencheesecake/cncslice-sm.jpg
+    image: assets/images/recipes/cakencheesecake/cncslice-sm.jpg
 ---
 
 {::comment}========================={:/comment}
