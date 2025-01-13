@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Cake-n-Cheesecake
-blurb: The basic idea here is to make a cheesecake that actual cake (more like a blondie) as its crust.
+blurb: The basic idea here is to make a cheesecake that has actual cake (more like a blondie) as its crust.
 finalproduct: assets/images/recipes/cakencheesecake/cncfinal-sm.jpg
 handwritten: 
   - image: assets/images/handwritten/cakeandcheesecake-sm.jpg
