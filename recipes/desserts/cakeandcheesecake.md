@@ -2,7 +2,8 @@
 layout: page
 title: Cake-n-Cheesecake
 # blurb: A short, one-line introduction
-finalproduct: image: assets/images/recipes/cakencheesecake/cncfinal-sm.jpg
+finalproduct: 
+  - image: assets/images/recipes/cakencheesecake/cncfinal-sm.jpg
 handwritten: 
   - image: assets/images/handwritten/cakeandcheesecake-sm.jpg
 # review: Not yet reviewed.
