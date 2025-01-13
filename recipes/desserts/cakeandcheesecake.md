@@ -2,12 +2,12 @@
 layout: page
 title: Cake-n-Cheesecake
 # blurb: A short, one-line introduction
-# finalproduct: assets/images/general/noimage.jpg
+finalproduct: image: assets/images/recipes/cakencheesecake/cncfinal-sm.jpg
 handwritten: 
   - image: assets/images/handwritten/cakeandcheesecake-sm.jpg
 # review: Not yet reviewed.
 story: I had to find something on the internet (https://www.food.com/recipe/cake-n-cheesecake-147937) to flesh out this recipe especially the cooking steps.  They say this recipe is from 1954. 
-# ingredientsimage: assets/images/general/noimage.jpg
+ingredientsimage: image: assets/images/recipes/cakencheesecake/cncingreds-sm.jpg
 ingredients:
   - name: Cream Cheese
     amount: One eight ounce package
@@ -79,19 +79,19 @@ steps:
     # image: assets/images/general/noimage.jpg
   - header: Cake Step 7
     text: Spread cake batter over bottom and sides of pan.  Spread thinner on the sides.
-    # image: assets/images/general/noimage.jpg
+    image: assets/images/recipes/cakencheesecake/cncready-sm.jpg
   - header: Cake Step 8
     text: Spoon cheesecake topping over the batter.
     # image: assets/images/general/noimage.jpg
   - header: Cake Step 9
-    text: Back at 325 degrees for 50 minutes.
+    text: Bake at 325 degrees for 50 minutes.
     # image: assets/images/general/noimage.jpg
   - header: Cake Step 10
     text: Cool then refrigerate for 4 hours.
     # image: assets/images/general/noimage.jpg
   - header: Cake Step 11
     text: Enjoy!
-    # image: assets/images/general/noimage.jpg
+    image: assets/images/recipes/cakencheesecake/cncslice-sm.jpg
 ---
 
 {::comment}========================={:/comment}

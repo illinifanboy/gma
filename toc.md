@@ -193,6 +193,7 @@ Jump to **[\<Clips\>](#newspaper-and-magazine-clips)**.  These are recipe clippi
 
 Date | Change
 ---|---
+January 13, 2025 | Cake-n-Cheesecake steps / images.
 September 17, 2024 | Pinch Rolls, Peanut Butter Krunch, Heath Bar Candy Cake, Fudge, Meringue II, Croissants, Pierogi, Bread Sticks, Cake-n-Cheesecake, Marshmallow Fudge, Coconut Cherry Drops, Cherry Winks, Strawberry Chiffon Pie, Strawberry Cream Pie, Strawberry and Cream Pie, Mrs. Fields Cookies, Bread Pudding, Cream Filling, Dry Cheese.
 August 2, 2024 | Chili, Custard Pie.
 July 27, 2024 | Rice Casserole.
