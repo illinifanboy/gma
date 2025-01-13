@@ -2,14 +2,12 @@
 layout: page
 title: Cake-n-Cheesecake
 # blurb: A short, one-line introduction
-finalproduct: 
-  - image: assets/images/recipes/cakencheesecake/cncfinal-sm.jpg
+finalproduct: assets/images/recipes/cakencheesecake/cncfinal-sm.jpg
 handwritten: 
   - image: assets/images/handwritten/cakeandcheesecake-sm.jpg
 # review: Not yet reviewed.
 story: I had to find something on the internet (https://www.food.com/recipe/cake-n-cheesecake-147937) to flesh out this recipe especially the cooking steps.  They say this recipe is from 1954. 
-ingredientsimage: 
-  - image: assets/images/recipes/cakencheesecake/cncingreds-sm.jpg
+ingredientsimage: assets/images/recipes/cakencheesecake/cncingreds-sm.jpg
 ingredients:
   - name: Cream Cheese
     amount: One eight ounce package
