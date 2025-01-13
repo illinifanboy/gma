@@ -1,12 +1,11 @@
 ---
 layout: page
 title: Cake-n-Cheesecake
-# blurb: A short, one-line introduction
+blurb: The basic idea here is to make a cheesecake that actual cake (more like a blondie) as its crust.
 finalproduct: assets/images/recipes/cakencheesecake/cncfinal-sm.jpg
 handwritten: 
   - image: assets/images/handwritten/cakeandcheesecake-sm.jpg
-# review: Not yet reviewed.
-story: I had to find something on the internet (https://www.food.com/recipe/cake-n-cheesecake-147937) to flesh out this recipe especially the cooking steps.  They say this recipe is from 1954.<br /><br />Unlike many of her recipes, I do remember her making this recipe.  I won't say that I nailed it.  The cake portion, effectively the crust, was like a chewy brownie.<br /><br />I enjoyed the result, I just which I could figure how to make the cake (crust) turn out better. 
+review: I had to find something on the internet (https://www.food.com/recipe/cake-n-cheesecake-147937) to flesh out this recipe especially the cooking steps.  They say this recipe is from 1954.<br /><br />Unlike many of her recipes, I do remember her making this recipe.  I won't say that I nailed it.  The cake portion, effectively the crust, was like a chewy brownie.<br /><br />I enjoyed the result, I just which I could figure how to make the cake (crust) turn out better. 
 ingredientsimage: assets/images/recipes/cakencheesecake/cncingreds-sm.jpg
 ingredients:
   - name: Cream Cheese
