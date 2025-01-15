@@ -31,23 +31,23 @@ ingredients:
     
 steps:
   - header: Bloom the yeast.
-    text: Sprinkle yeast into 1/4 cup water water.  Add 1 teaspoon of sugar.  Stir.
+    text: Sprinkle yeast into 1/4 cup warm water.  Add 1 teaspoon of sugar.  Stir.
 #    image: assets/images/general/noimage.jpg
-  - header: Mix all by Flour.
+  - header: Mix all but Flour.
     text: In large bowl, add remaining sugar, remaining water, and salt.  Add shortening and yeast mixture and mix well.
     # image: 
   - header: Add flour. 
     text: Add flour and mix well.
   - header: Intermittently stir the flour.
-    text: With a spoon, work through the dough 5 times.  What a 10 minute interval between each time you work the dough.  The Internet says this process allows the flour to absorb water and allows starches to become sugars. 
+    text: With a spoon, work through the dough 5 times.  Wait a 10 minute interval between each time you work the dough.  <br /><br />The Internet says this process allows the flour to absorb water and allows starches to become sugars. 
   - header: Rest the dough.
     text: Roll the dough into a ball and let it rest 10 minutes.
   - header: Roll the dough.
     text: Roll the ball of dough into a 12 by 9 rectangle.
   - header: Shape the bread.
-    text: Roll the rectangle as if you were creating a jelly roll.  Seal the edges.  <br />The Internet says sealing edges entails moistening the edge, pinching and pressing, folding in the piched edge, and resting the dough for a few minutes.
+    text: Roll the rectangle as if you were creating a jelly roll.  Seal the edges.  <br /><br />The Internet says sealing edges entails moistening the edge, pinching and pressing, folding in the piched edge, and resting the dough for a few minutes.
   - header: Place and score.
-    text: Place the bread on a cookie sheet and score the top diagnally 6 times.
+    text: Place the bread on a cookie sheet and score the top diagonally 6 times.
   - header: Rise
     text: Let rest for 1 1/2 hours.
   - header: Bake.
