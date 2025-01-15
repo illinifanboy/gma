@@ -7,26 +7,51 @@ handwritten:
   - image: assets/images/handwritten/frenchbread1-sm.jpg
   - image: assets/images/handwritten/frenchbread2-sm.jpg
 review: Not yet tried.  
-# story: 
+story: I am putting in ingredients / instructions for a 1/2 batch (one loaf) 
 # ingredientsimage: assets/images/general/noimage.jpg
-#ingredients:
-#  - name: Ingredient 1
-#    amount: Amount 1
-#    note: Note 1
-#  - name: Ingredient 2
-#    amount: Amount 2
-#    note: 
+ingredients:
+  - name: Dry Yeast
+    amount: 1/2 package (1/4 oz., 7 grams, or 1 1/8 teaspoons)
+    note: 
+  - name: Warm Water 
+    amount: 3/4 cups
+    note: 
+  - name: Salt
+    amount: 1 teaspoon
+    note: 
+  - name: Sugar
+    amount: 1 tablespoon
+    note: 
+  - name: Soft Shortening
+    amount: 1 cup
+    note: 
+  - name: Sifted Flour
+    amount: 3 cups
+    note: 
     
-#steps:
-#  - header: Step 1
-#    text: The text that says what to do 1.
+steps:
+  - header: Bloom the yeast.
+    text: Sprinkle yeast into 1/4 cup water water.  Add 1 teaspoon of sugar.  Stir.
 #    image: assets/images/general/noimage.jpg
-#  - header: Step 2
-#    text: The text that says what to do 2.
+  - header: Mix all by Flour.
+    text: In large bowl, add remaining sugar, remaining water, and salt.  Add shortening and yeast mixture and mix well.
     # image: 
-#  - header: Step 3
-#    text: The text that says what to do 3.
-#    image: assets/images/general/noimage.jpg
+  - header: Add flour. 
+    text: Add flour and mix well.
+  - header: Intermittently stir the flour.
+    text: With a spoon, work through the dough 5 times.  What a 10 minute interval between each time you work the dough.  The Internet says this process allows the flour to absorb water and allows starches to become sugars. 
+  - header: Rest the dough.
+    text: Roll the dough into a ball and let it rest 10 minutes.
+  - header: Roll the dough.
+    text: Roll the ball of dough into a 12 by 9 rectangle.
+  - header: Shape the bread.
+    text: Roll the rectangle as if you were creating a jelly roll.  Seal the edges.  <br />The Internet says sealing edges entails moistening the edge, pinching and pressing, folding in the piched edge, and resting the dough for a few minutes.
+  - header: Place and score.
+    text: Place the bread on a cookie sheet and score the top diagnally 6 times.
+  - header: Rise
+    text: Let rest for 1 1/2 hours.
+  - header: Bake.
+    text: Back at 400 degrees for 35 to 40 minutes.
 ---
 
 {::comment}========================={:/comment}
